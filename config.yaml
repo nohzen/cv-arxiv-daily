@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "nohzen"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -22,7 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
+    "SLAM":
         filters: ["SLAM", "Visual Odometry"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
@@ -33,7 +33,7 @@ keywords:
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
     "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
+        filters: ["Image Matching", "Keypoint Matching",
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
