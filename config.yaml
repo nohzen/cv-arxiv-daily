@@ -39,3 +39,13 @@ keywords:
         filters: ["NeRF"]
     "Gaussian Splatting":
         filters: ["Gaussian Splatting"]
+    "Stereo Matching":
+        filters: ["stereo", "disparity"]
+    "Monocular Depth Estimation":
+        filters: ["monocular depth", "depth estimation"]
+    "Optical flow":
+        filters: ["optical flow"]
+    "Object Tracking":
+        filters: ["tracking"]
+    "Defocus":
+        filters: ["defocus", "Depth of Field", "depth-of-field", "bokeh"]
