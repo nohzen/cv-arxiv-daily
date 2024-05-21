@@ -46,6 +46,6 @@ keywords:
     "Optical flow":
         filters: ["optical flow"]
     "Object Tracking":
-        filters: ["tracking"]
+        filters: ["object tracking", "point tracking"]
     "Defocus":
         filters: ["defocus", "Depth of Field", "depth-of-field", "bokeh"]
