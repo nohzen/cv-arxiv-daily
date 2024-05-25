@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -670,7 +670,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936](http://arxiv.org/abs/2405.11936)|null|
+|**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936](http://arxiv.org/abs/2405.11936)|**[link](https://github.com/intellisensing/uav-visloc)**|
 |**2024-05-19**|**Register assisted aggregation for Visual Place Recognition**|Xuan Yu et.al.|[2405.11526](http://arxiv.org/abs/2405.11526)|null|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
@@ -3010,7 +3010,7 @@ layout: default
 |**2024-05-23**|**Neuroexplicit Diffusion Models for Inpainting of Optical Flow Fields**|Tom Fischer et.al.|[2405.14599](http://arxiv.org/abs/2405.14599)|null|
 |**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
 |**2024-05-21**|**Weakly supervised alignment and registration of MR-CT for cervical cancer radiotherapy**|Jjahao Zhang et.al.|[2405.12850](http://arxiv.org/abs/2405.12850)|null|
-|**2024-05-21**|**Rethink Predicting the Optical Flow with the Kinetics Perspective**|Yuhao Cheng et.al.|[2405.12512](http://arxiv.org/abs/2405.12512)|null|
+|**2024-05-21**|**Rethink Predicting the Optical Flow with the Kinetics Perspective**|Yuhao Cheng et.al.|[2405.12512](http://arxiv.org/abs/2405.12512)|**[link](https://github.com/YuhaoCheng/OpticalFlow_Kinetic)**|
 |**2024-05-18**|**GestFormer: Multiscale Wavelet Pooling Transformer Network for Dynamic Hand Gesture Recognition**|Mallika Garg et.al.|[2405.11180](http://arxiv.org/abs/2405.11180)|**[link](https://github.com/mallikagarg/gestformer)**|
 |**2024-05-17**|**MicroBundlePillarTrack, A Python package for automated segmentation, tracking, and analysis of pillar deflection in cardiac microbundles**|Hiba Kobeissi et.al.|[2405.11096](http://arxiv.org/abs/2405.11096)|null|
 |**2024-05-16**|**Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation**|Guojun Liang et.al.|[2405.10995](http://arxiv.org/abs/2405.10995)|**[link](https://github.com/gorgen2020/hspgnn)**|
