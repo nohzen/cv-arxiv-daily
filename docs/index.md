@@ -3138,7 +3138,7 @@ layout: default
 |**2024-06-05**|**Reconciling Heterogeneous Effects in Causal Inference**|Audrey Chang et.al.|[2406.03575](http://arxiv.org/abs/2406.03575)|null|
 |**2024-06-05**|**MODABS: Multi-Objective Learning for Dynamic Aspect-Based Summarization**|Xiaobo Guo et.al.|[2406.03479](http://arxiv.org/abs/2406.03479)|null|
 |**2024-06-05**|**A Flexible Recursive Network for Video Stereo Matching Based on Residual Estimation**|Youchen Zhao et.al.|[2406.03333](http://arxiv.org/abs/2406.03333)|**[link](https://github.com/y0uchenz/recsm)**|
-|**2024-06-05**|**On the Maximal Local Disparity of Fairness-Aware Classifiers**|Jinqiu Jin et.al.|[2406.03255](http://arxiv.org/abs/2406.03255)|null|
+|**2024-06-05**|**On the Maximal Local Disparity of Fairness-Aware Classifiers**|Jinqiu Jin et.al.|[2406.03255](http://arxiv.org/abs/2406.03255)|**[link](https://github.com/mitao-cat/icml24_mcdp)**|
 |**2024-06-05**|**MMCL: Boosting Deformable DETR-Based Detectors with Multi-Class Min-Margin Contrastive Learning for Superior Prohibited Item Detection**|Mingyuan Li et.al.|[2406.03176](http://arxiv.org/abs/2406.03176)|**[link](https://github.com/anonymity0403/mmcl)**|
 |**2024-06-05**|**Instructing Prompt-to-Prompt Generation for Zero-Shot Learning**|Man Liu et.al.|[2406.03032](http://arxiv.org/abs/2406.03032)|null|
 |**2024-06-05**|**GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment**|Zhenyu Hou et.al.|[2406.02953](http://arxiv.org/abs/2406.02953)|null|
