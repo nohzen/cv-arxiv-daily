@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3353,7 +3353,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-03**|**Improved Three-Dimensional Reconstructions in Electron Ptychography through Defocus Series Measurements**|Marcel Schloz et.al.|[2406.01141](http://arxiv.org/abs/2406.01141)|null|
 |**2024-06-02**|**End-to-End Hybrid Refractive-Diffractive Lens Design with Differentiable Ray-Wave Model**|Xinge Yang et.al.|[2406.00834](http://arxiv.org/abs/2406.00834)|null|
-|**2024-05-31**|**In vivo fundus imaging and computational refocusing with a diffuser-based fundus camera**|Corey Simmerer et.al.|[2406.00122](http://arxiv.org/abs/2406.00122)|null|
+|**2024-06-07**|**In vivo fundus imaging and computational refocusing with a diffuser-based fundus camera**|Corey Simmerer et.al.|[2406.00122](http://arxiv.org/abs/2406.00122)|null|
 |**2024-05-31**|**Axial HoloTile: Extended Depth-of-Focus of Dynamic Holographic Light Projections**|Andreas Erik Gejl Madsen et.al.|[2405.20997](http://arxiv.org/abs/2405.20997)|null|
 |**2024-05-27**|**DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Refocusing,Defocus Rendering and Blur Removal**|Yujie Wang et.al.|[2405.17351](http://arxiv.org/abs/2405.17351)|null|
 |**2024-05-20**|**Stereo-Knowledge Distillation from dpMV to Dual Pixels for Light Field Video Reconstruction**|Aryan Garg et.al.|[2405.11823](http://arxiv.org/abs/2405.11823)|null|
