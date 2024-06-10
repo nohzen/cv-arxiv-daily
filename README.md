@@ -724,6 +724,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**|Eduard Poesina et.al.|[2406.04746](http://arxiv.org/abs/2406.04746)|**[link](https://github.com/eduard6421/pqpp)**|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835](http://arxiv.org/abs/2406.03835)|null|
 |**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411](http://arxiv.org/abs/2406.03411)|**[link](https://github.com/saehyung-lee/plugir)**|
@@ -1985,6 +1986,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961](http://arxiv.org/abs/2406.04961)|null|
+|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960](http://arxiv.org/abs/2406.04960)|null|
 |**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155](http://arxiv.org/abs/2406.04155)|null|
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101](http://arxiv.org/abs/2406.04101)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723](http://arxiv.org/abs/2406.03723)|null|
@@ -3158,6 +3161,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**ProMotion: Prototypes As Motion Learners**|Yawen Lu et.al.|[2406.04999](http://arxiv.org/abs/2406.04999)|null|
+|**2024-06-07**|**On the social bias of speech self-supervised models**|Yi-Cheng Lin et.al.|[2406.04997](http://arxiv.org/abs/2406.04997)|null|
+|**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647](http://arxiv.org/abs/2406.04647)|null|
+|**2024-06-06**|**Function and form of U.S. cities**|Sandro M. Reia et.al.|[2406.04543](http://arxiv.org/abs/2406.04543)|null|
+|**2024-06-06**|**TexIm FAST: Text-to-Image Representation for Semantic Similarity Evaluation using Transformers**|Wazib Ansar et.al.|[2406.04438](http://arxiv.org/abs/2406.04438)|null|
 |**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345](http://arxiv.org/abs/2406.04345)|**[link](https://github.com/bartn8/vppstereo)**|
 |**2024-06-06**|**Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation**|Honglei Zhang et.al.|[2406.03933](http://arxiv.org/abs/2406.03933)|null|
 |**2024-06-06**|**Knowledge Transfer, Knowledge Gaps, and Knowledge Silos in Citation Networks**|Eoghan Cunningham et.al.|[2406.03921](http://arxiv.org/abs/2406.03921)|null|
@@ -3238,6 +3246,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Normal-guided Detail-Preserving Neural Implicit Functions for High-Fidelity 3D Surface Reconstruction**|Aarya Patel et.al.|[2406.04861](http://arxiv.org/abs/2406.04861)|null|
+|**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647](http://arxiv.org/abs/2406.04647)|null|
+|**2024-06-06**|**MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation**|Ionuţ Grigore et.al.|[2406.04532](http://arxiv.org/abs/2406.04532)|null|
 |**2024-06-06**|**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**|Stanislaw Szymanowicz et.al.|[2406.04343](http://arxiv.org/abs/2406.04343)|null|
 |**2024-06-06**|**Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry**|Kaichen Zhou et.al.|[2406.04301](http://arxiv.org/abs/2406.04301)|null|
 |**2024-06-04**|**VHS: High-Resolution Iterative Stereo Matching with Visual Hull Priors**|Markus Plack et.al.|[2406.02552](http://arxiv.org/abs/2406.02552)|null|
@@ -3286,6 +3297,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**|Keyhan Najafian et.al.|[2406.05131](http://arxiv.org/abs/2406.05131)|null|
+|**2024-06-07**|**Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior**|Tanvir Mahmud et.al.|[2406.04873](http://arxiv.org/abs/2406.04873)|null|
+|**2024-06-07**|**Interplay between preconditioning and regularization for linear ill-posed problems solved by conjugate gradient. Application to optical flow estimation**|Ahmed Chabib et.al.|[2406.04695](http://arxiv.org/abs/2406.04695)|null|
 |**2024-06-04**|**Neural Representations of Dynamic Visual Stimuli**|Jacob Yeung et.al.|[2406.02659](http://arxiv.org/abs/2406.02659)|null|
 |**2024-06-03**|**DeNVeR: Deformable Neural Vessel Representations for Unsupervised Video Vessel Segmentation**|Chun-Hung Wu et.al.|[2406.01591](http://arxiv.org/abs/2406.01591)|null|
 |**2024-06-03**|**Prototypical Transformer as Unified Motion Learners**|Cheng Han et.al.|[2406.01559](http://arxiv.org/abs/2406.01559)|null|
@@ -3329,6 +3343,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Bootstrapping Referring Multi-Object Tracking**|Yani Zhang et.al.|[2406.05039](http://arxiv.org/abs/2406.05039)|null|
+|**2024-06-07**|**Multi-Granularity Language-Guided Multi-Object Tracking**|Yuhao Li et.al.|[2406.04844](http://arxiv.org/abs/2406.04844)|**[link](https://github.com/weslee88524/lg-mot)**|
 |**2024-06-06**|**Matching Anything by Segmenting Anything**|Siyuan Li et.al.|[2406.04221](http://arxiv.org/abs/2406.04221)|**[link](https://github.com/siyuanliii/masa)**|
 |**2024-06-06**|**ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints**|Divij Handa et.al.|[2406.04046](http://arxiv.org/abs/2406.04046)|null|
 |**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147](http://arxiv.org/abs/2406.02147)|null|
@@ -3387,6 +3403,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Single Exposure Quantitative Phase Imaging with a Conventional Microscope using Diffusion Models**|Gabriel della Maggiora et.al.|[2406.04388](http://arxiv.org/abs/2406.04388)|null|
 |**2024-06-03**|**Improved Three-Dimensional Reconstructions in Electron Ptychography through Defocus Series Measurements**|Marcel Schloz et.al.|[2406.01141](http://arxiv.org/abs/2406.01141)|null|
 |**2024-06-02**|**End-to-End Hybrid Refractive-Diffractive Lens Design with Differentiable Ray-Wave Model**|Xinge Yang et.al.|[2406.00834](http://arxiv.org/abs/2406.00834)|null|
 |**2024-06-07**|**In vivo fundus imaging and computational refocusing with a diffuser-based fundus camera**|Corey Simmerer et.al.|[2406.00122](http://arxiv.org/abs/2406.00122)|null|
