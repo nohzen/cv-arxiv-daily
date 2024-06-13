@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|null|
 |**2024-06-10**|**Notes on Kalman Filter (KF, EKF, ESKF, IEKF, IESKF)**|Gyubeom Im et.al.|[2406.06427](http://arxiv.org/abs/2406.06427)|null|
 |**2024-06-10**|**Notes on Various Errors and Jacobian Derivations for SLAM**|Gyubeom Im et.al.|[2406.06422](http://arxiv.org/abs/2406.06422)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
@@ -524,6 +525,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
+|**2024-06-12**|**SVSNet+: Enhancing Speaker Voice Similarity Assessment Models with Representations from Speech Foundation Models**|Chun Yin et.al.|[2406.08445](http://arxiv.org/abs/2406.08445)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
 |**2024-06-07**|**The Star-Forming Main Sequence in JADES and CEERS at $z>1.4$ : Investigating the Burstiness of Star Formation**|Leonardo Clarke et.al.|[2406.05178](http://arxiv.org/abs/2406.05178)|null|
 |**2024-06-06**|**Localized Gaussian Point Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
@@ -731,6 +734,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
+|**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457](http://arxiv.org/abs/2406.08457)|**[link](https://github.com/kamwoh/concepthash)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
 |**2024-06-11**|**Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**|Shuvendu Roy et.al.|[2406.07450](http://arxiv.org/abs/2406.07450)|**[link](https://github.com/shuvenduroy/multimodal)**|
 |**2024-06-11**|**Fetch-A-Set: A Large-Scale OCR-Free Benchmark for Historical Document Retrieval**|Adrià Molina et.al.|[2406.07315](http://arxiv.org/abs/2406.07315)|null|
@@ -1999,6 +2004,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
+|**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|null|
+|**2024-06-11**|**C3DAG: Controlled 3D Animal Generation using 3D pose guidance**|Sandeep Mishra et.al.|[2406.07742](http://arxiv.org/abs/2406.07742)|null|
+|**2024-06-11**|**M-LRM: Multi-view Large Reconstruction Model**|Mengfei Li et.al.|[2406.07648](http://arxiv.org/abs/2406.07648)|null|
 |**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
 |**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
@@ -3092,6 +3102,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
+|**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475](http://arxiv.org/abs/2406.08475)|null|
+|**2024-06-12**|**From Chaos to Clarity: 3DGS in the Dark**|Zhihao Li et.al.|[2406.08300](http://arxiv.org/abs/2406.08300)|null|
 |**2024-06-11**|**Trim 3D Gaussian Splatting for Accurate Geometry Representation**|Lue Fan et.al.|[2406.07499](http://arxiv.org/abs/2406.07499)|null|
 |**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329](http://arxiv.org/abs/2406.07329)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
@@ -3191,6 +3204,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
+|**2024-06-12**|**Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models**|Javier Nistal et.al.|[2406.08384](http://arxiv.org/abs/2406.08384)|null|
+|**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
+|**2024-06-12**|**Generalizable Disaster Damage Assessment via Change Detection with Vision Foundation Model**|Kyeongjin Ahn et.al.|[2406.08020](http://arxiv.org/abs/2406.08020)|null|
+|**2024-06-12**|**Automatic detection of large-scale flux ropes and their geoeffectiveness with a machine learning approach**|Sanchita Pal et.al.|[2406.07798](http://arxiv.org/abs/2406.07798)|null|
+|**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667](http://arxiv.org/abs/2406.07667)|null|
 |**2024-06-11**|**Beyond ELBOs: A Large-Scale Evaluation of Variational Methods for Sampling**|Denis Blessing et.al.|[2406.07423](http://arxiv.org/abs/2406.07423)|**[link](https://github.com/denisbless/variational_sampling_methods)**|
 |**2024-06-11**|**NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images**|Yufei Han et.al.|[2406.07111](http://arxiv.org/abs/2406.07111)|null|
 |**2024-06-11**|**The evolution of coronal shock wave properties and their relation with solar energetic particles**|Manon Jarry et.al.|[2406.07058](http://arxiv.org/abs/2406.07058)|null|
@@ -3296,6 +3315,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Back to the Color: Learning Depth to Specific Color Transformation for Unsupervised Depth Estimation**|Yufan Zhu et.al.|[2406.07741](http://arxiv.org/abs/2406.07741)|null|
+|**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667](http://arxiv.org/abs/2406.07667)|null|
 |**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
 |**2024-06-10**|**PatchRefiner: Leveraging Synthetic Data for Real-Domain High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2406.06679](http://arxiv.org/abs/2406.06679)|null|
 |**2024-06-10**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969](http://arxiv.org/abs/2406.05969)|null|
@@ -3352,6 +3373,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667](http://arxiv.org/abs/2406.07667)|null|
 |**2024-06-11**|**Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring**|Huicong Zhang et.al.|[2406.07551](http://arxiv.org/abs/2406.07551)|**[link](https://github.com/huicongzhang/bsstnet)**|
 |**2024-06-07**|**DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**|Keyhan Najafian et.al.|[2406.05131](http://arxiv.org/abs/2406.05131)|null|
 |**2024-06-07**|**Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior**|Tanvir Mahmud et.al.|[2406.04873](http://arxiv.org/abs/2406.04873)|null|
@@ -3399,6 +3421,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**LaMOT: Language-Guided Multi-Object Tracking**|Yunhao Li et.al.|[2406.08324](http://arxiv.org/abs/2406.08324)|**[link](https://github.com/nathan-li123/lamot)**|
+|**2024-06-12**|**Vessel Re-identification and Activity Detection in Thermal Domain for Maritime Surveillance**|Yasod Ginige et.al.|[2406.08294](http://arxiv.org/abs/2406.08294)|null|
+|**2024-06-11**|**Watching Swarm Dynamics from Above: A Framework for Advanced Object Tracking in Drone Videos**|Duc Pham et.al.|[2406.07680](http://arxiv.org/abs/2406.07680)|null|
 |**2024-06-11**|**Haptic Repurposing with GenAI**|Haoyu Wang et.al.|[2406.07228](http://arxiv.org/abs/2406.07228)|null|
 |**2024-06-11**|**UVIS: Unsupervised Video Instance Segmentation**|Shuaiyi Huang et.al.|[2406.06908](http://arxiv.org/abs/2406.06908)|null|
 |**2024-06-09**|**ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05810](http://arxiv.org/abs/2406.05810)|null|
