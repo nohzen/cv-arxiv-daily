@@ -2118,7 +2118,7 @@
 |**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629](http://arxiv.org/abs/2405.11629)|null|
 |**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541](http://arxiv.org/abs/2405.11541)|null|
 |**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129](http://arxiv.org/abs/2405.11129)|**[link](https://github.com/antonio521/motiongs)**|
-|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|**[link](https://github.com/activevisionlab/awesome-llm-3d)**|
 |**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717](http://arxiv.org/abs/2405.09717)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
 |**2024-05-14**|**Dynamic NeRF: A Review**|Jinwei Lin et.al.|[2405.08609](http://arxiv.org/abs/2405.08609)|null|
 |**2024-05-13**|**Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**|Mingyu Kim et.al.|[2405.07857](http://arxiv.org/abs/2405.07857)|**[link](https://github.com/mingyukim87/synergynerf)**|
@@ -2910,7 +2910,7 @@
 |**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865](http://arxiv.org/abs/2303.12865)|**[link](https://github.com/mshahbazi72/nerf-gan-distillation)**|
 |**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791](http://arxiv.org/abs/2303.12791)|**[link](https://github.com/skhu101/sherf)**|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789](http://arxiv.org/abs/2303.12789)|null|
-|**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786](http://arxiv.org/abs/2303.12786)|null|
+|**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786](http://arxiv.org/abs/2303.12786)|**[link](https://github.com/jianglongye/featurenerf)**|
 |**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408](http://arxiv.org/abs/2303.12408)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
 |**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234](http://arxiv.org/abs/2303.12234)|**[link](https://github.com/amughrabi/pre-nerf)**|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938](http://arxiv.org/abs/2303.11938)|null|
@@ -3289,7 +3289,7 @@
 |**2024-06-17**|**Be careful in multi-messenger inference of the Hubble constant: A path forward for robust inference**|Michael Müller et.al.|[2406.11965](http://arxiv.org/abs/2406.11965)|null|
 |**2024-06-17**|**Personalized Federated Knowledge Graph Embedding with Client-Wise Relation Graph**|Xiaoxiong Zhang et.al.|[2406.11943](http://arxiv.org/abs/2406.11943)|null|
 |**2024-06-17**|**P-TA: Using Proximal Policy Optimization to Enhance Tabular Data Augmentation via Large Language Models**|Shuo Yang et.al.|[2406.11391](http://arxiv.org/abs/2406.11391)|null|
-|**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284](http://arxiv.org/abs/2406.11284)|null|
+|**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284](http://arxiv.org/abs/2406.11284)|**[link](https://github.com/fau-lms/msir)**|
 |**2024-06-16**|**Physics-Informed Deep Learning and Partial Transfer Learning for Bearing Fault Diagnosis in the Presence of Highly Missing Data**|Mohammadreza Kavianpour et.al.|[2406.11023](http://arxiv.org/abs/2406.11023)|null|
 |**2024-06-16**|**Rectified Iterative Disparity for Stereo Matching**|Weiqing Xiao et.al.|[2406.10943](http://arxiv.org/abs/2406.10943)|null|
 |**2024-06-16**|**Quantifying Generative Media Bias with a Corpus of Real-world and Generated News Articles**|Filip Trhlik et.al.|[2406.10773](http://arxiv.org/abs/2406.10773)|null|
@@ -3303,22 +3303,22 @@
 |**2024-06-14**|**Disentangling Dialect from Social Bias via Multitask Learning to Improve Fairness**|Maximilian Spliethöver et.al.|[2406.09977](http://arxiv.org/abs/2406.09977)|null|
 |**2024-06-14**|**OpenCapBench: A Benchmark to Bridge Pose Estimation and Biomechanics**|Yoni Gozlan et.al.|[2406.09788](http://arxiv.org/abs/2406.09788)|null|
 |**2024-06-14**|**Cross-view geo-localization: a survey**|Abhilash Durgam et.al.|[2406.09722](http://arxiv.org/abs/2406.09722)|null|
-|**2024-06-14**|**MoME: Mixture of Multimodal Experts for Cancer Survival Prediction**|Conghao Xiong et.al.|[2406.09696](http://arxiv.org/abs/2406.09696)|null|
+|**2024-06-14**|**MoME: Mixture of Multimodal Experts for Cancer Survival Prediction**|Conghao Xiong et.al.|[2406.09696](http://arxiv.org/abs/2406.09696)|**[link](https://github.com/bearcleverproud/mome)**|
 |**2024-06-13**|**Strain rate controls alignment in growing bacterial monolayers**|Blake Langeslay et.al.|[2406.09615](http://arxiv.org/abs/2406.09615)|null|
-|**2024-06-13**|**AOC: Analysis of Orthologous Collections -- an application for the characterization of natural selection in protein-coding sequences**|Alexander Lucaci et.al.|[2406.09522](http://arxiv.org/abs/2406.09522)|null|
+|**2024-06-13**|**AOC: Analysis of Orthologous Collections -- an application for the characterization of natural selection in protein-coding sequences**|Alexander Lucaci et.al.|[2406.09522](http://arxiv.org/abs/2406.09522)|**[link](https://github.com/aglucaci/analysisoforthologouscollections)**|
 |**2024-06-13**|**You are what you eat? Feeding foundation models a regionally diverse food dataset of World Wide Dishes**|Jabez Magomere et.al.|[2406.09496](http://arxiv.org/abs/2406.09496)|**[link](https://github.com/oxai/world-wide-dishes)**|
 |**2024-06-13**|**Scale-Invariant Monocular Depth Estimation via SSI Depth**|S. Mahdi H. Miangoleh et.al.|[2406.09374](http://arxiv.org/abs/2406.09374)|null|
 |**2024-06-13**|**Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in VR Apps**|Shuqing Li et.al.|[2406.09313](http://arxiv.org/abs/2406.09313)|null|
-|**2024-06-13**|**Python-based DSL for generating Verilog model of Synchronous Digital Circuits**|Mandar Datar et.al.|[2406.09208](http://arxiv.org/abs/2406.09208)|null|
+|**2024-06-13**|**Python-based DSL for generating Verilog model of Synchronous Digital Circuits**|Mandar Datar et.al.|[2406.09208](http://arxiv.org/abs/2406.09208)|**[link](https://github.com/HPC-Lab-IITB/Python-DSL)**|
 |**2024-06-13**|**Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns**|Kaavya Rekanar et.al.|[2406.09203](http://arxiv.org/abs/2406.09203)|null|
 |**2024-06-13**|**Fine-Grained Domain Generalization with Feature Structuralization**|Wenlong Yu et.al.|[2406.09166](http://arxiv.org/abs/2406.09166)|null|
 |**2024-06-13**|**Mean Field Study of Superconductivity in the Square Lattice $t$-$J$ Model with Three-Site Hopping**|Ke Yang et.al.|[2406.08780](http://arxiv.org/abs/2406.08780)|null|
 |**2024-06-12**|**On Strongly-equitable Social Welfare Orders Without the Axiom of Choice**|Luke Serafin et.al.|[2406.08684](http://arxiv.org/abs/2406.08684)|null|
-|**2024-06-12**|**Conditional Similarity Triplets Enable Covariate-Informed Representations of Single-Cell Data**|Chi-Jane Chen et.al.|[2406.08638](http://arxiv.org/abs/2406.08638)|null|
-|**2024-06-12**|**Unraveling Code-Mixing Patterns in Migration Discourse: Automated Detection and Analysis of Online Conversations on Reddit**|Fedor Vitiugin et.al.|[2406.08633](http://arxiv.org/abs/2406.08633)|null|
+|**2024-06-12**|**Conditional Similarity Triplets Enable Covariate-Informed Representations of Single-Cell Data**|Chi-Jane Chen et.al.|[2406.08638](http://arxiv.org/abs/2406.08638)|**[link](https://github.com/ChenCookie/cytocoset)**|
+|**2024-06-12**|**Unraveling Code-Mixing Patterns in Migration Discourse: Automated Detection and Analysis of Online Conversations on Reddit**|Fedor Vitiugin et.al.|[2406.08633](http://arxiv.org/abs/2406.08633)|**[link](https://github.com/vitiugin/elmict)**|
 |**2024-06-13**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
 |**2024-06-12**|**Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models**|Javier Nistal et.al.|[2406.08384](http://arxiv.org/abs/2406.08384)|null|
-|**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
+|**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|**[link](https://github.com/huangyan28/chemistry3d)**|
 |**2024-06-12**|**Generalizable Disaster Damage Assessment via Change Detection with Vision Foundation Model**|Kyeongjin Ahn et.al.|[2406.08020](http://arxiv.org/abs/2406.08020)|null|
 |**2024-06-12**|**Automatic detection of large-scale flux ropes and their geoeffectiveness with a machine learning approach**|Sanchita Pal et.al.|[2406.07798](http://arxiv.org/abs/2406.07798)|null|
 |**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667](http://arxiv.org/abs/2406.07667)|null|
@@ -3327,7 +3327,7 @@
 |**2024-06-11**|**The evolution of coronal shock wave properties and their relation with solar energetic particles**|Manon Jarry et.al.|[2406.07058](http://arxiv.org/abs/2406.07058)|null|
 |**2024-06-11**|**Bridging Language Gaps in Audio-Text Retrieval**|Zhiyong Yan et.al.|[2406.07012](http://arxiv.org/abs/2406.07012)|null|
 |**2024-06-11**|**HPC Alongside User-space Kubernetes**|Vanessa Sochat et.al.|[2406.06995](http://arxiv.org/abs/2406.06995)|null|
-|**2024-06-11**|**Stepwise Regression and Pre-trained Edge for Robust Stereo Matching**|Weiqing Xiao et.al.|[2406.06953](http://arxiv.org/abs/2406.06953)|null|
+|**2024-06-11**|**Stepwise Regression and Pre-trained Edge for Robust Stereo Matching**|Weiqing Xiao et.al.|[2406.06953](http://arxiv.org/abs/2406.06953)|**[link](https://github.com/zhuxing0/SR-Stereov1-DAPE)**|
 |**2024-06-10**|**Locally Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Dependencies**|Alex DeWeese et.al.|[2406.06823](http://arxiv.org/abs/2406.06823)|null|
 |**2024-06-10**|**The Legal Duty to Search for Less Discriminatory Algorithms**|Emily Black et.al.|[2406.06817](http://arxiv.org/abs/2406.06817)|null|
 |**2024-06-10**|**Federated Nonparametric Hypothesis Testing with Differential Privacy Constraints: Optimal Rates and Adaptive Tests**|T. Tony Cai et.al.|[2406.06749](http://arxiv.org/abs/2406.06749)|null|
