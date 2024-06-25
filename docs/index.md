@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -728,7 +728,7 @@ layout: default
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|null|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
-|**2024-06-17**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|null|
+|**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|null|
 |**2024-06-17**|**They're All Doctors: Synthesizing Diverse Counterfactuals to Mitigate Associative Bias**|Salma Abdel Magid et.al.|[2406.11331](http://arxiv.org/abs/2406.11331)|null|
 |**2024-06-17**|**Accurate and Fast Pixel Retrieval with Spatial and Uncertainty Aware Hypergraph Diffusion**|Guoyuan An et.al.|[2406.11242](http://arxiv.org/abs/2406.11242)|null|
 |**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
@@ -3613,7 +3613,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-15**|**fNeRF: High Quality Radiance Fields from Practical Cameras**|Yi Hua et.al.|[2406.10633](http://arxiv.org/abs/2406.10633)|null|
 |**2024-06-12**|**Striving towards robust phase diversity on-sky: Implementing LIFT for VLT/MUSE-NFM**|Arseniy Kuznetsov et.al.|[2406.08529](http://arxiv.org/abs/2406.08529)|**[link](https://github.com/ejjesynho/dip)**|
-|**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329](http://arxiv.org/abs/2406.07329)|null|
+|**2024-06-21**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329](http://arxiv.org/abs/2406.07329)|null|
 |**2024-06-06**|**Single Exposure Quantitative Phase Imaging with a Conventional Microscope using Diffusion Models**|Gabriel della Maggiora et.al.|[2406.04388](http://arxiv.org/abs/2406.04388)|null|
 |**2024-06-03**|**Improved Three-Dimensional Reconstructions in Electron Ptychography through Defocus Series Measurements**|Marcel Schloz et.al.|[2406.01141](http://arxiv.org/abs/2406.01141)|null|
 |**2024-06-02**|**End-to-End Hybrid Refractive-Diffractive Lens Design with Differentiable Ray-Wave Model**|Xinge Yang et.al.|[2406.00834](http://arxiv.org/abs/2406.00834)|null|
