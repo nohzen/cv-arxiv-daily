@@ -28,6 +28,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**|Xinzhe Liu et.al.|[2406.17586](http://arxiv.org/abs/2406.17586)|null|
+|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-19**|**Simultaneous Map and Object Reconstruction**|Nathaniel Chodosh et.al.|[2406.13896](http://arxiv.org/abs/2406.13896)|null|
@@ -531,6 +533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Consensus Learning with Deep Sets for Essential Matrix Estimation**|Dror Moran et.al.|[2406.17414](http://arxiv.org/abs/2406.17414)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
 |**2024-06-21**|**The importance of stochasticity in determining galaxy emissivities and UV LFs during cosmic dawn and reionization**|Ivan Nikolić et.al.|[2406.15237](http://arxiv.org/abs/2406.15237)|null|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515](http://arxiv.org/abs/2406.13515)|null|
@@ -746,6 +749,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
+|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|null|
@@ -2032,6 +2037,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|null|
+|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623](http://arxiv.org/abs/2406.16623)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
@@ -3166,6 +3173,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
+|**2024-06-24**|**Reducing the Memory Footprint of 3D Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2406.17074](http://arxiv.org/abs/2406.17074)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-06-24**|**ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians**|Yufei Liu et.al.|[2406.16815](http://arxiv.org/abs/2406.16815)|null|
 |**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/abs/2406.16073)|null|
@@ -3291,6 +3300,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Spatial Voice Conversion: Voice Conversion Preserving Spatial Information and Non-target Signals**|Kentaro Seki et.al.|[2406.17722](http://arxiv.org/abs/2406.17722)|null|
+|**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
 |**2024-06-24**|**RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale**|Beck LaBash et.al.|[2406.16801](http://arxiv.org/abs/2406.16801)|**[link](https://github.com/qurrent-ai/res-q)**|
 |**2024-06-24**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756](http://arxiv.org/abs/2406.16756)|null|
 |**2024-06-24**|**Lone Pair Induced 1D Character and Weak Cation-anion Interactions: Two Ingredients for Low Thermal Conductivity in Mixed-anion Metal Chalcohalides**|Xingchen Shen et.al.|[2406.16744](http://arxiv.org/abs/2406.16744)|null|
@@ -3469,6 +3480,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Depth-Guided Semi-Supervised Instance Segmentation**|Xin Chen et.al.|[2406.17413](http://arxiv.org/abs/2406.17413)|null|
 |**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226](http://arxiv.org/abs/2406.14226)|null|
 |**2024-06-19**|**WaterMono: Teacher-Guided Anomaly Masking and Enhancement Boosting for Robust Underwater Self-Supervised Monocular Depth Estimation**|Yilin Ding et.al.|[2406.13344](http://arxiv.org/abs/2406.13344)|**[link](https://github.com/oucvisiongroup/watermono)**|
 |**2024-06-18**|**Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation**|Ning-Hsu Wang et.al.|[2406.12849](http://arxiv.org/abs/2406.12849)|null|
@@ -3545,6 +3557,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Disentangled Motion Modeling for Video Frame Interpolation**|Jaihyun Lew et.al.|[2406.17256](http://arxiv.org/abs/2406.17256)|**[link](https://github.com/jhlew/momo)**|
 |**2024-06-19**|**Splatter a Video: Video Gaussian Representation for Versatile Processing**|Yang-Tian Sun et.al.|[2406.13870](http://arxiv.org/abs/2406.13870)|null|
 |**2024-06-19**|**Low Latency Visual Inertial Odometry with On-Sensor Accelerated Optical Flow for Resource-Constrained UAVs**|Jonas Kühne et.al.|[2406.13345](http://arxiv.org/abs/2406.13345)|null|
 |**2024-06-17**|**MEDeA: Multi-view Efficient Depth Adjustment**|Mikhail Artemyev et.al.|[2406.12048](http://arxiv.org/abs/2406.12048)|null|
@@ -3597,6 +3610,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**POPCat: Propagation of particles for complex annotation tasks**|Adam Srebrnjak Yang et.al.|[2406.17183](http://arxiv.org/abs/2406.17183)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|null|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
 |**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
