@@ -533,6 +533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198](http://arxiv.org/abs/2406.18198)|null|
 |**2024-06-25**|**Consensus Learning with Deep Sets for Essential Matrix Estimation**|Dror Moran et.al.|[2406.17414](http://arxiv.org/abs/2406.17414)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
 |**2024-06-21**|**The importance of stochasticity in determining galaxy emissivities and UV LFs during cosmic dawn and reionization**|Ivan Nikolić et.al.|[2406.15237](http://arxiv.org/abs/2406.15237)|null|
@@ -749,6 +750,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
@@ -3173,6 +3175,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
+|**2024-06-26**|**GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality**|Taoran Yi et.al.|[2406.18462](http://arxiv.org/abs/2406.18462)|null|
+|**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214](http://arxiv.org/abs/2406.18214)|null|
+|**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199](http://arxiv.org/abs/2406.18199)|null|
+|**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198](http://arxiv.org/abs/2406.18198)|null|
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
 |**2024-06-24**|**Reducing the Memory Footprint of 3D Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2406.17074](http://arxiv.org/abs/2406.17074)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
@@ -3300,6 +3307,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**DoubleTake: Geometry Guided Depth Estimation**|Mohamed Sayed et.al.|[2406.18387](http://arxiv.org/abs/2406.18387)|null|
+|**2024-06-26**|**An interactive framework for the evaluation and detection of stereoacuity threshold under ambient lighting**|Kritika Lohia et.al.|[2406.18336](http://arxiv.org/abs/2406.18336)|null|
+|**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330](http://arxiv.org/abs/2406.18330)|null|
+|**2024-06-26**|**SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance**|Caishuang Huang et.al.|[2406.18118](http://arxiv.org/abs/2406.18118)|null|
+|**2024-06-25**|**Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts**|Xuyang Wu et.al.|[2406.17974](http://arxiv.org/abs/2406.17974)|null|
 |**2024-06-25**|**Spatial Voice Conversion: Voice Conversion Preserving Spatial Information and Non-target Signals**|Kentaro Seki et.al.|[2406.17722](http://arxiv.org/abs/2406.17722)|null|
 |**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
 |**2024-06-25**|**RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale**|Beck LaBash et.al.|[2406.16801](http://arxiv.org/abs/2406.16801)|**[link](https://github.com/qurrent-ai/res-q)**|
@@ -3480,6 +3492,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
+|**2024-06-26**|**DoubleTake: Geometry Guided Depth Estimation**|Mohamed Sayed et.al.|[2406.18387](http://arxiv.org/abs/2406.18387)|null|
 |**2024-06-25**|**Depth-Guided Semi-Supervised Instance Segmentation**|Xin Chen et.al.|[2406.17413](http://arxiv.org/abs/2406.17413)|null|
 |**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226](http://arxiv.org/abs/2406.14226)|null|
 |**2024-06-19**|**WaterMono: Teacher-Guided Anomaly Masking and Enhancement Boosting for Robust Underwater Self-Supervised Monocular Depth Estimation**|Yilin Ding et.al.|[2406.13344](http://arxiv.org/abs/2406.13344)|**[link](https://github.com/oucvisiongroup/watermono)**|
@@ -3610,6 +3624,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|null|
 |**2024-06-24**|**POPCat: Propagation of particles for complex annotation tasks**|Adam Srebrnjak Yang et.al.|[2406.17183](http://arxiv.org/abs/2406.17183)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|null|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
