@@ -171,7 +171,7 @@
 |**2023-01-03**|**LunarNav: Crater-based Localization for Long-range Autonomous Lunar Rover Navigation**|Shreyansh Daftry et.al.|[2301.01350](http://arxiv.org/abs/2301.01350)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147](http://arxiv.org/abs/2301.01147)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057](http://arxiv.org/abs/2301.01057)|null|
-|**2023-01-10**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618](http://arxiv.org/abs/2301.00618)|null|
+|**2023-01-10**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618](http://arxiv.org/abs/2301.00618)|**[link](https://github.com/m-dayani/eorb_slam)**|
 |**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772](http://arxiv.org/abs/2212.14772)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209](http://arxiv.org/abs/2212.14209)|**[link](https://github.com/KangchengLiu/slam_resources)**|
 |**2022-12-27**|**Clock and Orientation-Robust Simultaneous Radio Localization and Mapping at Millimeter Wave Bands**|Felipe Gómez-Cuba et.al.|[2212.13477](http://arxiv.org/abs/2212.13477)|**[link](https://github.com/gomezcuba/castro-5g)**|
@@ -857,7 +857,7 @@
 |**2024-03-27**|**AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation**|Changkun Liu et.al.|[2403.18281](http://arxiv.org/abs/2403.18281)|null|
 |**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420](http://arxiv.org/abs/2403.17420)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
 |**2024-03-25**|**Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**|Gokul B. Nair et.al.|[2403.16425](http://arxiv.org/abs/2403.16425)|null|
-|**2024-03-24**|**Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**|Yucheng Suo et.al.|[2403.16005](http://arxiv.org/abs/2403.16005)|null|
+|**2024-03-24**|**Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**|Yucheng Suo et.al.|[2403.16005](http://arxiv.org/abs/2403.16005)|**[link](https://github.com/suoych/keds)**|
 |**2024-03-24**|**BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval**|Yinda Chen et.al.|[2403.15992](http://arxiv.org/abs/2403.15992)|null|
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|**[link](https://github.com/beichenzbc/long-clip)**|
 |**2024-03-22**|**A Multimodal Approach for Cross-Domain Image Retrieval**|Lucas Iijima et.al.|[2403.15152](http://arxiv.org/abs/2403.15152)|null|
@@ -935,7 +935,7 @@
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272](http://arxiv.org/abs/2401.08272)|null|
 |**2024-01-16**|**Multi-Technique Sequential Information Consistency For Dynamic Visual Place Recognition In Changing Environments**|Bruno Arcanjo et.al.|[2401.08263](http://arxiv.org/abs/2401.08263)|null|
 |**2024-01-15**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Jakob Hackstein et.al.|[2401.07782](http://arxiv.org/abs/2401.07782)|**[link](https://github.com/jakhac/csmae)**|
-|**2024-01-14**|**HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval**|Zexuan Qiu et.al.|[2401.07212](http://arxiv.org/abs/2401.07212)|null|
+|**2024-01-14**|**HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval**|Zexuan Qiu et.al.|[2401.07212](http://arxiv.org/abs/2401.07212)|**[link](https://github.com/zexuanqiu/hihpq)**|
 |**2024-01-11**|**UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization**|Rouwan Wu et.al.|[2401.05971](http://arxiv.org/abs/2401.05971)|**[link](https://github.com/ringowrw/uavd4l)**|
 |**2024-01-10**|**Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**|Eunyi Lyou et.al.|[2401.04860](http://arxiv.org/abs/2401.04860)|**[link](https://github.com/eunyi-lyou/MA-ZS-SBIR)**|
 |**2024-01-05**|**Benchmarking PathCLIP for Pathology Image Analysis**|Sunyi Zheng et.al.|[2401.02651](http://arxiv.org/abs/2401.02651)|null|
@@ -2427,7 +2427,7 @@
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
 |**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583](http://arxiv.org/abs/2401.05583)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
-|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|null|
+|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|**[link](https://github.com/xingy038/ctnerf)**|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[2401.03771](http://arxiv.org/abs/2401.03771)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257](http://arxiv.org/abs/2401.03257)|null|
@@ -3193,7 +3193,7 @@
 |**2024-06-24**|**ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians**|Yufei Liu et.al.|[2406.16815](http://arxiv.org/abs/2406.16815)|null|
 |**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/abs/2406.16073)|null|
 |**2024-06-23**|**Learning with Noisy Ground Truth: From 2D Classification to 3D Reconstruction**|Yangdi Lu et.al.|[2406.15982](http://arxiv.org/abs/2406.15982)|null|
-|**2024-06-21**|**Taming 3DGS: High-Quality Radiance Fields with Limited Resources**|Saswat Subhajyoti Mallick et.al.|[2406.15643](http://arxiv.org/abs/2406.15643)|null|
+|**2024-06-21**|**Taming 3DGS: High-Quality Radiance Fields with Limited Resources**|Saswat Subhajyoti Mallick et.al.|[2406.15643](http://arxiv.org/abs/2406.15643)|**[link](https://github.com/nullptr81/3dgs-accel)**|
 |**2024-06-21**|**Gaussian Splatting to Real World Flight Navigation Transfer with Liquid Networks**|Alex Quach et.al.|[2406.15149](http://arxiv.org/abs/2406.15149)|null|
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978](http://arxiv.org/abs/2406.14978)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
 |**2024-06-18**|**Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models**|Paul Henderson et.al.|[2406.13099](http://arxiv.org/abs/2406.13099)|null|
@@ -3334,9 +3334,9 @@
 |**2024-06-23**|**The Persistence of Contrarianism on Twitter: Mapping users' sharing habits for the Ukraine war, COVID-19 vaccination, and the 2020 Midterm Elections**|David Axelrod et.al.|[2406.16175](http://arxiv.org/abs/2406.16175)|null|
 |**2024-06-23**|**Comparison of methods for mediation analysis with multiple correlated mediators**|Mary Appah et.al.|[2406.16174](http://arxiv.org/abs/2406.16174)|null|
 |**2024-06-23**|**Quantitative Global Carbon Inequality Network**|Yanming Guo et.al.|[2406.16092](http://arxiv.org/abs/2406.16092)|null|
-|**2024-06-23**|**Learning Accurate and Enriched Features for Stereo Image Super-Resolution**|Hu Gao et.al.|[2406.16001](http://arxiv.org/abs/2406.16001)|null|
+|**2024-06-23**|**Learning Accurate and Enriched Features for Stereo Image Super-Resolution**|Hu Gao et.al.|[2406.16001](http://arxiv.org/abs/2406.16001)|**[link](https://github.com/Tombs98/MSSFNet)**|
 |**2024-06-23**|**Generalized Measures of Population Synchrony**|Francis C. Motta et.al.|[2406.15987](http://arxiv.org/abs/2406.15987)|null|
-|**2024-06-21**|**Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks**|Hokyung Lee et.al.|[2406.15325](http://arxiv.org/abs/2406.15325)|null|
+|**2024-06-21**|**Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks**|Hokyung Lee et.al.|[2406.15325](http://arxiv.org/abs/2406.15325)|**[link](https://github.com/hamminghq/bug-in-the-code-stack)**|
 |**2024-06-21**|**Time-Domain Signatures of Distinct Correlated Insulators in a Moiré Superlattice**|Eric A. Arsenault et.al.|[2406.15067](http://arxiv.org/abs/2406.15067)|null|
 |**2024-06-21**|**3D-Localization of Single Point-Like Gamma Sources with a Coded Aperture Camera**|Tobias Meißner et.al.|[2406.15048](http://arxiv.org/abs/2406.15048)|null|
 |**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977](http://arxiv.org/abs/2406.14977)|null|
@@ -3426,7 +3426,7 @@
 |**2024-06-06**|**TexIm FAST: Text-to-Image Representation for Semantic Similarity Evaluation using Transformers**|Wazib Ansar et.al.|[2406.04438](http://arxiv.org/abs/2406.04438)|null|
 |**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345](http://arxiv.org/abs/2406.04345)|**[link](https://github.com/bartn8/vppstereo)**|
 |**2024-06-06**|**Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation**|Honglei Zhang et.al.|[2406.03933](http://arxiv.org/abs/2406.03933)|**[link](https://github.com/hongleizhang/fedca)**|
-|**2024-06-06**|**Knowledge Transfer, Knowledge Gaps, and Knowledge Silos in Citation Networks**|Eoghan Cunningham et.al.|[2406.03921](http://arxiv.org/abs/2406.03921)|null|
+|**2024-06-06**|**Knowledge Transfer, Knowledge Gaps, and Knowledge Silos in Citation Networks**|Eoghan Cunningham et.al.|[2406.03921](http://arxiv.org/abs/2406.03921)|**[link](https://github.com/eoghancunn/knowledge_transfer_in_xai)**|
 |**2024-06-06**|**Transductive Off-policy Proximal Policy Optimization**|Yaozhong Gan et.al.|[2406.03894](http://arxiv.org/abs/2406.03894)|null|
 |**2024-06-05**|**Does the Sun have a Dark Disk?**|Gustavo F. S. Alves et.al.|[2406.03607](http://arxiv.org/abs/2406.03607)|null|
 |**2024-06-05**|**Reconciling Heterogeneous Effects in Causal Inference**|Audrey Chang et.al.|[2406.03575](http://arxiv.org/abs/2406.03575)|null|
@@ -3522,7 +3522,7 @@
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078](http://arxiv.org/abs/2406.10078)|null|
 |**2024-06-14**|**DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**|Li Li et.al.|[2406.10068](http://arxiv.org/abs/2406.10068)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-06-14**|**Unsupervised Monocular Depth Estimation Based on Hierarchical Feature-Guided Diffusion**|Runze Liu et.al.|[2406.09782](http://arxiv.org/abs/2406.09782)|null|
-|**2024-06-13**|**Depth Anything V2**|Lihe Yang et.al.|[2406.09414](http://arxiv.org/abs/2406.09414)|null|
+|**2024-06-13**|**Depth Anything V2**|Lihe Yang et.al.|[2406.09414](http://arxiv.org/abs/2406.09414)|**[link](https://github.com/DepthAnything/Depth-Anything-V2)**|
 |**2024-06-14**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394](http://arxiv.org/abs/2406.09394)|null|
 |**2024-06-13**|**Scale-Invariant Monocular Depth Estimation via SSI Depth**|S. Mahdi H. Miangoleh et.al.|[2406.09374](http://arxiv.org/abs/2406.09374)|null|
 |**2024-06-13**|**Multiple Prior Representation Learning for Self-Supervised Monocular Depth Estimation via Hybrid Transformer**|Guodong Sun et.al.|[2406.08928](http://arxiv.org/abs/2406.08928)|**[link](https://github.com/mvme-hbut/mprlnet)**|
@@ -3675,7 +3675,7 @@
 |**2024-05-30**|**WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark**|Chunhui Zhang et.al.|[2405.19818](http://arxiv.org/abs/2405.19818)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2024-05-29**|**DGD: Dynamic 3D Gaussians Distillation**|Isaac Labe et.al.|[2405.19321](http://arxiv.org/abs/2405.19321)|null|
 |**2024-05-28**|**Track Initialization and Re-Identification for~3D Multi-View Multi-Object Tracking**|Linh Van Ma et.al.|[2405.18606](http://arxiv.org/abs/2405.18606)|**[link](https://github.com/linh-gist/mv-glmb-ab)**|
-|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|null|
+|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|**[link](https://github.com/GuoLab-UESTC/MMHT)**|
 |**2024-05-28**|**Towards a Generalist and Blind RGB-X Tracker**|Yuedong Tan et.al.|[2405.17773](http://arxiv.org/abs/2405.17773)|**[link](https://github.com/supertyd/XTrack)**|
 |**2024-06-03**|**BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge et.al.|[2405.17698](http://arxiv.org/abs/2405.17698)|null|
 |**2024-05-27**|**Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association**|Tingwei Liu et.al.|[2405.17323](http://arxiv.org/abs/2405.17323)|null|
