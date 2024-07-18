@@ -7,15 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-16**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870](http://arxiv.org/abs/2407.11870)|null|
-|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-17**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870](http://arxiv.org/abs/2407.11870)|null|
+|**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
 |**2024-07-16**|**Batch SLAM with PMBM Data Association Sampling and Graph-Based Optimization**|Yu Ge et.al.|[2407.11643](http://arxiv.org/abs/2407.11643)|null|
 |**2024-07-16**|**I $^2$ -SLAM: Inverting Imaging Process for Robust Photorealistic Dense SLAM**|Gwangtak Bae et.al.|[2407.11347](http://arxiv.org/abs/2407.11347)|null|
@@ -770,7 +770,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-16**|**EndoFinder: Online Image Retrieval for Explainable Colorectal Polyp Diagnosis**|Ruijie Yang et.al.|[2407.11401](http://arxiv.org/abs/2407.11401)|null|
 |**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
 |**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
@@ -1845,7 +1845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|null|
 |**2024-07-16**|**A Self-Correcting Strategy of the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckles Quality and Complex-Large Deformation**|Chengsheng Li et.al.|[2407.11287](http://arxiv.org/abs/2407.11287)|null|
 |**2024-07-14**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
@@ -3272,10 +3272,10 @@ layout: default
 |**2024-07-16**|**I $^2$ -SLAM: Inverting Imaging Process for Robust Photorealistic Dense SLAM**|Gwangtak Bae et.al.|[2407.11347](http://arxiv.org/abs/2407.11347)|null|
 |**2024-07-16**|**Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering**|Jingqian Wu et.al.|[2407.11343](http://arxiv.org/abs/2407.11343)|null|
 |**2024-07-16**|**Gaussian Splatting LK**|Liuyue Xie et.al.|[2407.11309](http://arxiv.org/abs/2407.11309)|null|
-|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174](http://arxiv.org/abs/2407.11174)|null|
+|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174](http://arxiv.org/abs/2407.11174)|**[link](https://github.com/pramishp/ihuman)**|
 |**2024-07-15**|**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**|W. J. Meijer et.al.|[2407.10743](http://arxiv.org/abs/2407.10743)|null|
 |**2024-07-15**|**Interactive Rendering of Relightable and Animatable Gaussian Avatars**|Youyi Zhan et.al.|[2407.10707](http://arxiv.org/abs/2407.10707)|null|
-|**2024-07-14**|**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**|Tianyi Zhang et.al.|[2407.10318](http://arxiv.org/abs/2407.10318)|null|
+|**2024-07-16**|**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**|Tianyi Zhang et.al.|[2407.10318](http://arxiv.org/abs/2407.10318)|null|
 |**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
 |**2024-07-13**|**Textured-GS: Gaussian Splatting with Spatially Defined Color and Opacity**|Zhentao Huang et.al.|[2407.09733](http://arxiv.org/abs/2407.09733)|null|
@@ -3443,7 +3443,7 @@ layout: default
 |**2024-07-16**|**Robust Utility-Preserving Text Anonymization Based on Large Language Models**|Tianyu Yang et.al.|[2407.11770](http://arxiv.org/abs/2407.11770)|**[link](https://github.com/ukplab/arxiv2024-rupta)**|
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
 |**2024-07-16**|**Rethinking Fair Graph Neural Networks from Re-balancing**|Zhixun Li et.al.|[2407.11624](http://arxiv.org/abs/2407.11624)|**[link](https://github.com/zhixunlee/fairgb)**|
-|**2024-07-16**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585](http://arxiv.org/abs/2407.11585)|null|
+|**2024-07-17**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585](http://arxiv.org/abs/2407.11585)|null|
 |**2024-07-16**|**Representation Bias in Political Sample Simulations with Large Language Models**|Weihong Qi et.al.|[2407.11409](http://arxiv.org/abs/2407.11409)|null|
 |**2024-07-16**|**The Devil is in the Statistics: Mitigating and Exploiting Statistics Difference for Generalizable Semi-supervised Medical Image Segmentation**|Muyang Qiu et.al.|[2407.11356](http://arxiv.org/abs/2407.11356)|**[link](https://github.com/qiumuyang/siab)**|
 |**2024-07-15**|**Benchmarking Vision Language Models for Cultural Understanding**|Shravan Nayak et.al.|[2407.10920](http://arxiv.org/abs/2407.10920)|null|
@@ -3798,7 +3798,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-16**|**Improving Unsupervised Video Object Segmentation via Fake Flow Generation**|Suhwan Cho et.al.|[2407.11714](http://arxiv.org/abs/2407.11714)|**[link](https://github.com/suhwan-cho/FakeFlow)**|
-|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496](http://arxiv.org/abs/2407.11496)|null|
+|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496](http://arxiv.org/abs/2407.11496)|**[link](https://github.com/xinyiw915/relax-vqa)**|
 |**2024-07-16**|**Hybrid physics-AI outperforms numerical weather prediction for extreme precipitation nowcasting**|Puja Das et.al.|[2407.11317](http://arxiv.org/abs/2407.11317)|null|
 |**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831](http://arxiv.org/abs/2407.10831)|null|
 |**2024-07-15**|**Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation**|Friedhelm Hamann et.al.|[2407.10802](http://arxiv.org/abs/2407.10802)|**[link](https://github.com/tub-rip/motionpriorcmax)**|
