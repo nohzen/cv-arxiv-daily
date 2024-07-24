@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3486,7 +3486,7 @@ layout: default
 |**2024-07-22**|**Inequalities in Computational Thinking Among Incoming Students in an STEM Chilean University**|Felipe González-Pizarro et.al.|[2407.15833](http://arxiv.org/abs/2407.15833)|null|
 |**2024-07-22**|**Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**|Siddharth D Jaiswal et.al.|[2407.15810](http://arxiv.org/abs/2407.15810)|null|
 |**2024-07-22**|**Examining Inequality in Park Quality for Promoting Health Across 35 Global Cities**|Linus W. Dietz et.al.|[2407.15770](http://arxiv.org/abs/2407.15770)|null|
-|**2024-07-22**|**Bidirectional skip-frame prediction for video anomaly detection with intra-domain disparity-driven attention**|Jiahao Lyu et.al.|[2407.15424](http://arxiv.org/abs/2407.15424)|null|
+|**2024-07-23**|**Bidirectional skip-frame prediction for video anomaly detection with intra-domain disparity-driven attention**|Jiahao Lyu et.al.|[2407.15424](http://arxiv.org/abs/2407.15424)|null|
 |**2024-07-22**|**Iterative approach to reconstructing neural disparity fields from light-field data**|Ligen Shi et.al.|[2407.15380](http://arxiv.org/abs/2407.15380)|null|
 |**2024-07-22**|**Dissecting Multiplication in Transformers: Insights into LLMs**|Luyu Qiu et.al.|[2407.15360](http://arxiv.org/abs/2407.15360)|null|
 |**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329](http://arxiv.org/abs/2407.15329)|null|
