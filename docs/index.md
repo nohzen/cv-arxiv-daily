@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3559,7 +3559,7 @@ layout: default
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
 |**2024-08-03**|**Are EU low-carbon structural funds efficient in reducing emissions?**|Marco Dueñas et.al.|[2408.01782](http://arxiv.org/abs/2408.01782)|null|
 |**2024-08-03**|**MCPDepth: Omnidirectional Depth Estimation via Stereo Matching from Multi-Cylindrical Panoramas**|Feng Qiao et.al.|[2408.01653](http://arxiv.org/abs/2408.01653)|null|
-|**2024-08-03**|**Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual Stereo Vision**|Tian-Ao Ren et.al.|[2408.01615](http://arxiv.org/abs/2408.01615)|null|
+|**2024-08-06**|**Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual-Stereo-Vision**|Tian-Ao Ren et.al.|[2408.01615](http://arxiv.org/abs/2408.01615)|null|
 |**2024-08-02**|**Decentralized Smoothing ADMM for Quantile Regression with Non-Convex Sparse Penalties**|Reza Mirzaeifard et.al.|[2408.01307](http://arxiv.org/abs/2408.01307)|null|
 |**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285](http://arxiv.org/abs/2408.01285)|null|
 |**2024-08-01**|**High-Impact Innovations and Hidden Gender Disparities in Inventor-Evaluator Networks**|Tara Sowrirajan et.al.|[2408.00905](http://arxiv.org/abs/2408.00905)|null|
