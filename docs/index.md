@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268](http://arxiv.org/abs/2408.04268)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu et.al.|[2408.03520](http://arxiv.org/abs/2408.03520)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
@@ -2162,6 +2163,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
+|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
+|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268](http://arxiv.org/abs/2408.04268)|null|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/abs/2408.03646)|null|
 |**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356](http://arxiv.org/abs/2408.03356)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193](http://arxiv.org/abs/2408.03193)|null|
@@ -3369,6 +3373,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
+|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
+|**2024-08-08**|**InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting**|Xin-Yi Yu et.al.|[2408.04249](http://arxiv.org/abs/2408.04249)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822](http://arxiv.org/abs/2408.03822)|null|
 |**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753](http://arxiv.org/abs/2408.03753)|null|
@@ -3570,6 +3577,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633](http://arxiv.org/abs/2408.04633)|**[link](https://github.com/bartn8/eventvppstereo)**|
+|**2024-08-08**|**Charmed hypernuclei within density-dependent relativistic mean-field theory**|Wei Yang et.al.|[2408.04527](http://arxiv.org/abs/2408.04527)|null|
+|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
+|**2024-08-07**|**A Framework for Assessing Cumulative Exposure to Extreme Temperatures During Transit Trip**|Huiying Fan et.al.|[2408.04081](http://arxiv.org/abs/2408.04081)|null|
+|**2024-08-07**|**A Comparison of Fireball Luminous Efficiency Models using Acoustic Records**|Luke McFadden et.al.|[2408.04078](http://arxiv.org/abs/2408.04078)|null|
 |**2024-08-07**|**A Blockchain-based Reliable Federated Meta-learning for Metaverse: A Dual Game Framework**|Emna Baccour et.al.|[2408.03694](http://arxiv.org/abs/2408.03694)|null|
 |**2024-08-07**|**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**|Kien T. Pham et.al.|[2408.03637](http://arxiv.org/abs/2408.03637)|null|
 |**2024-08-07**|**Unlocking Exocentric Video-Language Data for Egocentric Video Representation Learning**|Zi-Yi Dou et.al.|[2408.03567](http://arxiv.org/abs/2408.03567)|null|
@@ -3916,6 +3928,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin et.al.|[2408.04523](http://arxiv.org/abs/2408.04523)|null|
+|**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta et.al.|[2408.04360](http://arxiv.org/abs/2408.04360)|null|
+|**2024-08-08**|**Design and Implementation of Smart Infrastructures and Connected Vehicles in A Mini-city Platform**|Daniel Vargas et.al.|[2408.04195](http://arxiv.org/abs/2408.04195)|null|
 |**2024-08-07**|**Focal Depth Estimation: A Calibration-Free, Subject- and Daytime Invariant Approach**|Benedikt W. Hosp et.al.|[2408.03591](http://arxiv.org/abs/2408.03591)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](http://arxiv.org/abs/2408.02796)|null|
