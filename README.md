@@ -28,6 +28,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981](http://arxiv.org/abs/2408.05981)|null|
+|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
+|**2024-08-10**|**TOSS: Real-time Tracking and Moving Object Segmentation for Static Scene Mapping**|Seoyeon Jang et.al.|[2408.05453](http://arxiv.org/abs/2408.05453)|null|
 |**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268](http://arxiv.org/abs/2408.04268)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu et.al.|[2408.03520](http://arxiv.org/abs/2408.03520)|null|
@@ -831,14 +834,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
+|**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
 |**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
-|**2024-08-09**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
+|**2024-08-09**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|**[link](https://github.com/zjuluolun/bevplace)**|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
-|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|**[link](https://github.com/luohongk/supervins)**|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
-|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|null|
+|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|**[link](https://github.com/molaorg/mola)**|
 |**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
 |**2024-07-24**|**Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation**|Yongqi Li et.al.|[2407.17274](http://arxiv.org/abs/2407.17274)|null|
 |**2024-07-24**|**Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environments**|Wei Gao et.al.|[2407.17078](http://arxiv.org/abs/2407.17078)|null|
@@ -2188,9 +2193,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|null|
+|**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
+|**2024-08-10**|**Radiance Field Learners As UAV First-Person Viewers**|Liqi Yan et.al.|[2408.05533](http://arxiv.org/abs/2408.05533)|null|
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
 |**2024-08-09**|**FewShotNeRF: Meta-Learning-based Novel View Synthesis for Rapid Scene-Specific Adaptation**|Piraveen Sivakumar et.al.|[2408.04803](http://arxiv.org/abs/2408.04803)|null|
-|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|**[link](https://github.com/joaxkal/lumigauss)**|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
 |**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268](http://arxiv.org/abs/2408.04268)|null|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/abs/2408.03646)|null|
@@ -3402,6 +3410,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|null|
+|**2024-08-12**|**Developing Smart MAVs for Autonomous Inspection in GPS-denied Constructions**|Paoqiang Pan et.al.|[2408.06030](http://arxiv.org/abs/2408.06030)|null|
+|**2024-08-12**|**HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors**|Xiaozheng Zheng et.al.|[2408.06019](http://arxiv.org/abs/2408.06019)|null|
+|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
 |**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
 |**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
@@ -3610,6 +3622,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Observation of vortex stripes in UTe $_2$**|Y. F. Wang et.al.|[2408.06209](http://arxiv.org/abs/2408.06209)|null|
+|**2024-08-12**|**IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI**|Yash Rampuria et.al.|[2408.06113](http://arxiv.org/abs/2408.06113)|null|
+|**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985](http://arxiv.org/abs/2408.05985)|null|
+|**2024-08-11**|**Predictors and Socio-Demographic Disparities in STEM Degree Outcomes: A ten-year UK study using Hierarchical Logistic Regression**|Andrew M. Low et.al.|[2408.05853](http://arxiv.org/abs/2408.05853)|null|
+|**2024-08-10**|**EV-MGDispNet: Motion-Guided Event-Based Stereo Disparity Estimation Network with Left-Right Consistency**|Junjie Jiang et.al.|[2408.05452](http://arxiv.org/abs/2408.05452)|null|
 |**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633](http://arxiv.org/abs/2408.04633)|**[link](https://github.com/bartn8/eventvppstereo)**|
 |**2024-08-08**|**Charmed hypernuclei within density-dependent relativistic mean-field theory**|Wei Yang et.al.|[2408.04527](http://arxiv.org/abs/2408.04527)|null|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
@@ -3963,6 +3980,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Towards Robust Monocular Depth Estimation in Non-Lambertian Surfaces**|Junrui Zhang et.al.|[2408.06083](http://arxiv.org/abs/2408.06083)|null|
 |**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin et.al.|[2408.04523](http://arxiv.org/abs/2408.04523)|null|
 |**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta et.al.|[2408.04360](http://arxiv.org/abs/2408.04360)|null|
 |**2024-08-08**|**Design and Implementation of Smart Infrastructures and Connected Vehicles in A Mini-city Platform**|Daniel Vargas et.al.|[2408.04195](http://arxiv.org/abs/2408.04195)|null|
@@ -4092,12 +4110,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
+|**2024-08-12**|**Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**|Kailai Sun et.al.|[2408.05877](http://arxiv.org/abs/2408.05877)|null|
+|**2024-08-11**|**Egocentric Vision Language Planning**|Zhirui Fang et.al.|[2408.05802](http://arxiv.org/abs/2408.05802)|null|
 |**2024-08-08**|**KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance**|Jingxian Lu et.al.|[2408.02912](http://arxiv.org/abs/2408.02912)|null|
 |**2024-08-02**|**NOLO: Navigate Only Look Once**|Bohan Zhou et.al.|[2408.01384](http://arxiv.org/abs/2408.01384)|null|
 |**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773](http://arxiv.org/abs/2407.21773)|**[link](https://github.com/TonyHongtaoWu/RainMamba)**|
 |**2024-07-31**|**Unifying Event-based Flow, Stereo and Depth Estimation via Feature Similarity Matching**|Pengjie Zhang et.al.|[2407.21735](http://arxiv.org/abs/2407.21735)|null|
 |**2024-07-30**|**SpotFormer: Multi-Scale Spatio-Temporal Transformer for Facial Expression Spotting**|Yicheng Deng et.al.|[2407.20799](http://arxiv.org/abs/2407.20799)|null|
-|**2024-07-29**|**Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification**|Yingfu Xu et.al.|[2407.20421](http://arxiv.org/abs/2407.20421)|null|
+|**2024-07-29**|**Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification**|Yingfu Xu et.al.|[2407.20421](http://arxiv.org/abs/2407.20421)|**[link](https://github.com/yingfuxu/ann_vs_snn_evflow)**|
 |**2024-07-26**|**Revisit Event Generation Model: Self-Supervised Learning of Event-to-Video Reconstruction with Implicit Neural Representations**|Zipeng Wang et.al.|[2407.18500](http://arxiv.org/abs/2407.18500)|null|
 |**2024-07-23**|**Occlusion-Aware 3D Motion Interpretation for Abnormal Behavior Detection**|Su Li et.al.|[2407.16788](http://arxiv.org/abs/2407.16788)|null|
 |**2024-07-23**|**SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging**|Lingtong Kong et.al.|[2407.16308](http://arxiv.org/abs/2407.16308)|**[link](https://github.com/ltkong218/safnet)**|
@@ -4176,6 +4197,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
+|**2024-08-11**|**A Training-Free Framework for Video License Plate Tracking and Recognition with Only One-Shot**|Haoxuan Ding et.al.|[2408.05729](http://arxiv.org/abs/2408.05729)|**[link](https://github.com/dinghaoxuan/oneshotlp)**|
 |**2024-08-09**|**Mesh-based Object Tracking for Dynamic Semantic 3D Scene Graphs via Ray Tracing**|Lennart Niecksch et.al.|[2408.04979](http://arxiv.org/abs/2408.04979)|null|
 |**2024-08-06**|**Quantum Imaging Using Spatially Entangled Photon Pairs from a Nonlinear Metasurface**|Jinyong Ma et.al.|[2408.02903](http://arxiv.org/abs/2408.02903)|null|
 |**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu et.al.|[2408.02263](http://arxiv.org/abs/2408.02263)|null|
