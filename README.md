@@ -28,6 +28,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917](http://arxiv.org/abs/2408.07917)|**[link](https://github.com/yutongwangbit/goreloc)**|
+|**2024-08-14**|**Inverse k-visibility for RSSI-based Indoor Geometric Mapping**|Junseo Kim et.al.|[2408.07757](http://arxiv.org/abs/2408.07757)|null|
 |**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
 |**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981](http://arxiv.org/abs/2408.05981)|null|
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
@@ -593,6 +595,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning**|Wei Zhu et.al.|[2408.08134](http://arxiv.org/abs/2408.08134)|null|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
@@ -836,6 +839,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
 |**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
 |**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
@@ -1700,6 +1704,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
@@ -2197,6 +2202,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
 |**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
 |**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592](http://arxiv.org/abs/2408.06592)|**[link](https://github.com/hcp16/active_nerf)**|
@@ -3418,6 +3424,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
+|**2024-08-15**|**FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering**|Guofeng Feng et.al.|[2408.07967](http://arxiv.org/abs/2408.07967)|null|
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595](http://arxiv.org/abs/2408.07595)|null|
 |**2024-08-14**|**3D Gaussian Editing with A Single Image**|Guan Luo et.al.|[2408.07540](http://arxiv.org/abs/2408.07540)|null|
 |**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975](http://arxiv.org/abs/2408.06975)|null|
@@ -3634,6 +3642,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Cluster Formations of Free and Congested Flows in Urban Road Networks**|Yongsung Kwon et.al.|[2408.08122](http://arxiv.org/abs/2408.08122)|null|
+|**2024-08-15**|**Motif analysis and passing behavior in football passing networks**|Ming-Xia Li et.al.|[2408.07927](http://arxiv.org/abs/2408.07927)|null|
+|**2024-08-14**|**Polarization dynamics: a study of individuals shifting between political communities on social media**|Federico Albanese et.al.|[2408.07731](http://arxiv.org/abs/2408.07731)|null|
 |**2024-08-14**|**Hierarchical Working Memory and a New Magic Number**|Weishun Zhong et.al.|[2408.07637](http://arxiv.org/abs/2408.07637)|null|
 |**2024-08-14**|**Rethinking the Key Factors for the Generalization of Remote Sensing Stereo Matching Networks**|Liting Jiang et.al.|[2408.07613](http://arxiv.org/abs/2408.07613)|null|
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
@@ -4132,6 +4143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing**|Chenjie Cao et.al.|[2408.08000](http://arxiv.org/abs/2408.08000)|null|
 |**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
 |**2024-08-12**|**Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**|Kailai Sun et.al.|[2408.05877](http://arxiv.org/abs/2408.05877)|null|
 |**2024-08-11**|**Egocentric Vision Language Planning**|Zhirui Fang et.al.|[2408.05802](http://arxiv.org/abs/2408.05802)|null|
