@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4256,7 +4256,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-27**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
+|**2024-08-28**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
 |**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582](http://arxiv.org/abs/2408.11582)|null|
 |**2024-08-21**|**SelfDRSC++: Self-Supervised Learning for Dual Reversed Rolling Shutter Correction**|Wei Shang et.al.|[2408.11411](http://arxiv.org/abs/2408.11411)|**[link](https://github.com/shangwei5/selfdrsc_plusplus)**|
 |**2024-08-21**|**Video Diffusion Models are Strong Video Inpainter**|Minhyeok Lee et.al.|[2408.11402](http://arxiv.org/abs/2408.11402)|null|
