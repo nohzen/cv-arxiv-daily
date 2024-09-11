@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693](http://arxiv.org/abs/2409.06693)|null|
 |**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|null|
 |**2024-09-08**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457](http://arxiv.org/abs/2409.03457)|null|
 |**2024-09-03**|**Integration of Augmented Reality and Mobile Robot Indoor SLAM for Enhanced Spatial Awareness**|Michael D. Friske et.al.|[2409.01915](http://arxiv.org/abs/2409.01915)|null|
@@ -877,6 +878,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
+|**2024-09-10**|**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions**|Zhicong Wu et.al.|[2409.06381](http://arxiv.org/abs/2409.06381)|null|
 |**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|null|
 |**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
 |**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
@@ -2014,6 +2018,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
 |**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
@@ -2278,6 +2283,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
+|**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
+|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
 |**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
@@ -3535,6 +3543,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685](http://arxiv.org/abs/2409.06685)|null|
+|**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
+|**2024-09-09**|**Online 3D reconstruction and dense tracking in endoscopic videos**|Michel Hayoz et.al.|[2409.06037](http://arxiv.org/abs/2409.06037)|null|
 |**2024-09-09**|**GASP: Gaussian Splatting for Physic-Based Simulations**|Piotr Borycki et.al.|[2409.05819](http://arxiv.org/abs/2409.05819)|null|
 |**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
 |**2024-09-08**|**DreamMapping: High-Fidelity Text-to-3D Generation via Variational Distribution Mapping**|Zeyu Cai et.al.|[2409.05099](http://arxiv.org/abs/2409.05099)|null|
@@ -3805,6 +3816,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Synchronization of wave-propelled capillary spinners**|Jack-William Barotta et.al.|[2409.06652](http://arxiv.org/abs/2409.06652)|null|
+|**2024-09-10**|**Quantum-like approaches unveil the intrinsic limits of predictability in compartmental models**|José Alejandro Rojas-Venegas et.al.|[2409.06438](http://arxiv.org/abs/2409.06438)|null|
+|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
+|**2024-09-09**|**Online 3D reconstruction and dense tracking in endoscopic videos**|Michel Hayoz et.al.|[2409.06037](http://arxiv.org/abs/2409.06037)|null|
+|**2024-09-09**|**Dust-UV offsets in high-redshift galaxies in the Cosmic Dawn III simulation**|Pierre Ocvirk et.al.|[2409.05946](http://arxiv.org/abs/2409.05946)|null|
 |**2024-09-09**|**The Influence of Task and Group Disparities over Users' Attitudes Toward Using Large Language Models for Psychotherapy**|Qihang He et.al.|[2409.05703](http://arxiv.org/abs/2409.05703)|null|
 |**2024-09-09**|**LayeredFlow: A Real-World Benchmark for Non-Lambertian Multi-Layer Optical Flow**|Hongyu Wen et.al.|[2409.05688](http://arxiv.org/abs/2409.05688)|null|
 |**2024-09-09**|**Adaptive Offloading and Enhancement for Low-Light Video Analytics on Mobile Devices**|Yuanyi He et.al.|[2409.05297](http://arxiv.org/abs/2409.05297)|null|
@@ -4265,6 +4281,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Deep Neural Networks: Multi-Classification and Universal Approximation**|Martín Hernández et.al.|[2409.06555](http://arxiv.org/abs/2409.06555)|null|
+|**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183](http://arxiv.org/abs/2409.06183)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
 |**2024-09-09**|**EndoOmni: Zero-Shot Cross-Dataset Depth Estimation in Endoscopy by Robust Self-Learning from Noisy Labels**|Qingyao Tian et.al.|[2409.05442](http://arxiv.org/abs/2409.05442)|null|
 |**2024-09-09**|**Spontaneous magnetic field and disorder effects in BaPtAs_1-x_Sb_x_ with honeycomb network**|T. Adachi et.al.|[2409.05266](http://arxiv.org/abs/2409.05266)|null|
 |**2024-09-08**|**TanDepth: Leveraging Global DEMs for Metric Monocular Depth Estimation in UAVs**|Horatiu Florea et.al.|[2409.05142](http://arxiv.org/abs/2409.05142)|null|
@@ -4534,6 +4552,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|[2409.06617](http://arxiv.org/abs/2409.06617)|**[link](https://github.com/emirhanbayar/fast-strongsort)**|
 |**2024-09-09**|**Leveraging Object Priors for Point Tracking**|Bikram Boote et.al.|[2409.05786](http://arxiv.org/abs/2409.05786)|null|
 |**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
 |**2024-09-06**|**LITE: A Paradigm Shift in Multi-Object Tracking with Efficient ReID Feature Integration**|Jumabek Alikhanov et.al.|[2409.04187](http://arxiv.org/abs/2409.04187)|**[link](https://github.com/jumabek/lite)**|
@@ -4541,7 +4560,7 @@
 |**2024-09-04**|**TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.|[2409.02490](http://arxiv.org/abs/2409.02490)|**[link](https://github.com/Fsoft-AIC/TP-GMOT)**|
 |**2024-09-03**|**DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction**|Jenny Seidenschwarz et.al.|[2409.02104](http://arxiv.org/abs/2409.02104)|null|
 |**2024-09-01**|**YOLOO: You Only Learn from Others Once**|Lipeng Gu et.al.|[2409.00618](http://arxiv.org/abs/2409.00618)|null|
-|**2024-09-10**|**TrackSSM: A General Motion Predictor by State-Space Model**|Bin Hu et.al.|[2409.00487](http://arxiv.org/abs/2409.00487)|null|
+|**2024-09-10**|**TrackSSM: A General Motion Predictor by State-Space Model**|Bin Hu et.al.|[2409.00487](http://arxiv.org/abs/2409.00487)|**[link](https://github.com/xavier-lin/trackssm)**|
 |**2024-08-31**|**Fish Tracking Challenge 2024: A Multi-Object Tracking Competition with Sweetfish Schooling Data**|Makoto M. Itoh et.al.|[2409.00339](http://arxiv.org/abs/2409.00339)|null|
 |**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|**[link](https://github.com/dlr-mi/utrack)**|
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
