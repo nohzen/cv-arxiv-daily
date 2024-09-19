@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,6 +28,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure**|Ziheng Xu et.al.|[2409.10982](http://arxiv.org/abs/2409.10982)|null|
+|**2024-09-17**|**Label-free correlative morpho-chemical tomography of 3D kidney mesangial cells**|Ankit Butola et.al.|[2409.10971](http://arxiv.org/abs/2409.10971)|null|
+|**2024-09-17**|**Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping**|Bo Yang et.al.|[2409.10824](http://arxiv.org/abs/2409.10824)|**[link](https://github.com/boyang9602/LiDARLocRobustness)**|
 |**2024-09-16**|**P2U-SLAM: A Monocular Wide-FoV SLAM System Based on Point Uncertainty and Pose Uncertainty**|Yufan Zhang et.al.|[2409.10143](http://arxiv.org/abs/2409.10143)|null|
 |**2024-09-16**|**SHIRE: Enhancing Sample Efficiency using Human Intuition in REinforcement Learning**|Amogh Joshi et.al.|[2409.09990](http://arxiv.org/abs/2409.09990)|null|
 |**2024-09-16**|**Enhancing Visual Inertial SLAM with Magnetic Measurements**|Bharat Joshi et.al.|[2409.09904](http://arxiv.org/abs/2409.09904)|null|
@@ -629,12 +632,13 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
 |**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
 |**2024-09-06**|**The Arizona Molecular ISM Survey with the SMT: Variations in the CO(2-1)/CO(1-0) Line Ratio Across the Galaxy Population**|Ryan P. Keenan et.al.|[2409.03963](http://arxiv.org/abs/2409.03963)|null|
@@ -885,12 +889,14 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**SOLVR: Submap Oriented LiDAR-Visual Re-Localisation**|Joshua Knights et.al.|[2409.10247](http://arxiv.org/abs/2409.10247)|null|
 |**2024-09-16**|**Garment Attribute Manipulation with Multi-level Attention**|Vittorio Casula et.al.|[2409.10206](http://arxiv.org/abs/2409.10206)|null|
 |**2024-09-14**|**Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval**|Amirreza Mahbod et.al.|[2409.09430](http://arxiv.org/abs/2409.09430)|null|
@@ -1786,7 +1792,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2030,7 +2036,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2295,12 +2301,14 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327](http://arxiv.org/abs/2409.10327)|null|
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|null|
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829](http://arxiv.org/abs/2409.09829)|null|
@@ -3561,12 +3569,16 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
+|**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
+|**2024-09-17**|**SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**|Marko Mihajlovic et.al.|[2409.11211](http://arxiv.org/abs/2409.11211)|null|
+|**2024-09-17**|**GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure**|Ziheng Xu et.al.|[2409.10982](http://arxiv.org/abs/2409.10982)|null|
 |**2024-09-16**|**Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering**|Euntae Choi et.al.|[2409.10335](http://arxiv.org/abs/2409.10335)|null|
 |**2024-09-16**|**BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting**|Wugang Meng et.al.|[2409.10216](http://arxiv.org/abs/2409.10216)|**[link](https://github.com/guaMass/BEINGS)**|
 |**2024-09-16**|**SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting**|Mohammad Nomaan Qureshi et.al.|[2409.10161](http://arxiv.org/abs/2409.10161)|null|
@@ -3856,12 +3868,17 @@
 |**2024-05-09**|**FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting**|Yikun Ma et.al.|[2405.05768](http://arxiv.org/abs/2405.05768)|null|
 |**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702](http://arxiv.org/abs/2405.05702)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Stereo Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Connecting the Low to High Corona: Propagating Disturbances as Tracers of the Near-Sun Solar Wind**|Nathalia Alzate et.al.|[2409.11352](http://arxiv.org/abs/2409.11352)|null|
+|**2024-09-17**|**The SST-1M imaging atmospheric Cherenkov telescope for gamma-ray astrophysics**|C. Alispach et.al.|[2409.11310](http://arxiv.org/abs/2409.11310)|null|
+|**2024-09-17**|**SAGED: A Holistic Bias-Benchmarking Pipeline for Language Models with Customisable Fairness Calibration**|Xin Guan et.al.|[2409.11149](http://arxiv.org/abs/2409.11149)|null|
+|**2024-09-17**|**Optimal Investment under the Influence of Decision-changing Imitation**|Huisheng Wang et.al.|[2409.10933](http://arxiv.org/abs/2409.10933)|null|
+|**2024-09-16**|**GPT takes the SAT: Tracing changes in Test Difficulty and Math Performance of Students**|Vikram Krishnaveti et.al.|[2409.10750](http://arxiv.org/abs/2409.10750)|null|
 |**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481](http://arxiv.org/abs/2409.10481)|null|
 |**2024-09-16**|**uniGasFoam: a particle-based OpenFOAM solver for multiscale rarefied gas flows**|Nikos Vasileiadis et.al.|[2409.10288](http://arxiv.org/abs/2409.10288)|null|
 |**2024-09-16**|**SOLVR: Submap Oriented LiDAR-Visual Re-Localisation**|Joshua Knights et.al.|[2409.10247](http://arxiv.org/abs/2409.10247)|null|
@@ -4348,12 +4365,13 @@
 |**2024-05-22**|**Multi-Dataset Multi-Task Learning for COVID-19 Prognosis**|Filippo Ruffini et.al.|[2405.13771](http://arxiv.org/abs/2405.13771)|null|
 |**2024-05-22**|**Knowledge-Driven Cross-Document Relation Extraction**|Monika Jain et.al.|[2405.13546](http://arxiv.org/abs/2405.13546)|**[link](https://github.com/kracr/cross-doc-relation-extraction)**|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Monocular Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
 |**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896](http://arxiv.org/abs/2409.09896)|null|
 |**2024-09-15**|**Towards Single-Lens Controllable Depth-of-Field Imaging via All-in-Focus Aberration Correction and Monocular Depth Estimation**|Xiaolong Qian et.al.|[2409.09754](http://arxiv.org/abs/2409.09754)|**[link](https://github.com/xiaolongqian/dcdi)**|
 |**2024-09-13**|**PrimeDepth: Efficient Monocular Depth Estimation with a Stable Diffusion Preimage**|Denis Zavadski et.al.|[2409.09144](http://arxiv.org/abs/2409.09144)|null|
@@ -4521,12 +4539,14 @@
 |**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027](http://arxiv.org/abs/2405.07027)|**[link](https://github.com/nubot-nudt/td-nerf)**|
 |**2024-05-11**|**Learning Monocular Depth from Focus with Event Focal Stack**|Chenxu Jiang et.al.|[2405.06944](http://arxiv.org/abs/2405.06944)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Optical flow
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383](http://arxiv.org/abs/2409.11383)|null|
+|**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223](http://arxiv.org/abs/2409.11223)|null|
 |**2024-09-16**|**SHIRE: Enhancing Sample Efficiency using Human Intuition in REinforcement Learning**|Amogh Joshi et.al.|[2409.09990](http://arxiv.org/abs/2409.09990)|null|
 |**2024-09-15**|**Dynamic Layer Detection of a Thin Silk Cloth using DenseTact Optical Tactile Sensors**|Ankush Kundan Dhawan et.al.|[2409.09849](http://arxiv.org/abs/2409.09849)|null|
 |**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl et.al.|[2409.09841](http://arxiv.org/abs/2409.09841)|null|
@@ -4634,12 +4654,15 @@
 |**2024-05-07**|**Visually Guided Swarm Motion Coordination via Insect-inspired Small Target Motion Reactions**|Md Arif Billah et.al.|[2405.04591](http://arxiv.org/abs/2405.04591)|null|
 |**2024-05-06**|**Diffeomorphic Template Registration for Atmospheric Turbulence Mitigation**|Dong Lao et.al.|[2405.03662](http://arxiv.org/abs/2405.03662)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Object Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**|Siyuan Li et.al.|[2409.11235](http://arxiv.org/abs/2409.11235)|null|
+|**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.|[2409.11234](http://arxiv.org/abs/2409.11234)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
+|**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
 |**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl et.al.|[2409.09841](http://arxiv.org/abs/2409.09841)|null|
 |**2024-09-14**|**Associate Everything Detected: Facilitating Tracking-by-Detection to the Unknown**|Zimeng Fang et.al.|[2409.09293](http://arxiv.org/abs/2409.09293)|null|
 |**2024-09-12**|**FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking**|Rongzihan Song et.al.|[2409.07904](http://arxiv.org/abs/2409.07904)|null|
@@ -4802,12 +4825,13 @@
 |**2024-05-14**|**ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association**|Shuxiao Ding et.al.|[2405.08909](http://arxiv.org/abs/2405.08909)|**[link](https://github.com/dsx0511/ada-track)**|
 |**2024-05-14**|**EchoTracker: Advancing Myocardial Point Tracking in Echocardiography**|Md Abulkalam Azad et.al.|[2405.08587](http://arxiv.org/abs/2405.08587)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Defocus
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Depth from Coupled Optical Differentiation**|Junjie Luo et.al.|[2409.10725](http://arxiv.org/abs/2409.10725)|null|
 |**2024-09-16**|**Focus diverse phase retrieval test results on broadband continuous wavefront sensing in space telescope applications**|Hyukmo Kang et.al.|[2409.10500](http://arxiv.org/abs/2409.10500)|null|
 |**2024-09-15**|**Towards Single-Lens Controllable Depth-of-Field Imaging via All-in-Focus Aberration Correction and Monocular Depth Estimation**|Xiaolong Qian et.al.|[2409.09754](http://arxiv.org/abs/2409.09754)|**[link](https://github.com/xiaolongqian/dcdi)**|
 |**2024-09-14**|**Innovative schemes for Correlation Plenoptic Imaging**|Gianlorenzo Massaro et.al.|[2409.09459](http://arxiv.org/abs/2409.09459)|null|
@@ -4854,7 +4878,7 @@
 |**2024-01-29**|**Light-field imaging from position-momentum correlations**|Davide Giannella et.al.|[2401.16129](http://arxiv.org/abs/2401.16129)|null|
 |**2024-01-25**|**Single- and multi-layer micro-scale diffractive lens fabrication for fiber imaging probes with versatile depth-of-field**|Fei He et.al.|[2401.14551](http://arxiv.org/abs/2401.14551)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
