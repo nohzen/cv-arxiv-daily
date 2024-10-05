@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.04
+## Updated on 2024.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3995,7 +3995,7 @@ layout: default
 |**2024-10-03**|**Quantum Mutual Information in Time**|James Fullwood et.al.|[2410.02137](http://arxiv.org/abs/2410.02137)|null|
 |**2024-10-03**|**C-MELT: Contrastive Enhanced Masked Auto-Encoders for ECG-Language Pre-Training**|Manh Pham et.al.|[2410.02131](http://arxiv.org/abs/2410.02131)|null|
 |**2024-10-02**|**Unified space-time description of pulsed twin beams**|Alessandra Gatti et.al.|[2410.01907](http://arxiv.org/abs/2410.01907)|null|
-|**2024-10-02**|**Conformal Prediction Sets Can Cause Disparate Impact**|Jesse C. Cresswell et.al.|[2410.01888](http://arxiv.org/abs/2410.01888)|null|
+|**2024-10-02**|**Conformal Prediction Sets Can Cause Disparate Impact**|Jesse C. Cresswell et.al.|[2410.01888](http://arxiv.org/abs/2410.01888)|**[link](https://github.com/layer6ai-labs/conformal-prediction-fairness)**|
 |**2024-10-02**|**A Novel Framework of Horizontal-Vertical Hybrid Federated Learning for EdgeIoT**|Kai Li et.al.|[2410.01644](http://arxiv.org/abs/2410.01644)|null|
 |**2024-10-02**|**Fair Class-Incremental Learning using Sample Weighting**|Jaeyoung Park et.al.|[2410.01324](http://arxiv.org/abs/2410.01324)|null|
 |**2024-10-02**|**SurgeoNet: Realtime 3D Pose Estimation of Articulated Surgical Instruments from Stereo Images using a Synthetically-trained Network**|Ahmed Tawfik Aboukhadra et.al.|[2410.01293](http://arxiv.org/abs/2410.01293)|null|
