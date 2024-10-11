@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-08**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285](http://arxiv.org/abs/2410.06285)|null|
 |**2024-10-08**|**Submodular Optimization for Keyframe Selection & Usage in SLAM**|David Thorne et.al.|[2410.05576](http://arxiv.org/abs/2410.05576)|null|
 |**2024-10-07**|**SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**|Denis Davletshin et.al.|[2410.05405](http://arxiv.org/abs/2410.05405)|null|
@@ -665,6 +666,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434](http://arxiv.org/abs/2410.07434)|null|
 |**2024-10-09**|**Deep HI Mapping of M 106 Group with FAST**|Yao Liu et.al.|[2410.07038](http://arxiv.org/abs/2410.07038)|null|
 |**2024-10-09**|**MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data**|Mingu Kang et.al.|[2410.06442](http://arxiv.org/abs/2410.06442)|null|
 |**2024-10-08**|**Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**|Charalambos Tzamos et.al.|[2410.05984](http://arxiv.org/abs/2410.05984)|**[link](https://github.com/kocurvik/rd)**|
@@ -937,6 +939,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
 |**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|null|
 |**2024-10-09**|**MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**|Noel C. F. Codella et.al.|[2410.06542](http://arxiv.org/abs/2410.06542)|null|
@@ -2381,12 +2384,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
+|**2024-10-09**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734](http://arxiv.org/abs/2410.06734)|null|
 |**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475](http://arxiv.org/abs/2410.06475)|null|
 |**2024-10-08**|**Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**|Guoji Tian et.al.|[2410.05772](http://arxiv.org/abs/2410.05772)|null|
 |**2024-10-07**|**Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**|Ziwei Liao et.al.|[2410.05514](http://arxiv.org/abs/2410.05514)|**[link](https://github.com/trailab/generalobjectmapping)**|
-|**2024-10-07**|**PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**|Chuanhao Sun et.al.|[2410.05468](http://arxiv.org/abs/2410.05468)|null|
+|**2024-10-07**|**PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**|Chuanhao Sun et.al.|[2410.05468](http://arxiv.org/abs/2410.05468)|**[link](https://github.com/thanostriantafyllou3/ph-dropout)**|
 |**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111](http://arxiv.org/abs/2410.05111)|null|
 |**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974](http://arxiv.org/abs/2410.04974)|null|
 |**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873](http://arxiv.org/abs/2410.04873)|null|
@@ -3683,6 +3689,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Poison-splat: Computation Cost Attack on 3D Gaussian Splatting**|Jiahao Lu et.al.|[2410.08190](http://arxiv.org/abs/2410.08190)|**[link](https://github.com/jiahaolu97/poison-splat)**|
+|**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
+|**2024-10-10**|**Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency**|Florian Hahlbohm et.al.|[2410.08129](http://arxiv.org/abs/2410.08129)|null|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
+|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|null|
+|**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872](http://arxiv.org/abs/2410.07872)|null|
+|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/abs/2410.07707)|null|
+|**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-09**|**ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion**|Lu Chen et.al.|[2410.06613](http://arxiv.org/abs/2410.06613)|null|
 |**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475](http://arxiv.org/abs/2410.06475)|null|
@@ -4043,6 +4057,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**PubMed knowledge graph 2.0: Connecting papers, patents, and clinical trials in biomedical science**|Jian Xu et.al.|[2410.07969](http://arxiv.org/abs/2410.07969)|null|
+|**2024-10-10**|**Determining the Magnetic Field in the Galactic Plane from New Arecibo Pulsar Faraday Rotation Measurements**|Alice P. Curtin et.al.|[2410.07967](http://arxiv.org/abs/2410.07967)|null|
+|**2024-10-10**|**A Lightweight Target-Driven Network of Stereo Matching for Inland Waterways**|Jing Su et.al.|[2410.07915](http://arxiv.org/abs/2410.07915)|null|
+|**2024-10-10**|**Multi-Scale Deformable Transformers for Student Learning Behavior Detection in Smart Classroom**|Zhifeng Wang et.al.|[2410.07834](http://arxiv.org/abs/2410.07834)|null|
+|**2024-10-09**|**ACDC: Automated Creation of Digital Cousins for Robust Policy Learning**|Tianyuan Dai et.al.|[2410.07408](http://arxiv.org/abs/2410.07408)|null|
+|**2024-10-09**|**Enhancing Performance of Point Cloud Completion Networks with Consistency Loss**|Kevin Tirta Wijaya et.al.|[2410.07298](http://arxiv.org/abs/2410.07298)|null|
 |**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
 |**2024-10-10**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
 |**2024-10-09**|**CoBa: Convergence Balancer for Multitask Finetuning of Large Language Models**|Zi Gong et.al.|[2410.06741](http://arxiv.org/abs/2410.06741)|**[link](https://github.com/codefuse-ai/mftcoder)**|
@@ -4623,6 +4643,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Color-Guided Flying Pixel Correction in Depth Images**|Ekamresh Vasudevan et.al.|[2410.08084](http://arxiv.org/abs/2410.08084)|null|
+|**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434](http://arxiv.org/abs/2410.07434)|null|
 |**2024-10-09**|**Structure-Centric Robust Monocular Depth Estimation via Knowledge Distillation**|Runze Chen et.al.|[2410.06982](http://arxiv.org/abs/2410.06982)|null|
 |**2024-10-09**|**Analysis of different disparity estimation techniques on aerial stereo image datasets**|Ishan Narayan et.al.|[2410.06711](http://arxiv.org/abs/2410.06711)|null|
 |**2024-10-08**|**Vision Transformer based Random Walk for Group Re-Identification**|Guoqing Zhang et.al.|[2410.05808](http://arxiv.org/abs/2410.05808)|null|
@@ -4837,6 +4859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/abs/2410.07707)|null|
 |**2024-10-09**|**Z-upscaling: Optical Flow Guided Frame Interpolation for Isotropic Reconstruction of 3D EM Volumes**|Fisseha A. Ferede et.al.|[2410.07043](http://arxiv.org/abs/2410.07043)|**[link](https://github.com/fisseha21/z-upscaling)**|
 |**2024-10-08**|**Future frame prediction in chest cine MR imaging using the PCA respiratory motion model and dynamically trained recurrent neural networks**|Michel Pohl et.al.|[2410.05882](http://arxiv.org/abs/2410.05882)|null|
 |**2024-10-01**|**Descriptor: Face Detection Dataset for Programmable Threshold-Based Sparse-Vision**|Riadul Islam et.al.|[2410.00368](http://arxiv.org/abs/2410.00368)|**[link](https://github.com/riaduli/thresholded_event_vision_face_dataset)**|
@@ -5165,6 +5188,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**First experimental study of multiple orientation muon tomography, with image optimization in sparse data environments**|Jesus J. Valencia et.al.|[2410.07264](http://arxiv.org/abs/2410.07264)|null|
 |**2024-10-02**|**Recording dynamic facial micro-expressions with a multi-focus camera array**|Lucas Kreiss et.al.|[2410.01973](http://arxiv.org/abs/2410.01973)|null|
 |**2024-10-09**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**Frequency-Dependent F-Numbers Suppress Grating Lobes and Improve the Lateral Resolution in Line-by-Line Scanning**|Martin F. Schiffner et.al.|[2410.01593](http://arxiv.org/abs/2410.01593)|null|
