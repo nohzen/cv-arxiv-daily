@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3687,7 +3687,7 @@ layout: default
 |**2024-10-09**|**ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion**|Lu Chen et.al.|[2410.06613](http://arxiv.org/abs/2410.06613)|null|
 |**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475](http://arxiv.org/abs/2410.06475)|null|
 |**2024-10-08**|**HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction**|Shengji Tang et.al.|[2410.06245](http://arxiv.org/abs/2410.06245)|null|
-|**2024-10-08**|**RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**|Tianyuan Zhang et.al.|[2410.06231](http://arxiv.org/abs/2410.06231)|null|
+|**2024-10-10**|**RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**|Tianyuan Zhang et.al.|[2410.06231](http://arxiv.org/abs/2410.06231)|null|
 |**2024-10-08**|**GSLoc: Visual Localization with 3D Gaussian Splatting**|Kazii Botashev et.al.|[2410.06165](http://arxiv.org/abs/2410.06165)|null|
 |**2024-10-08**|**SplaTraj: Camera Trajectory Generation with Semantic Gaussian Splatting**|Xinyi Liu et.al.|[2410.06014](http://arxiv.org/abs/2410.06014)|null|
 |**2024-10-08**|**Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**|Guoji Tian et.al.|[2410.05772](http://arxiv.org/abs/2410.05772)|null|
@@ -4044,7 +4044,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
-|**2024-10-09**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
+|**2024-10-10**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
 |**2024-10-09**|**CoBa: Convergence Balancer for Multitask Finetuning of Large Language Models**|Zi Gong et.al.|[2410.06741](http://arxiv.org/abs/2410.06741)|**[link](https://github.com/codefuse-ai/mftcoder)**|
 |**2024-10-09**|**Analysis of different disparity estimation techniques on aerial stereo image datasets**|Ishan Narayan et.al.|[2410.06711](http://arxiv.org/abs/2410.06711)|null|
 |**2024-10-09**|**Decomposing Relationship from 1-to-N into N 1-to-1 for Text-Video Retrieval**|Jian Xiao et.al.|[2410.06618](http://arxiv.org/abs/2410.06618)|null|
@@ -4629,7 +4629,7 @@ layout: default
 |**2024-10-08**|**CUBE360: Learning Cubic Field Representation for Monocular 360 Depth Estimation for Virtual Reality**|Wenjie Chang et.al.|[2410.05735](http://arxiv.org/abs/2410.05735)|null|
 |**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044](http://arxiv.org/abs/2410.05044)|null|
 |**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646](http://arxiv.org/abs/2410.04646)|null|
-|**2024-10-05**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041](http://arxiv.org/abs/2410.04041)|null|
+|**2024-10-10**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041](http://arxiv.org/abs/2410.04041)|null|
 |**2024-10-04**|**Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**|Laura Fink et.al.|[2410.03861](http://arxiv.org/abs/2410.03861)|null|
 |**2024-10-03**|**DecTrain: Deciding When to Train a DNN Online**|Zih-Sing Fu et.al.|[2410.02980](http://arxiv.org/abs/2410.02980)|null|
 |**2024-10-03**|**RSA: Resolving Scale Ambiguities in Monocular Depth Estimators through Language Descriptions**|Ziyao Zeng et.al.|[2410.02924](http://arxiv.org/abs/2410.02924)|null|
