@@ -24,10 +24,10 @@ layout: default
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
 |**2024-10-14**|**MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**|Taozhe Li et.al.|[2410.10669](http://arxiv.org/abs/2410.10669)|null|
 |**2024-10-13**|**Markerless Aerial-Terrestrial Co-Registration of Forest Point Clouds using a Deformable Pose Graph**|Benoit Casseau et.al.|[2410.09896](http://arxiv.org/abs/2410.09896)|null|
-|**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](http://arxiv.org/abs/2410.09503)|null|
+|**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](http://arxiv.org/abs/2410.09503)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-10-12**|**An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation**|Wei Liang et.al.|[2410.09443](http://arxiv.org/abs/2410.09443)|null|
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
-|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
+|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|**[link](https://github.com/hku-mars/Voxel-SLAM)**|
 |**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780](http://arxiv.org/abs/2410.08780)|null|
 |**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262](http://arxiv.org/abs/2410.08262)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
@@ -1070,7 +1070,7 @@ layout: default
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 |**2024-07-12**|**Are They the Same Picture? Adapting Concept Bottleneck Models for Human-AI Collaboration in Image Retrieval**|Vaibhav Balloli et.al.|[2407.08908](http://arxiv.org/abs/2407.08908)|**[link](https://github.com/realize-lab/chair)**|
 |**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162](http://arxiv.org/abs/2407.08162)|**[link](https://github.com/QVPR/aarapsiproject)**|
-|**2024-07-12**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153](http://arxiv.org/abs/2407.08153)|null|
+|**2024-07-12**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153](http://arxiv.org/abs/2407.08153)|**[link](https://github.com/OliverZXY/LWSR)**|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611](http://arxiv.org/abs/2407.06611)|null|
@@ -2687,7 +2687,7 @@ layout: default
 |**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678](http://arxiv.org/abs/2405.19678)|**[link](https://github.com/hardyho/ultrametric_feature_fields)**|
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
 |**2024-06-02**|**NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**|Weining Ren et.al.|[2405.18715](http://arxiv.org/abs/2405.18715)|**[link](https://github.com/cvg/nerf-on-the-go)**|
-|**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
+|**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|**[link](https://github.com/xiaohao-xu/unified-pretrain-ad)**|
 |**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891](http://arxiv.org/abs/2405.17891)|null|
 |**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|**[link](https://github.com/zhaohaoyu376/hfgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
@@ -4144,7 +4144,7 @@ layout: default
 |**2024-10-16**|**A Location Validation Technique to Mitigate GPS Spoofing Attacks in IEEE 802.11p based Fleet Operator's Network of Electric Vehicles**|Ankita Samaddar et.al.|[2410.13031](http://arxiv.org/abs/2410.13031)|null|
 |**2024-10-16**|**Stability properties for subgroups generated by return words**|France Gheeraert et.al.|[2410.12534](http://arxiv.org/abs/2410.12534)|null|
 |**2024-10-16**|**Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention**|Weixuan Wang et.al.|[2410.12462](http://arxiv.org/abs/2410.12462)|**[link](https://github.com/weixuan-wang123/INCLINE)**|
-|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[2410.12394](http://arxiv.org/abs/2410.12394)|null|
+|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[2410.12394](http://arxiv.org/abs/2410.12394)|**[link](https://github.com/weiyangdaren/streamdsgn-pytorch)**|
 |**2024-10-16**|**Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs**|Lei Sun et.al.|[2410.12298](http://arxiv.org/abs/2410.12298)|null|
 |**2024-10-15**|**A Software Engineering Capstone Course Facilitated By GitHub Templates**|Spencer Smith et.al.|[2410.12114](http://arxiv.org/abs/2410.12114)|null|
 |**2024-10-15**|**DAXA: Traversing the X-ray desert by Democratising Archival X-ray Astronomy**|David J. Turner et.al.|[2410.11954](http://arxiv.org/abs/2410.11954)|**[link](https://github.com/DavidT3/DAXA)**|
@@ -4159,7 +4159,7 @@ layout: default
 |**2024-10-14**|**Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation**|Peiwen Sun et.al.|[2410.10676](http://arxiv.org/abs/2410.10676)|null|
 |**2024-10-14**|**MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**|Taozhe Li et.al.|[2410.10669](http://arxiv.org/abs/2410.10669)|null|
 |**2024-10-14**|**Double Jeopardy and Climate Impact in the Use of Large Language Models: Socio-economic Disparities and Reduced Utility for Non-English Speakers**|Aivin V. Solatorio et.al.|[2410.10665](http://arxiv.org/abs/2410.10665)|null|
-|**2024-10-14**|**Energetic Analysis of Emerging Quantum Communication Protocols**|Raja Yehia et.al.|[2410.10661](http://arxiv.org/abs/2410.10661)|null|
+|**2024-10-14**|**Energetic Analysis of Emerging Quantum Communication Protocols**|Raja Yehia et.al.|[2410.10661](http://arxiv.org/abs/2410.10661)|**[link](https://github.com/rajayehia/qenergy)**|
 |**2024-10-14**|**Dual-Path Mechanism of Amino Acid Racemization Mediated by Quantum Mechanical Tunneling**|Xinrui Yang et.al.|[2410.10544](http://arxiv.org/abs/2410.10544)|null|
 |**2024-10-14**|**Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world**|Han Ling et.al.|[2410.10453](http://arxiv.org/abs/2410.10453)|**[link](https://github.com/hanlingsgjk/unifiedgeneralization)**|
 |**2024-10-14**|**Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key**|Yingda Chen et.al.|[2410.10210](http://arxiv.org/abs/2410.10210)|null|
@@ -4250,7 +4250,7 @@ layout: default
 |**2024-09-24**|**AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation**|Jintao Zhang et.al.|[2409.16027](http://arxiv.org/abs/2409.16027)|null|
 |**2024-09-24**|**NER-Luxury: Named entity recognition for the fashion and luxury domain**|Akim Mousterou et.al.|[2409.15804](http://arxiv.org/abs/2409.15804)|null|
 |**2024-09-24**|**Identified-and-Targeted: The First Early Evidence of the Privacy-Invasive Use of Browser Fingerprinting for Online Tracking**|Zengrui Liu et.al.|[2409.15656](http://arxiv.org/abs/2409.15656)|null|
-|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545](http://arxiv.org/abs/2409.15545)|null|
+|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545](http://arxiv.org/abs/2409.15545)|**[link](https://github.com/microsoft/fadtk)**|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 |**2024-09-23**|**An Adverse Weather-Immune Scheme with Unfolded Regularization and Foundation Model Knowledge Distillation for Street Scene Understanding**|Wei-Bin Kou et.al.|[2409.14737](http://arxiv.org/abs/2409.14737)|null|
 |**2024-09-22**|**Exploring Multilingual Probing in Large Language Models: A Cross-Language Analysis**|Daoyang Li et.al.|[2409.14459](http://arxiv.org/abs/2409.14459)|null|
@@ -4788,7 +4788,7 @@ layout: default
 |**2024-09-29**|**KineDepth: Utilizing Robot Kinematics for Online Metric Depth Estimation**|Soofiyan Atar et.al.|[2409.19490](http://arxiv.org/abs/2409.19490)|null|
 |**2024-09-27**|**Speckle-illumination spatial frequency domain imaging with a stereo laparoscope for profile-corrected optical property mapping**|Anthony A. Song et.al.|[2409.19153](http://arxiv.org/abs/2409.19153)|null|
 |**2024-09-26**|**Self-supervised Monocular Depth Estimation with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17895](http://arxiv.org/abs/2409.17895)|null|
-|**2024-09-26**|**Self-Distilled Depth Refinement with Noisy Poisson Fusion**|Jiaqi Li et.al.|[2409.17880](http://arxiv.org/abs/2409.17880)|null|
+|**2024-09-26**|**Self-Distilled Depth Refinement with Noisy Poisson Fusion**|Jiaqi Li et.al.|[2409.17880](http://arxiv.org/abs/2409.17880)|**[link](https://github.com/lijia7/sddr)**|
 |**2024-09-27**|**A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**|Aurel Pjetri et.al.|[2409.17851](http://arxiv.org/abs/2409.17851)|null|
 |**2024-09-26**|**Event-based Stereo Depth Estimation: A Survey**|Suman Ghosh et.al.|[2409.17680](http://arxiv.org/abs/2409.17680)|null|
 |**2024-09-26**|**CAMOT: Camera Angle-aware Multi-Object Tracking**|Felix Limanta et.al.|[2409.17533](http://arxiv.org/abs/2409.17533)|null|
