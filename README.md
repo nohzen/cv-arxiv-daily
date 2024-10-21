@@ -1921,6 +1921,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718](http://arxiv.org/abs/2410.12718)|null|
 |**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848](http://arxiv.org/abs/2410.11848)|null|
@@ -2448,6 +2449,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177](http://arxiv.org/abs/2410.14177)|null|
+|**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169](http://arxiv.org/abs/2410.14169)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
 |**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465](http://arxiv.org/abs/2410.13465)|null|
@@ -3768,6 +3771,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462](http://arxiv.org/abs/2410.14462)|null|
+|**2024-10-18**|**Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**|Wenyuan Zhang et.al.|[2410.14189](http://arxiv.org/abs/2410.14189)|null|
+|**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169](http://arxiv.org/abs/2410.14169)|null|
 |**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862](http://arxiv.org/abs/2410.13862)|**[link](https://github.com/cvg/depthsplat)**|
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
 |**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613](http://arxiv.org/abs/2410.13613)|null|
@@ -4162,6 +4168,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Dialetto, ma Quanto Dialetto? Transcribing and Evaluating Dialects on a Continuum**|Ryan Soh-Eun Shim et.al.|[2410.14589](http://arxiv.org/abs/2410.14589)|null|
+|**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
+|**2024-10-18**|**Coded Water-Filling for Multi-User Interference Cancellation**|Yuan Li et.al.|[2410.14136](http://arxiv.org/abs/2410.14136)|null|
+|**2024-10-17**|**Auditing and Enforcing Conditional Fairness via Optimal Transport**|Mohsen Ghassemi et.al.|[2410.14029](http://arxiv.org/abs/2410.14029)|null|
 |**2024-10-17**|**A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models**|Qiaoyu Tang et.al.|[2410.13841](http://arxiv.org/abs/2410.13841)|null|
 |**2024-10-17**|**The Disparate Benefits of Deep Ensembles**|Kajetan Schweighofer et.al.|[2410.13831](http://arxiv.org/abs/2410.13831)|**[link](https://github.com/ml-jku/disparate-benefits)**|
 |**2024-10-17**|**Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors**|Georgios Chochlakis et.al.|[2410.13776](http://arxiv.org/abs/2410.13776)|null|
@@ -5147,6 +5157,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Enhancing In-vehicle Multiple Object Tracking Systems with Embeddable Ising Machines**|Kosuke Tatsumura et.al.|[2410.14093](http://arxiv.org/abs/2410.14093)|null|
 |**2024-10-17**|**Temporal-Enhanced Multimodal Transformer for Referring Multi-Object Tracking and Segmentation**|Changcheng Xiao et.al.|[2410.13437](http://arxiv.org/abs/2410.13437)|null|
 |**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240](http://arxiv.org/abs/2410.13240)|null|
 |**2024-10-15**|**CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos**|Nikita Karaev et.al.|[2410.11831](http://arxiv.org/abs/2410.11831)|null|
@@ -5359,10 +5370,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Variable Aperture Bokeh Rendering via Customized Focal Plane Guidance**|Kang Chen et.al.|[2410.14400](http://arxiv.org/abs/2410.14400)|**[link](https://github.com/motong-ai-studio/vabm)**|
 |**2024-10-17**|**Accurate Checkerboard Corner Detection under Defoucs**|Zezhun Shi et.al.|[2410.13371](http://arxiv.org/abs/2410.13371)|null|
 |**2024-10-08**|**First experimental study of multiple orientation muon tomography, with image optimization in sparse data environments**|Jesus J. Valencia et.al.|[2410.07264](http://arxiv.org/abs/2410.07264)|null|
 |**2024-10-02**|**Recording dynamic facial micro-expressions with a multi-focus camera array**|Lucas Kreiss et.al.|[2410.01973](http://arxiv.org/abs/2410.01973)|null|
-|**2024-10-09**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
+|**2024-10-18**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**Frequency-Dependent F-Numbers Suppress Grating Lobes and Improve the Lateral Resolution in Line-by-Line Scanning**|Martin F. Schiffner et.al.|[2410.01593](http://arxiv.org/abs/2410.01593)|null|
 |**2024-10-02**|**Estimating Atmospheric Wind Speeds From Gemini Planet Imager AO Telemetry**|Zhenxi Du et.al.|[2410.01193](http://arxiv.org/abs/2410.01193)|null|
 |**2024-09-28**|**Extending Depth of Field for Varifocal Multiview Images**|Zhilong Li et.al.|[2409.19220](http://arxiv.org/abs/2409.19220)|null|
