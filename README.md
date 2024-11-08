@@ -28,6 +28,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev et.al.|[2411.04797](http://arxiv.org/abs/2411.04797)|null|
+|**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928](http://arxiv.org/abs/2411.03928)|null|
 |**2024-11-06**|**Performance evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward**|Shashi Kumar et.al.|[2411.03866](http://arxiv.org/abs/2411.03866)|null|
 |**2024-11-06**|**LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**|Jiahui Wang et.al.|[2411.03610](http://arxiv.org/abs/2411.03610)|**[link](https://github.com/laliwang/lcp-fusion)**|
@@ -1009,7 +1011,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
-|**2024-11-04**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
+|**2024-11-06**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-11-03**|**Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**|MD Shaikh Rahman et.al.|[2411.01473](http://arxiv.org/abs/2411.01473)|null|
@@ -2226,6 +2228,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
 |**2024-11-05**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
@@ -2503,6 +2506,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
+|**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
+|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487](http://arxiv.org/abs/2411.03487)|null|
 |**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979](http://arxiv.org/abs/2411.02979)|null|
@@ -3859,14 +3865,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-06**|**GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
+|**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006](http://arxiv.org/abs/2411.05006)|null|
+|**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
+|**2024-11-07**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
 |**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706](http://arxiv.org/abs/2411.03706)|null|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555](http://arxiv.org/abs/2411.03555)|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703](http://arxiv.org/abs/2411.02703)|null|
 |**2024-11-04**|**Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting**|Joey Wilson et.al.|[2411.02547](http://arxiv.org/abs/2411.02547)|null|
-|**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332](http://arxiv.org/abs/2411.02332)|null|
+|**2024-11-06**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332](http://arxiv.org/abs/2411.02332)|null|
 |**2024-11-05**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229](http://arxiv.org/abs/2411.02229)|null|
 |**2024-11-06**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
 |**2024-11-02**|**Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting**|Fengze Li et.al.|[2411.01218](http://arxiv.org/abs/2411.01218)|null|
@@ -4306,6 +4314,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
+|**2024-11-06**|**Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation**|Teppei Kurita et.al.|[2411.04714](http://arxiv.org/abs/2411.04714)|null|
+|**2024-11-07**|**The Multiple Dimensions of Spuriousness in Machine Learning**|Samuel J. Bell et.al.|[2411.04696](http://arxiv.org/abs/2411.04696)|null|
+|**2024-11-07**|**Comparing Fairness of Generative Mobility Models**|Daniel Wang et.al.|[2411.04453](http://arxiv.org/abs/2411.04453)|null|
+|**2024-11-06**|**Topology Bench: Systematic Graph Based Benchmarking for Core Optical Networks**|Robin Matzner et.al.|[2411.04160](http://arxiv.org/abs/2411.04160)|null|
 |**2024-11-06**|**Optimizing Quantum Circuits, Fast and Slow**|Amanda Xu et.al.|[2411.04104](http://arxiv.org/abs/2411.04104)|null|
 |**2024-11-06**|**These Maps Are Made by Propagation: Adapting Deep Stereo Networks to Road Scenarios with Decisive Disparity Diffusion**|Chuang-Wei Liu et.al.|[2411.03717](http://arxiv.org/abs/2411.03717)|null|
 |**2024-11-06**|**Physical Layer Deception in OFDM Systems**|Wenwen Chen et.al.|[2411.03677](http://arxiv.org/abs/2411.03677)|null|
@@ -5007,6 +5020,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**D $^3$ epth: Self-Supervised Depth Estimation with Dynamic Mask in Dynamic Scenes**|Siyu Chen et.al.|[2411.04826](http://arxiv.org/abs/2411.04826)|null|
+|**2024-11-06**|**Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation**|Teppei Kurita et.al.|[2411.04714](http://arxiv.org/abs/2411.04714)|null|
+|**2024-11-07**|**Enhancing Bronchoscopy Depth Estimation through Synthetic-to-Real Domain Adaptation**|Qingyao Tian et.al.|[2411.04404](http://arxiv.org/abs/2411.04404)|null|
+|**2024-11-04**|**PMPNet: Pixel Movement Prediction Network for Monocular Depth Estimation in Dynamic Scenes**|Kebin Peng et.al.|[2411.04227](http://arxiv.org/abs/2411.04227)|null|
 |**2024-11-06**|**Adaptive Stereo Depth Estimation with Multi-Spectral Images Across All Lighting Conditions**|Zihan Qin et.al.|[2411.03638](http://arxiv.org/abs/2411.03638)|null|
 |**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya et.al.|[2411.03303](http://arxiv.org/abs/2411.03303)|null|
 |**2024-11-05**|**Correlation of Object Detection Performance with Visual Saliency and Depth Estimation**|Matthias Bartolo et.al.|[2411.02844](http://arxiv.org/abs/2411.02844)|**[link](https://github.com/mbar0075/object-detection-correlation-saliency-vs-depth)**|
@@ -5255,7 +5272,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-06**|**AMNCutter: Affinity-Attention-Guided Multi-View Normalized Cutter for Unsupervised Surgical Instrument Segmentation**|Mingyu Sheng et.al.|[2411.03695](http://arxiv.org/abs/2411.03695)|**[link](https://github.com/mingyushengsmy/amncutter)**|
+|**2024-11-07**|**Seeing Through Pixel Motion: Learning Obstacle Avoidance from Optical Flow with One Camera**|Yu Hu et.al.|[2411.04413](http://arxiv.org/abs/2411.04413)|null|
+|**2024-11-07**|**AMNCutter: Affinity-Attention-Guided Multi-View Normalized Cutter for Unsupervised Surgical Instrument Segmentation**|Mingyu Sheng et.al.|[2411.03695](http://arxiv.org/abs/2411.03695)|**[link](https://github.com/mingyushengsmy/amncutter)**|
 |**2024-11-04**|**Neural optical flow for planar and stereo PIV**|Andrew I. Masker et.al.|[2411.02373](http://arxiv.org/abs/2411.02373)|null|
 |**2024-11-03**|**Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation**|Zhenbin Wang et.al.|[2411.01647](http://arxiv.org/abs/2411.01647)|null|
 |**2024-11-03**|**Object segmentation from common fate: Motion energy processing enables human-like zero-shot generalization to random dot stimuli**|Matthias Tangemann et.al.|[2411.01505](http://arxiv.org/abs/2411.01505)|null|
