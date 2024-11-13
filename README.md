@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri et.al.|[2411.07848](http://arxiv.org/abs/2411.07848)|null|
 |**2024-11-11**|**Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**|Yasra Chandio et.al.|[2411.07146](http://arxiv.org/abs/2411.07146)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-11**|**HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation**|Xiaolong Wang et.al.|[2411.06700](http://arxiv.org/abs/2411.06700)|null|
@@ -2234,6 +2235,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
@@ -2512,6 +2514,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Material Transforms from Disentangled NeRF Representations**|Ivan Lopes et.al.|[2411.08037](http://arxiv.org/abs/2411.08037)|**[link](https://github.com/astra-vision/brdftransform)**|
 |**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
@@ -3876,9 +3879,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579](http://arxiv.org/abs/2411.07579)|null|
+|**2024-11-12**|**GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting**|Umangi Jain et.al.|[2411.07555](http://arxiv.org/abs/2411.07555)|null|
+|**2024-11-12**|**HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting**|Qiankun Gao et.al.|[2411.07541](http://arxiv.org/abs/2411.07541)|**[link](https://github.com/gqk/hicom)**|
+|**2024-11-12**|**GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering**|Zhihao Liang et.al.|[2411.07478](http://arxiv.org/abs/2411.07478)|null|
 |**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
 |**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
-|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
+|**2024-11-12**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
 |**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
@@ -4331,6 +4338,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Identifying Differential Patient Care Through Inverse Intent Inference**|Hyewon Jeong et.al.|[2411.07372](http://arxiv.org/abs/2411.07372)|null|
+|**2024-11-11**|**Targeting mediating mechanisms of social disparities with an interventional effects framework, applied to the gender pay gap in West Germany**|Christiane Didden et.al.|[2411.07368](http://arxiv.org/abs/2411.07368)|null|
+|**2024-11-11**|**$SE(3)$ Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation**|Yinshuang Xu et.al.|[2411.07326](http://arxiv.org/abs/2411.07326)|null|
+|**2024-11-11**|**Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations**|Kirti Bhagat et.al.|[2411.07320](http://arxiv.org/abs/2411.07320)|null|
 |**2024-11-10**|**Analysis of spatially clustered survival data with unobserved covariates using SBART**|Durbadal Ghosh et.al.|[2411.06591](http://arxiv.org/abs/2411.06591)|null|
 |**2024-11-10**|**Image Segmentation from Shadow-Hints using Minimum Spanning Trees**|Moritz Heep et.al.|[2411.06530](http://arxiv.org/abs/2411.06530)|null|
 |**2024-11-10**|**SymmeTac: Symmetric Color LED Driven Efficient Photometric Stereo Reconstruction Methods for Camera-based Tactile Sensors**|Jieji Ren et.al.|[2411.06377](http://arxiv.org/abs/2411.06377)|null|
@@ -5043,6 +5054,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
+|**2024-11-11**|**$SE(3)$ Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation**|Yinshuang Xu et.al.|[2411.07326](http://arxiv.org/abs/2411.07326)|null|
 |**2024-11-08**|**Enhancing Depth Image Estimation for Underwater Robots by Combining Image Processing and Machine Learning**|Quang Truong Nguyen et.al.|[2411.05344](http://arxiv.org/abs/2411.05344)|null|
 |**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao et.al.|[2411.05292](http://arxiv.org/abs/2411.05292)|null|
 |**2024-11-07**|**D $^3$ epth: Self-Supervised Depth Estimation with Dynamic Mask in Dynamic Scenes**|Siyu Chen et.al.|[2411.04826](http://arxiv.org/abs/2411.04826)|null|
@@ -5297,6 +5310,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
 |**2024-11-11**|**Breaking The Ice: Video Segmentation for Close-Range Ice-Covered Waters**|Corwin Grant Jeon MacMillan et.al.|[2411.05225](http://arxiv.org/abs/2411.05225)|null|
 |**2024-11-07**|**Seeing Through Pixel Motion: Learning Obstacle Avoidance from Optical Flow with One Camera**|Yu Hu et.al.|[2411.04413](http://arxiv.org/abs/2411.04413)|null|
 |**2024-11-07**|**AMNCutter: Affinity-Attention-Guided Multi-View Normalized Cutter for Unsupervised Surgical Instrument Segmentation**|Mingyu Sheng et.al.|[2411.03695](http://arxiv.org/abs/2411.03695)|**[link](https://github.com/mingyushengsmy/amncutter)**|
