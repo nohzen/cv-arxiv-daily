@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
+|**2024-11-20**|**Moving Horizon Estimation for Simultaneous Localization and Mapping with Robust Estimation Error Bounds**|Jelena Trisovic et.al.|[2411.13310](http://arxiv.org/abs/2411.13310)|null|
 |**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514](http://arxiv.org/abs/2411.12514)|null|
 |**2024-11-19**|**LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2411.12185](http://arxiv.org/abs/2411.12185)|null|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
@@ -719,6 +721,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
@@ -1013,6 +1016,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Globally Correlation-Aware Hard Negative Generation**|Wenjie Peng et.al.|[2411.13145](http://arxiv.org/abs/2411.13145)|**[link](https://github.com/pwenjay/gca-hng)**|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|null|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
@@ -1021,7 +1025,7 @@ layout: default
 |**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
 |**2024-11-11**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
-|**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
+|**2024-11-20**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-11-03**|**Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**|MD Shaikh Rahman et.al.|[2411.01473](http://arxiv.org/abs/2411.01473)|null|
 |**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997](http://arxiv.org/abs/2411.00997)|null|
@@ -2234,6 +2238,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|null|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
@@ -2512,6 +2517,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981](http://arxiv.org/abs/2411.12981)|null|
 |**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
 |**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
@@ -3886,9 +3892,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Generating 3D-Consistent Videos from Unposed Internet Photos**|Gene Chou et.al.|[2411.13549](http://arxiv.org/abs/2411.13549)|null|
+|**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981](http://arxiv.org/abs/2411.12981)|null|
+|**2024-11-19**|**Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting**|Haoyu Zhao et.al.|[2411.12789](http://arxiv.org/abs/2411.12789)|null|
+|**2024-11-19**|**Mini-Splatting2: Building 360 Scenes within Minutes via Aggressive Gaussian Densification**|Guangchi Fang et.al.|[2411.12788](http://arxiv.org/abs/2411.12788)|null|
 |**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510](http://arxiv.org/abs/2411.12510)|**[link](https://github.com/SanoScience/PR-ENDO)**|
 |**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
-|**2024-11-19**|**Beyond Gaussians: Fast and High-Fidelity 3D Splatting with Linear Kernels**|Haodong Chen et.al.|[2411.12440](http://arxiv.org/abs/2411.12440)|null|
+|**2024-11-20**|**Beyond Gaussians: Fast and High-Fidelity 3D Splatting with Linear Kernels**|Haodong Chen et.al.|[2411.12440](http://arxiv.org/abs/2411.12440)|null|
 |**2024-11-19**|**LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2411.12185](http://arxiv.org/abs/2411.12185)|null|
 |**2024-11-19**|**Sketch-guided Cage-based 3D Gaussian Splatting Deformation**|Tianhao Xie et.al.|[2411.12168](http://arxiv.org/abs/2411.12168)|null|
 |**2024-11-18**|**FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting**|Fangyu Wu et.al.|[2411.12089](http://arxiv.org/abs/2411.12089)|null|
@@ -4369,6 +4379,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534](http://arxiv.org/abs/2411.13534)|null|
+|**2024-11-20**|**Non-Perturbative Corrections to Charged Black Hole Evaporation**|Vyshnav Mohan et.al.|[2411.13454](http://arxiv.org/abs/2411.13454)|null|
+|**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251](http://arxiv.org/abs/2411.13251)|null|
+|**2024-11-20**|**Asymptotic-Preserving schemes for the Boltzmann mixture model with disparate mass**|Zhen Hao et.al.|[2411.13240](http://arxiv.org/abs/2411.13240)|null|
+|**2024-11-20**|**Superpixel Cost Volume Excitation for Stereo Matching**|Shanglong Liu et.al.|[2411.13105](http://arxiv.org/abs/2411.13105)|null|
+|**2024-11-19**|**MLDGG: Meta-Learning for Domain Generalization on Graphs**|Qin Tian et.al.|[2411.12913](http://arxiv.org/abs/2411.12913)|null|
+|**2024-11-19**|**Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations**|Laura N Montoya et.al.|[2411.12846](http://arxiv.org/abs/2411.12846)|null|
+|**2024-11-19**|**Human-Robot Dialogue Annotation for Multi-Modal Common Ground**|Claire Bonial et.al.|[2411.12829](http://arxiv.org/abs/2411.12829)|null|
+|**2024-11-19**|**Probing the Capacity of Language Model Agents to Operationalize Disparate Experiential Context Despite Distraction**|Sonny George et.al.|[2411.12828](http://arxiv.org/abs/2411.12828)|**[link](https://github.com/sonnygeorge/oedd)**|
 |**2024-11-19**|**Multivariate and Online Transfer Learning with Uncertainty Quantification**|Jimmy Hickey et.al.|[2411.12555](http://arxiv.org/abs/2411.12555)|null|
 |**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530](http://arxiv.org/abs/2411.12530)|**[link](https://github.com/hey-it-s-me/corple)**|
 |**2024-11-19**|**Motif Channel Opened in a White-Box: Stereo Matching via Motif Correlation Graph**|Ziyang Chen et.al.|[2411.12426](http://arxiv.org/abs/2411.12426)|**[link](https://github.com/zyangchen/mocha-stereo)**|
@@ -5115,6 +5134,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
+|**2024-11-20**|**OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging**|Rajini Makam et.al.|[2411.13230](http://arxiv.org/abs/2411.13230)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
 |**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[2411.11466](http://arxiv.org/abs/2411.11466)|null|
@@ -5383,6 +5404,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
+|**2024-11-20**|**Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark**|Bing Cao et.al.|[2411.13056](http://arxiv.org/abs/2411.13056)|null|
 |**2024-11-16**|**AnimateAnything: Consistent and Controllable Animation for Video Generation**|Guojun Lei et.al.|[2411.10836](http://arxiv.org/abs/2411.10836)|null|
 |**2024-11-15**|**OnlyFlow: Optical Flow based Motion Conditioning for Video Diffusion Models**|Mathis Koroglu et.al.|[2411.10501](http://arxiv.org/abs/2411.10501)|null|
 |**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749](http://arxiv.org/abs/2411.09749)|null|
@@ -5538,6 +5561,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Gaze2AOI: Open Source Deep-learning Based System for Automatic Area of Interest Annotation with Eye Tracking Data**|Karolina Trajkovska et.al.|[2411.13346](http://arxiv.org/abs/2411.13346)|null|
+|**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
+|**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
+|**2024-11-20**|**Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction**|Kuiran Wang et.al.|[2411.13183](http://arxiv.org/abs/2411.13183)|null|
+|**2024-11-20**|**Enhancing Thermal MOT: A Novel Box Association Method Leveraging Thermal Identity and Motion Similarity**|Wassim El Ahmar et.al.|[2411.12943](http://arxiv.org/abs/2411.12943)|null|
 |**2024-11-19**|**Resolution Improvement in OFDM-based Joint Communication and Sensing through Combined Tracking and Interpolation**|Charlotte Muth et.al.|[2411.12464](http://arxiv.org/abs/2411.12464)|null|
 |**2024-11-18**|**SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory**|Cheng-Yen Yang et.al.|[2411.11922](http://arxiv.org/abs/2411.11922)|**[link](https://github.com/yangchris11/samurai)**|
 |**2024-11-18**|**Learning a Neural Association Network for Self-supervised Multi-Object Tracking**|Shuai Li et.al.|[2411.11514](http://arxiv.org/abs/2411.11514)|null|
