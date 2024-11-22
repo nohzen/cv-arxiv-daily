@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4386,7 +4386,7 @@ layout: default
 |**2024-11-20**|**Superpixel Cost Volume Excitation for Stereo Matching**|Shanglong Liu et.al.|[2411.13105](http://arxiv.org/abs/2411.13105)|null|
 |**2024-11-19**|**MLDGG: Meta-Learning for Domain Generalization on Graphs**|Qin Tian et.al.|[2411.12913](http://arxiv.org/abs/2411.12913)|null|
 |**2024-11-19**|**Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations**|Laura N Montoya et.al.|[2411.12846](http://arxiv.org/abs/2411.12846)|null|
-|**2024-11-19**|**Human-Robot Dialogue Annotation for Multi-Modal Common Ground**|Claire Bonial et.al.|[2411.12829](http://arxiv.org/abs/2411.12829)|null|
+|**2024-11-19**|**Human-Robot Dialogue Annotation for Multi-Modal Common Ground**|Claire Bonial et.al.|[2411.12829](http://arxiv.org/abs/2411.12829)|**[link](https://github.com/USArmyResearchLab/ARL-SCOUT)**|
 |**2024-11-19**|**Probing the Capacity of Language Model Agents to Operationalize Disparate Experiential Context Despite Distraction**|Sonny George et.al.|[2411.12828](http://arxiv.org/abs/2411.12828)|**[link](https://github.com/sonnygeorge/oedd)**|
 |**2024-11-19**|**Multivariate and Online Transfer Learning with Uncertainty Quantification**|Jimmy Hickey et.al.|[2411.12555](http://arxiv.org/abs/2411.12555)|null|
 |**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530](http://arxiv.org/abs/2411.12530)|**[link](https://github.com/hey-it-s-me/corple)**|
