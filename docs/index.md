@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.28
+## Updated on 2024.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4450,7 +4450,7 @@ layout: default
 |**2024-11-27**|**A Talent-infused Policy-gradient Approach to Efficient Co-Design of Morphology and Task Allocation Behavior of Multi-Robot Systems**|Prajit KrisshnaKumar et.al.|[2411.18519](http://arxiv.org/abs/2411.18519)|null|
 |**2024-11-27**|**A comparison of extended object tracking with multi-modal sensors in indoor environment**|Jiangtao Shuai et.al.|[2411.18476](http://arxiv.org/abs/2411.18476)|null|
 |**2024-11-27**|**When does a bridge become an aeroplane?**|Tina A. Dardeno et.al.|[2411.18406](http://arxiv.org/abs/2411.18406)|null|
-|**2024-11-27**|**Helvipad: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**|Mehdi Zayene et.al.|[2411.18335](http://arxiv.org/abs/2411.18335)|null|
+|**2024-11-27**|**Helvipad: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**|Mehdi Zayene et.al.|[2411.18335](http://arxiv.org/abs/2411.18335)|**[link](https://github.com/vita-epfl/Helvipad)**|
 |**2024-11-27**|**Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision**|Jinnyeong Kim et.al.|[2411.18025](http://arxiv.org/abs/2411.18025)|null|
 |**2024-11-26**|**Updating the constraint on the quantum collapse models via kilogram masses**|Qi Dai et.al.|[2411.17588](http://arxiv.org/abs/2411.17588)|null|
 |**2024-11-26**|**Navigating Spatial Inequities in Freight Truck Crash Severity via Counterfactual Inference in Los Angeles**|Yichen Wang et.al.|[2411.17554](http://arxiv.org/abs/2411.17554)|null|
@@ -5228,7 +5228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-27**|**Helvipad: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**|Mehdi Zayene et.al.|[2411.18335](http://arxiv.org/abs/2411.18335)|null|
+|**2024-11-27**|**Helvipad: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**|Mehdi Zayene et.al.|[2411.18335](http://arxiv.org/abs/2411.18335)|**[link](https://github.com/vita-epfl/Helvipad)**|
 |**2024-11-27**|**GAPartManip: A Large-scale Part-centric Dataset for Material-Agnostic Articulated Object Manipulation**|Wenbo Cui et.al.|[2411.18276](http://arxiv.org/abs/2411.18276)|null|
 |**2024-11-27**|**SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation**|Duc-Hai Pham et.al.|[2411.18229](http://arxiv.org/abs/2411.18229)|null|
 |**2024-11-26**|**Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation**|Sudarshan Rajagopalan et.al.|[2411.17814](http://arxiv.org/abs/2411.17814)|null|
