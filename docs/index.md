@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3979,7 +3979,7 @@ layout: default
 |**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
 |**2024-12-05**|**Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps**|Yiqing Liang et.al.|[2412.04457](http://arxiv.org/abs/2412.04457)|null|
 |**2024-12-05**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
-|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|null|
+|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|**[link](https://github.com/Chumsy0725/PASLCD)**|
 |**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|null|
 |**2024-12-05**|**HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting**|Jingyu Lin et.al.|[2412.03844](http://arxiv.org/abs/2412.03844)|null|
 |**2024-12-04**|**Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos**|Hanxue Liang et.al.|[2412.03526](http://arxiv.org/abs/2412.03526)|null|
@@ -4538,7 +4538,7 @@ layout: default
 |**2024-12-05**|**Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**|Saheli Hazra et.al.|[2412.04337](http://arxiv.org/abs/2412.04337)|null|
 |**2024-12-05**|**Complexity of Vector-valued Prediction: From Linear Models to Stochastic Convex Optimization**|Matan Schliserman et.al.|[2412.04274](http://arxiv.org/abs/2412.04274)|null|
 |**2024-12-05**|**Relationships between Keywords and Strong Beats in Lyrical Music**|Callie C. Liao et.al.|[2412.04202](http://arxiv.org/abs/2412.04202)|null|
-|**2024-12-05**|**Adult Glioma Segmentation in Sub-Saharan Africa using Transfer Learning on Stratified Finetuning Data**|Abhijeet Parida et.al.|[2412.04111](http://arxiv.org/abs/2412.04111)|null|
+|**2024-12-05**|**Adult Glioma Segmentation in Sub-Saharan Africa using Transfer Learning on Stratified Finetuning Data**|Abhijeet Parida et.al.|[2412.04111](http://arxiv.org/abs/2412.04111)|**[link](https://github.com/MIC-DKFZ/MedNeXt)**|
 |**2024-12-05**|**Augmenting Minds or Automating Skills: The Differential Role of Human Capital in Generative AI's Impact on Creative Tasks**|Meiling Huang et.al.|[2412.03963](http://arxiv.org/abs/2412.03963)|null|
 |**2024-12-05**|**BEFL: Balancing Energy Consumption in Federated Learning for Mobile Edge IoT**|Zehao Ju et.al.|[2412.03950](http://arxiv.org/abs/2412.03950)|**[link](https://github.com/juzehao/befl)**|
 |**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
