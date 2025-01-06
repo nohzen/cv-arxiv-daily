@@ -36,7 +36,7 @@
 |**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343](http://arxiv.org/abs/2412.17343)|null|
 |**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282](http://arxiv.org/abs/2412.17282)|null|
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
+|**2025-01-03**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476](http://arxiv.org/abs/2412.16476)|**[link](https://github.com/machineperceptionlab/qq-slam)**|
 |**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912](http://arxiv.org/abs/2412.13912)|null|
@@ -1111,6 +1111,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**A Minimal Subset Approach for Efficient and Scalable Loop Closure**|Nikolaos Stathoulopoulos et.al.|[2501.01791](http://arxiv.org/abs/2501.01791)|null|
+|**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
 |**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377](http://arxiv.org/abs/2501.01377)|null|
 |**2025-01-02**|**Domain-invariant feature learning in brain MR imaging for content-based image retrieval**|Shuya Tobari et.al.|[2501.01326](http://arxiv.org/abs/2501.01326)|null|
@@ -4117,6 +4119,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
+|**2025-01-03**|**Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision**|Alberta Longhini et.al.|[2501.01715](http://arxiv.org/abs/2501.01715)|null|
+|**2025-01-03**|**CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction**|Chenhao Zhang et.al.|[2501.01695](http://arxiv.org/abs/2501.01695)|null|
+|**2025-01-03**|**PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping**|Tengfei Wang et.al.|[2501.01677](http://arxiv.org/abs/2501.01677)|null|
 |**2025-01-02**|**Deformable Gaussian Splatting for Efficient and High-Fidelity Reconstruction of Surgical Scenes**|Jiwei Shan et.al.|[2501.01101](http://arxiv.org/abs/2501.01101)|null|
 |**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003](http://arxiv.org/abs/2501.01003)|null|
 |**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625](http://arxiv.org/abs/2501.00625)|null|
@@ -4778,6 +4784,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949](http://arxiv.org/abs/2501.01949)|null|
+|**2025-01-03**|**Exploring Equality: An Investigation into Custom Loss Functions for Fairness Definitions**|Gordon Lee et.al.|[2501.01889](http://arxiv.org/abs/2501.01889)|null|
+|**2025-01-03**|**CycleFlow: Leveraging Cycle Consistency in Flow Matching for Speaker Style Adaptation**|Ziqi Liang et.al.|[2501.01861](http://arxiv.org/abs/2501.01861)|null|
+|**2025-01-03**|**MusicGen-Stem: Multi-stem music generation and edition through autoregressive modeling**|Simon Rouard et.al.|[2501.01757](http://arxiv.org/abs/2501.01757)|null|
+|**2025-01-03**|**The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters**|Chulun Zhou et.al.|[2501.01705](http://arxiv.org/abs/2501.01705)|null|
+|**2025-01-03**|**CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction**|Chenhao Zhang et.al.|[2501.01695](http://arxiv.org/abs/2501.01695)|null|
+|**2025-01-03**|**Equity Impacts of Public Transit Network Redesign with Shared Autonomous Mobility Services**|Max T. M. Ng et.al.|[2501.01615](http://arxiv.org/abs/2501.01615)|null|
 |**2025-01-02**|**CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries**|Shudong Liu et.al.|[2501.01282](http://arxiv.org/abs/2501.01282)|null|
 |**2025-01-02**|**TS-SatMVSNet: Slope Aware Height Estimation for Large-Scale Earth Terrain Multi-view Stereo**|Song Zhang et.al.|[2501.01049](http://arxiv.org/abs/2501.01049)|null|
 |**2025-01-02**|**Hadamard Attention Recurrent Transformer: A Strong Baseline for Stereo Matching Transformer**|Ziyang Chen et.al.|[2501.01023](http://arxiv.org/abs/2501.01023)|null|
@@ -5719,6 +5732,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
+|**2025-01-03**|**IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**|Athanasios Tragakis et.al.|[2501.01723](http://arxiv.org/abs/2501.01723)|null|
+|**2024-12-31**|**Tech Report: Divide and Conquer 3D Real-Time Reconstruction for Improved IGS**|Yicheng Zhu et.al.|[2501.01465](http://arxiv.org/abs/2501.01465)|null|
 |**2025-01-02**|**TexAVi: Generating Stereoscopic VR Video Clips from Text Descriptions**|Vriksha Srihari et.al.|[2501.01156](http://arxiv.org/abs/2501.01156)|null|
 |**2025-01-02**|**PatchRefiner V2: Fast and Lightweight Real-Domain High-Resolution Metric Depth Estimation**|Zhenyu Li et.al.|[2501.01121](http://arxiv.org/abs/2501.01121)|null|
 |**2024-12-30**|**FPGA-based Acceleration of Neural Network for Image Classification using Vitis AI**|Zhengdong Li et.al.|[2412.20974](http://arxiv.org/abs/2412.20974)|null|
@@ -6083,7 +6099,7 @@
 |**2024-12-28**|**Enhancing Marine Debris Acoustic Monitoring by Optical Flow-Based Motion Vector Analysis**|Xiaoteng Zhou et.al.|[2412.20085](http://arxiv.org/abs/2412.20085)|null|
 |**2024-12-27**|**Zero-shot Hazard Identification in Autonomous Driving: A Case Study on the COOOL Benchmark**|Lukas Picek et.al.|[2412.19944](http://arxiv.org/abs/2412.19944)|null|
 |**2024-12-27**|**Generalized Uncertainty-Based Evidential Fusion with Hybrid Multi-Head Attention for Weak-Supervised Temporal Action Localization**|Yuanpeng He et.al.|[2412.19418](http://arxiv.org/abs/2412.19418)|**[link](https://github.com/heyuanpengpku/guef)**|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
+|**2025-01-03**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-20**|**SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum**|JunEn Low et.al.|[2412.16346](http://arxiv.org/abs/2412.16346)|null|
 |**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153](http://arxiv.org/abs/2412.16153)|null|
 |**2024-12-18**|**Dynamic semantic VSLAM with known and unknown objects**|Sanghyoup Gu et.al.|[2412.14359](http://arxiv.org/abs/2412.14359)|null|
