@@ -127,7 +127,7 @@ layout: default
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|**[link](https://github.com/hku-mars/Voxel-SLAM)**|
 |**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780](http://arxiv.org/abs/2410.08780)|null|
-|**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262](http://arxiv.org/abs/2410.08262)|null|
+|**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262](http://arxiv.org/abs/2410.08262)|**[link](https://github.com/mit-acl/ROMAN)**|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-08**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285](http://arxiv.org/abs/2410.06285)|null|
 |**2024-10-08**|**Submodular Optimization for Keyframe Selection & Usage in SLAM**|David Thorne et.al.|[2410.05576](http://arxiv.org/abs/2410.05576)|null|
@@ -1187,7 +1187,7 @@ layout: default
 |**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|**[link](https://github.com/HoinJung/Unified-Debiaisng-VLM-SFID)**|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
-|**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|null|
+|**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|**[link](https://github.com/csiro-robotics/Pair-VPR)**|
 |**2024-10-09**|**MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**|Noel C. F. Codella et.al.|[2410.06542](http://arxiv.org/abs/2410.06542)|null|
 |**2024-10-08**|**Temporal Image Caption Retrieval Competition -- Description and Results**|Jakub Pokrywka et.al.|[2410.06314](http://arxiv.org/abs/2410.06314)|null|
 |**2024-10-08**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285](http://arxiv.org/abs/2410.06285)|null|
@@ -1648,7 +1648,7 @@ layout: default
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221](http://arxiv.org/abs/2307.08221)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-07-20**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|**[link](https://github.com/shiyujiao/boosting3dofaccuracy)**|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
-|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|null|
+|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|**[link](https://github.com/ramdrop/rcir)**|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
 |**2023-07-11**|**Feature Activation Map: Visual Explanation of Deep Learning Models for Image Classification**|Yi Liao et.al.|[2307.05017](http://arxiv.org/abs/2307.05017)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
@@ -4123,7 +4123,7 @@ layout: default
 |**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
 |**2025-01-03**|**Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision**|Alberta Longhini et.al.|[2501.01715](http://arxiv.org/abs/2501.01715)|null|
 |**2025-01-03**|**CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction**|Chenhao Zhang et.al.|[2501.01695](http://arxiv.org/abs/2501.01695)|null|
-|**2025-01-03**|**PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping**|Tengfei Wang et.al.|[2501.01677](http://arxiv.org/abs/2501.01677)|null|
+|**2025-01-03**|**PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping**|Tengfei Wang et.al.|[2501.01677](http://arxiv.org/abs/2501.01677)|**[link](https://github.com/tfwang-9527/pg-sag)**|
 |**2025-01-02**|**Deformable Gaussian Splatting for Efficient and High-Fidelity Reconstruction of Surgical Scenes**|Jiwei Shan et.al.|[2501.01101](http://arxiv.org/abs/2501.01101)|null|
 |**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003](http://arxiv.org/abs/2501.01003)|null|
 |**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625](http://arxiv.org/abs/2501.00625)|null|
@@ -4798,7 +4798,7 @@ layout: default
 |**2025-01-06**|**CCStereo: Audio-Visual Contextual and Contrastive Learning for Binaural Audio Generation**|Yuanhong Chen et.al.|[2501.02786](http://arxiv.org/abs/2501.02786)|null|
 |**2025-01-05**|**Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera**|Yuliang Guo et.al.|[2501.02464](http://arxiv.org/abs/2501.02464)|null|
 |**2025-01-05**|**Understand, Solve and Translate: Bridging the Multilingual Mathematical Reasoning Gap**|Hyunwoo Ko et.al.|[2501.02448](http://arxiv.org/abs/2501.02448)|null|
-|**2025-01-05**|**Unsupervised Search for Ethnic Minorities' Medical Segmentation Training Set**|Yixiao Chen et.al.|[2501.02442](http://arxiv.org/abs/2501.02442)|null|
+|**2025-01-05**|**Unsupervised Search for Ethnic Minorities' Medical Segmentation Training Set**|Yixiao Chen et.al.|[2501.02442](http://arxiv.org/abs/2501.02442)|**[link](https://github.com/yorkeyao/snp)**|
 |**2025-01-04**|**The Integration of Blockchain and Artificial Intelligence for Secure Healthcare Systems**|Umar Safdar et.al.|[2501.02169](http://arxiv.org/abs/2501.02169)|null|
 |**2025-01-03**|**How Your Location Relates to Health: Variable Importance and Interpretable Machine Learning for Environmental and Sociodemographic Data**|Ishaan Maitra et.al.|[2501.02111](http://arxiv.org/abs/2501.02111)|**[link](https://github.com/maitraishaan/vi-and-iml-medsat)**|
 |**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949](http://arxiv.org/abs/2501.01949)|null|
@@ -4814,7 +4814,7 @@ layout: default
 |**2025-01-01**|**High-Probability Polynomial-Time Complexity of Restarted PDHG for Linear Programming**|Zikai Xiong et.al.|[2501.00728](http://arxiv.org/abs/2501.00728)|null|
 |**2024-12-31**|**H-Net: A Multitask Architecture for Simultaneous 3D Force Estimation and Stereo Semantic Segmentation in Intracardiac Catheters**|Pedram Fekri et.al.|[2501.00514](http://arxiv.org/abs/2501.00514)|null|
 |**2024-12-31**|**Who Gets Recommended? Investigating Gender, Race, and Country Disparities in Paper Recommendations from Large Language Models**|Yifan Tian et.al.|[2501.00367](http://arxiv.org/abs/2501.00367)|null|
-|**2024-12-31**|**SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation**|Shi-Feng Peng et.al.|[2501.00303](http://arxiv.org/abs/2501.00303)|null|
+|**2024-12-31**|**SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation**|Shi-Feng Peng et.al.|[2501.00303](http://arxiv.org/abs/2501.00303)|**[link](https://github.com/cvl-hub/gprn)**|
 |**2024-12-30**|**A Data-Centric Approach to Detecting and Mitigating Demographic Bias in Pediatric Mental Health Text: A Case Study in Anxiety Detection**|Julia Ive et.al.|[2501.00129](http://arxiv.org/abs/2501.00129)|null|
 |**2024-12-30**|**What Makes for a Good Stereoscopic Image?**|Netanel Y. Tamir et.al.|[2412.21127](http://arxiv.org/abs/2412.21127)|null|
 |**2024-12-30**|**Closing Speed Computation using Stereo Camera and Applications in Unsignalized T-Intersection**|Gautam Kumar et.al.|[2412.20717](http://arxiv.org/abs/2412.20717)|null|
@@ -4848,7 +4848,7 @@ layout: default
 |**2024-12-22**|**Differentially Private Random Block Coordinate Descent**|Artavazd Maranjyan et.al.|[2412.17054](http://arxiv.org/abs/2412.17054)|null|
 |**2024-12-22**|**Lightweight Design and Optimization methods for DCNNs: Progress and Futures**|Hanhua Long et.al.|[2412.16886](http://arxiv.org/abs/2412.16886)|null|
 |**2024-12-21**|**Does calibration mean what they say it means; or, the reference class problem rises again**|Lily Hu et.al.|[2412.16769](http://arxiv.org/abs/2412.16769)|null|
-|**2024-12-21**|**ViM-Disparity: Bridging the Gap of Speed, Accuracy and Memory for Disparity Map Generation**|Maheswar Bora et.al.|[2412.16745](http://arxiv.org/abs/2412.16745)|null|
+|**2024-12-21**|**ViM-Disparity: Bridging the Gap of Speed, Accuracy and Memory for Disparity Map Generation**|Maheswar Bora et.al.|[2412.16745](http://arxiv.org/abs/2412.16745)|**[link](https://github.com/mbora/vim-disparity)**|
 |**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
 |**2024-12-21**|**A Unifying Family of Data-Adaptive Partitioning Algorithms**|Guy B. Oldaker IV et.al.|[2412.16713](http://arxiv.org/abs/2412.16713)|null|
 |**2024-12-20**|**Climate Impact Assessment Requires Weighting: Introducing the Weighted Climate Dataset**|Marco Gortan et.al.|[2412.15699](http://arxiv.org/abs/2412.15699)|null|
@@ -5235,7 +5235,7 @@ layout: default
 |**2024-09-25**|**The diverse star formation histories of early massive, quenched galaxies in modern galaxy formation simulations**|Claudia del P. Lagos et.al.|[2409.16916](http://arxiv.org/abs/2409.16916)|**[link](https://github.com/ICRAR/shark)**|
 |**2024-09-25**|**Pruning Multilingual Large Language Models for Multilingual Inference**|Hwichan Kim et.al.|[2409.16911](http://arxiv.org/abs/2409.16911)|**[link](https://github.com/hwichan0720/pruning_for_multilinguality)**|
 |**2024-09-25**|**An Adaptive Screen-Space Meshing Approach for Normal Integration**|Moritz Heep et.al.|[2409.16907](http://arxiv.org/abs/2409.16907)|null|
-|**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670](http://arxiv.org/abs/2409.16670)|null|
+|**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670](http://arxiv.org/abs/2409.16670)|**[link](https://github.com/allminerlab/graphlora)**|
 |**2024-09-25**|**Task-driven SLAM Benchmarking**|Yanwei Du et.al.|[2409.16573](http://arxiv.org/abs/2409.16573)|null|
 |**2024-09-24**|**Camera Calibration and Stereo via a Single Image of a Spherical Mirror**|Nissim Barzilay et.al.|[2409.16386](http://arxiv.org/abs/2409.16386)|null|
 |**2024-09-24**|**Transient bubble rising in the presence of a surfactant at very low concentrations**|D. Fernández-Martínez et.al.|[2409.16029](http://arxiv.org/abs/2409.16029)|null|
@@ -5685,7 +5685,7 @@ layout: default
 |**2024-06-04**|**VHS: High-Resolution Iterative Stereo Matching with Visual Hull Priors**|Markus Plack et.al.|[2406.02552](http://arxiv.org/abs/2406.02552)|null|
 |**2024-06-04**|**The Scandinavian Embedding Benchmarks: Comprehensive Assessment of Multilingual and Monolingual Text Embedding**|Kenneth Enevoldsen et.al.|[2406.02396](http://arxiv.org/abs/2406.02396)|**[link](https://github.com/kennethenevoldsen/scandinavian-embedding-benchmark)**|
 |**2024-06-04**|**Layer-2 Arbitrage: An Empirical Analysis of Swap Dynamics and Price Disparities on Rollups**|Krzysztof Gogol et.al.|[2406.02172](http://arxiv.org/abs/2406.02172)|null|
-|**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171](http://arxiv.org/abs/2406.02171)|null|
+|**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171](http://arxiv.org/abs/2406.02171)|**[link](https://github.com/hrii-iit/hrii_vo)**|
 |**2024-06-05**|**CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting**|Jianrong Ding et.al.|[2406.02131](http://arxiv.org/abs/2406.02131)|**[link](https://github.com/rafadd/condtsf)**|
 |**2024-06-04**|**Timescale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory**|Vinay Vaibhav et.al.|[2406.02113](http://arxiv.org/abs/2406.02113)|null|
 |**2024-06-03**|**Position: Cracking the Code of Cascading Disparity Towards Marginalized Communities**|Golnoosh Farnadi et.al.|[2406.01757](http://arxiv.org/abs/2406.01757)|null|
@@ -6461,7 +6461,7 @@ layout: default
 |**2024-09-24**|**Transformer based time series prediction of the maximum power point for solar photovoltaic cells**|Palaash Agrawal et.al.|[2409.16342](http://arxiv.org/abs/2409.16342)|null|
 |**2024-09-24**|**Self-Supervised Any-Point Tracking by Contrastive Random Walks**|Ayush Shrivastava et.al.|[2409.16288](http://arxiv.org/abs/2409.16288)|**[link](https://github.com/ayshrv/gmrw)**|
 |**2024-09-23**|**MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving**|Xiyang Wang et.al.|[2409.16149](http://arxiv.org/abs/2409.16149)|**[link](https://github.com/megvii-research/mctrack)**|
-|**2024-09-24**|**CloudTrack: Scalable UAV Tracking with Cloud Semantics**|Yannik Blei et.al.|[2409.16111](http://arxiv.org/abs/2409.16111)|null|
+|**2024-09-24**|**CloudTrack: Scalable UAV Tracking with Cloud Semantics**|Yannik Blei et.al.|[2409.16111](http://arxiv.org/abs/2409.16111)|**[link](https://github.com/utn-blei/cloudtrack)**|
 |**2024-09-22**|**TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps**|Arjun Raj et.al.|[2409.14543](http://arxiv.org/abs/2409.14543)|null|
 |**2024-09-21**|**Masks and Boxes: Combining the Best of Both Worlds for Multi-Object Tracking**|Tomasz Stanczyk et.al.|[2409.14220](http://arxiv.org/abs/2409.14220)|null|
 |**2024-09-21**|**Foundation Models for Amodal Video Instance Segmentation in Automated Driving**|Jasmin Breitenstein et.al.|[2409.14095](http://arxiv.org/abs/2409.14095)|**[link](https://github.com/ifnspaml/s-amodal)**|
