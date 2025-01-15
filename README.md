@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
@@ -1125,6 +1126,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
@@ -2706,6 +2708,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
@@ -4152,6 +4156,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-14**|**Object-Centric 2D Gaussian Splatting: Background Removal and Occlusion-Aware Pruning for Compact Object Models**|Marcel Rogge et.al.|[2501.08174](http://arxiv.org/abs/2501.08174)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](http://arxiv.org/abs/2501.07478)|**[link](https://github.com/lewis-stuart-11/3dgs-to-pc)**|
 |**2025-01-13**|**RMAvatar: Photorealistic Human Avatar Reconstruction from Monocular Video Based on Rectified Mesh-embedded Gaussians**|Sen Peng et.al.|[2501.07104](http://arxiv.org/abs/2501.07104)|null|
@@ -4841,6 +4848,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**TriMod Fusion for Multimodal Named Entity Recognition in Social Media**|Mosab Alfaqeeh et.al.|[2501.08267](http://arxiv.org/abs/2501.08267)|null|
+|**2025-01-13**|**An Investigation of Experiences Engaging the Margins in Data-Centric Innovation**|Gabriella Thompson et.al.|[2501.07690](http://arxiv.org/abs/2501.07690)|null|
 |**2025-01-13**|**Digital Twin for Smart Societies: A Catalyst for Inclusive and Accessible Healthcare**|Joshit Mohanty et.al.|[2501.07570](http://arxiv.org/abs/2501.07570)|null|
 |**2025-01-13**|**TiEBe: A Benchmark for Assessing the Current Knowledge of Large Language Models**|Thales Sales Almeida et.al.|[2501.07482](http://arxiv.org/abs/2501.07482)|null|
 |**2025-01-13**|**PrecipDiff: Leveraging image diffusion models to enhance satellite-based precipitation observations**|Ting-Yu Dai et.al.|[2501.07447](http://arxiv.org/abs/2501.07447)|null|
@@ -5822,6 +5831,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models in Monocular Depth Estimation**|Steven Landgraf et.al.|[2501.08188](http://arxiv.org/abs/2501.08188)|null|
+|**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
+|**2025-01-13**|**Fixing the Scale and Shift in Monocular Depth For Camera Pose Estimation**|Yaqing Ding et.al.|[2501.07742](http://arxiv.org/abs/2501.07742)|**[link](https://github.com/yaqding/pose_monodepth)**|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
 |**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|**[link](https://github.com/markyu98/madpose)**|
 |**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|**[link](https://github.com/maximedieudonne/dpf-star)**|
@@ -6193,6 +6205,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331](http://arxiv.org/abs/2501.08331)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
 |**2025-01-13**|**Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**|Wenping Jin et.al.|[2501.07496](http://arxiv.org/abs/2501.07496)|**[link](https://github.com/xjpp2016/mavd)**|
 |**2025-01-08**|**Edit as You See: Image-guided Video Editing via Masked Motion Modeling**|Zhi-Lin Huang et.al.|[2501.04325](http://arxiv.org/abs/2501.04325)|null|
 |**2025-01-06**|**TinySense: A Lighter Weight and More Power-efficient Avionics System for Flying Insect-scale Robots**|Zhitao Yu et.al.|[2501.03416](http://arxiv.org/abs/2501.03416)|null|
