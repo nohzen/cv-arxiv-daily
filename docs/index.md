@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4875,7 +4875,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-23**|**Analysis of Indic Language Capabilities in LLMs**|Aatman Vaidya et.al.|[2501.13912](http://arxiv.org/abs/2501.13912)|null|
 |**2025-01-23**|**You Only Crash Once v2: Perceptually Consistent Strong Features for One-Stage Domain Adaptive Detection of Space Terrain**|Timothy Chase Jr et.al.|[2501.13725](http://arxiv.org/abs/2501.13725)|null|
-|**2025-01-23**|**Watching the AI Watchdogs: A Fairness and Robustness Analysis of AI Safety Moderation Classifiers**|Akshit Achara et.al.|[2501.13302](http://arxiv.org/abs/2501.13302)|null|
+|**2025-01-23**|**Watching the AI Watchdogs: A Fairness and Robustness Analysis of AI Safety Moderation Classifiers**|Akshit Achara et.al.|[2501.13302](http://arxiv.org/abs/2501.13302)|**[link](https://github.com/acharaakshit/fairmod)**|
 |**2025-01-22**|**Flying shape and aerodynamics of a full-scale flexible Olympic windsurf sail**|J. Zhang et.al.|[2501.13254](http://arxiv.org/abs/2501.13254)|null|
 |**2025-01-22**|**On the development of open geographical data infrastructures in Latin America: progress and challenges**|Daniela Ballari et.al.|[2501.13235](http://arxiv.org/abs/2501.13235)|null|
 |**2025-01-22**|**Enhancing Multi-Attribute Fairness in Healthcare Predictive Modeling**|Xiaoyang Wang et.al.|[2501.13219](http://arxiv.org/abs/2501.13219)|null|
@@ -6277,7 +6277,7 @@ layout: default
 |**2025-01-22**|**MONA: Moving Object Detection from Videos Shot by Dynamic Camera**|Boxun Hu et.al.|[2501.13183](http://arxiv.org/abs/2501.13183)|null|
 |**2025-01-22**|**Machine Learning Modeling for Multi-order Human Visual Motion Processing**|Zitang Sun et.al.|[2501.12810](http://arxiv.org/abs/2501.12810)|**[link](https://github.com/anoymized/multi-order-motion-model)**|
 |**2025-01-21**|**Efficient Dynamic Image Reconstruction with motion estimation**|Toluwani Okunola et.al.|[2501.12497](http://arxiv.org/abs/2501.12497)|null|
-|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2025-01-22**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/abs/2501.12375)|null|
 |**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267](http://arxiv.org/abs/2501.12267)|null|
 |**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554](http://arxiv.org/abs/2501.11554)|null|
@@ -6497,14 +6497,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710](http://arxiv.org/abs/2501.13710)|null|
-|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710](http://arxiv.org/abs/2501.13710)|**[link](https://github.com/inakierregueab/yolo11-jde)**|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2025-01-22**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|null|
 |**2025-01-20**|**PD-SORT: Occlusion-Robust Multi-Object Tracking Using Pseudo-Depth Cues**|Yanchao Wang et.al.|[2501.11288](http://arxiv.org/abs/2501.11288)|**[link](https://github.com/wangyc2000/pd_sort)**|
 |**2025-01-17**|**Spatio-temporal Graph Learning on Adaptive Mined Key Frames for High-performance Multi-Object Tracking**|Futian Wang et.al.|[2501.10129](http://arxiv.org/abs/2501.10129)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
-|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360](http://arxiv.org/abs/2501.07360)|null|
+|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360](http://arxiv.org/abs/2501.07360)|**[link](https://github.com/timbervision/timbervision)**|
 |**2025-01-13**|**Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions**|Xiantong Zhao et.al.|[2501.07133](http://arxiv.org/abs/2501.07133)|null|
 |**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453](http://arxiv.org/abs/2501.05453)|null|
 |**2025-01-08**|**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**|Zeyi Huang et.al.|[2501.04336](http://arxiv.org/abs/2501.04336)|null|
