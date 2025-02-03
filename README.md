@@ -222,7 +222,7 @@
 |**2024-09-15**|**High Definition Map Mapping and Update: A General Overview and Future Directions**|Benny Wijaya et.al.|[2409.09726](http://arxiv.org/abs/2409.09726)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
 |**2024-09-14**|**Distributed Invariant Kalman Filter for Object-level Multi-robot Pose SLAM**|Haoying Li et.al.|[2409.09410](http://arxiv.org/abs/2409.09410)|null|
-|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
+|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|**[link](https://github.com/mit-lean/gevo)**|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287](http://arxiv.org/abs/2409.09287)|**[link](https://github.com/ZikangYuan/panoramic_lidar_dso)**|
 |**2024-09-11**|**Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**|Layth Hamad et.al.|[2409.07623](http://arxiv.org/abs/2409.07623)|null|
 |**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948](http://arxiv.org/abs/2409.06948)|null|
@@ -3477,7 +3477,7 @@
 |**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
 |**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561](http://arxiv.org/abs/2312.17561)|null|
-|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|**[link](https://github.com/USTC3DV/MERFStudio)**|
 |**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
@@ -4240,7 +4240,7 @@
 |**2025-01-20**|**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**|Zongqi He et.al.|[2501.11508](http://arxiv.org/abs/2501.11508)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
 |**2025-01-18**|**Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting**|Jiaqi Lin et.al.|[2501.10788](http://arxiv.org/abs/2501.10788)|null|
-|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|null|
+|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|**[link](https://github.com/SparklingH/BloomScene)**|
 |**2025-01-20**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
 |**2025-01-16**|**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**|Shi Qiu et.al.|[2501.09302](http://arxiv.org/abs/2501.09302)|null|
 |**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982](http://arxiv.org/abs/2501.08982)|null|
@@ -4650,7 +4650,7 @@
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|**[link](https://github.com/sntubix/denser)**|
 |**2024-09-15**|**SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps**|Timothy Chen et.al.|[2409.09868](http://arxiv.org/abs/2409.09868)|null|
 |**2024-09-15**|**MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation**|Shuzhao Xie et.al.|[2409.09756](http://arxiv.org/abs/2409.09756)|null|
-|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
+|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|**[link](https://github.com/mit-lean/gevo)**|
 |**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 |**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
@@ -4979,7 +4979,7 @@
 |**2025-01-21**|**FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-form-gradients**|Jiaqi Leng et.al.|[2501.11876](http://arxiv.org/abs/2501.11876)|**[link](https://github.com/nailwatts/fnin)**|
 |**2025-01-20**|**Are generative models fair? A study of racial bias in dermatological image generation**|Miguel López-Pérez et.al.|[2501.11752](http://arxiv.org/abs/2501.11752)|null|
 |**2025-01-20**|**Explain-Query-Test: Self-Evaluating LLMs Via Explanation and Comprehension Discrepancy**|Saeid Asgari Taghanaki et.al.|[2501.11721](http://arxiv.org/abs/2501.11721)|**[link](https://github.com/asgsaeid/eqt)**|
-|**2025-01-20**|**Multi-View Spectral Clustering for Graphs with Multiple View Structures**|Yorgos Tsitsikas et.al.|[2501.11422](http://arxiv.org/abs/2501.11422)|null|
+|**2025-01-20**|**Multi-View Spectral Clustering for Graphs with Multiple View Structures**|Yorgos Tsitsikas et.al.|[2501.11422](http://arxiv.org/abs/2501.11422)|**[link](https://github.com/gtsitsik/genclus)**|
 |**2025-01-20**|**UniTrans: A Unified Vertical Federated Knowledge Transfer Framework for Enhancing Cross-Hospital Collaboration**|Chung-ju Huang et.al.|[2501.11388](http://arxiv.org/abs/2501.11388)|**[link](https://github.com/chung-ju/unitrans)**|
 |**2025-01-20**|**Mitigating Spatial Disparity in Urban Prediction Using Residual-Aware Spatiotemporal Graph Neural Networks: A Chicago Case Study**|Dingyi Zhuang et.al.|[2501.11214](http://arxiv.org/abs/2501.11214)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
@@ -5338,7 +5338,7 @@
 |**2024-10-22**|**Characterizing Robocalls with Multiple Vantage Points**|Sathvik Prasad et.al.|[2410.17361](http://arxiv.org/abs/2410.17361)|null|
 |**2024-10-22**|**FairLoRA: Unpacking Bias Mitigation in Vision Models with Fairness-Driven Low-Rank Adaptation**|Rohan Sukumaran et.al.|[2410.17358](http://arxiv.org/abs/2410.17358)|null|
 |**2024-10-22**|**Dhoroni: Exploring Bengali Climate Change and Environmental Views with a Multi-Perspective News Dataset and Natural Language Processing**|Azmine Toushik Wasi et.al.|[2410.17225](http://arxiv.org/abs/2410.17225)|**[link](https://github.com/ciol-researchlab/Dhoroni)**|
-|**2024-10-22**|**Arabic Dataset for LLM Safeguard Evaluation**|Yasser Ashraf et.al.|[2410.17040](http://arxiv.org/abs/2410.17040)|null|
+|**2024-10-22**|**Arabic Dataset for LLM Safeguard Evaluation**|Yasser Ashraf et.al.|[2410.17040](http://arxiv.org/abs/2410.17040)|**[link](https://github.com/mbzuai-nlp/arabic_safety_evaluation)**|
 |**2024-10-22**|**DENOASR: Debiasing ASRs through Selective Denoising**|Anand Kumar Rai et.al.|[2410.16712](http://arxiv.org/abs/2410.16712)|null|
 |**2024-10-21**|**GReFEL: Geometry-Aware Reliable Facial Expression Learning under Bias and Imbalanced Data Distribution**|Azmine Toushik Wasi et.al.|[2410.15927](http://arxiv.org/abs/2410.15927)|null|
 |**2024-10-21**|**Analysis of short-run and long-run marginal costs of generation in the power market**|Shamim Homaei et.al.|[2410.15861](http://arxiv.org/abs/2410.15861)|null|
@@ -5987,7 +5987,7 @@
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
 |**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841](http://arxiv.org/abs/2501.11841)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
-|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|null|
+|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|**[link](https://github.com/SparklingH/BloomScene)**|
 |**2025-01-20**|**Zero-Shot Monocular Scene Flow Estimation in the Wild**|Yiqing Liang et.al.|[2501.10357](http://arxiv.org/abs/2501.10357)|null|
 |**2025-01-17**|**One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression**|Keita Miwa et.al.|[2501.10064](http://arxiv.org/abs/2501.10064)|null|
 |**2025-01-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al.|[2501.09994](http://arxiv.org/abs/2501.09994)|**[link](https://github.com/mohammedsalah98/pt_fusion)**|
