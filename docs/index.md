@@ -817,7 +817,7 @@ layout: default
 |**2025-01-21**|**Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures**|Niklas L. Schulz et.al.|[2501.12232](http://arxiv.org/abs/2501.12232)|null|
 |**2025-01-14**|**Selective Attention Merging for low resource tasks: A case study of Child ASR**|Natarajan Balaji Shankar et.al.|[2501.08468](http://arxiv.org/abs/2501.08468)|**[link](https://github.com/balaji1312/sa_merging)**|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
-|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
+|**2025-02-02**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|**[link](https://github.com/openinterx/culture3d)**|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar et.al.|[2501.06431](http://arxiv.org/abs/2501.06431)|null|
 |**2025-01-09**|**Existence of dynamical fluctuation in AMPT generated data for Au+Au collisions at 10 AGeV**|Somen Gope et.al.|[2501.05175](http://arxiv.org/abs/2501.05175)|null|
 |**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv et.al.|[2501.02821](http://arxiv.org/abs/2501.02821)|null|
@@ -2740,7 +2740,7 @@ layout: default
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
-|**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
+|**2025-02-02**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
 |**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474](http://arxiv.org/abs/2501.10474)|null|
@@ -4920,7 +4920,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-31**|**Beyond checkmate: exploring the creative chokepoints in AI text**|Nafis Irtiza Tripto et.al.|[2501.19301](http://arxiv.org/abs/2501.19301)|**[link](https://github.com/tripto03/chess_inspired_human_ai_text_distinction)**|
-|**2025-01-31**|**DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition**|Wonjun Lee et.al.|[2501.19010](http://arxiv.org/abs/2501.19010)|null|
+|**2025-02-03**|**DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition**|Wonjun Lee et.al.|[2501.19010](http://arxiv.org/abs/2501.19010)|null|
 |**2025-01-31**|**Examining the Impact of Income Inequality and Gender on School Completion in Malaysia: A Machine Learning Approach Utilizing Malaysia's Public Sector Open Data**|Muhammad Sukri Bin Ramli et.al.|[2501.18868](http://arxiv.org/abs/2501.18868)|null|
 |**2025-01-31**|**Systematic Uncertainties in the Measurement of Neutron lifetime Using Lunar Prospector Neutron Spectrometer**|Akshatha Vydula et.al.|[2501.18831](http://arxiv.org/abs/2501.18831)|null|
 |**2025-01-30**|**Zero-Shot Novel View and Depth Synthesis with Multi-View Geometric Diffusion**|Vitor Guizilini et.al.|[2501.18804](http://arxiv.org/abs/2501.18804)|null|
@@ -6353,7 +6353,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-28**|**Image Velocimetry using Direct Displacement Field estimation with Neural Networks for Fluids**|Efraín Magaña et.al.|[2501.18641](http://arxiv.org/abs/2501.18641)|null|
-|**2025-01-30**|**REMOTE: Real-time Ego-motion Tracking for Various Endoscopes via Multimodal Visual Feature Learning**|Liangjing Shao et.al.|[2501.18124](http://arxiv.org/abs/2501.18124)|null|
+|**2025-02-02**|**REMOTE: Real-time Ego-motion Tracking for Various Endoscopes via Multimodal Visual Feature Learning**|Liangjing Shao et.al.|[2501.18124](http://arxiv.org/abs/2501.18124)|null|
 |**2025-01-28**|**Improved Encoding for Overfitted Video Codecs**|Thomas Leguay et.al.|[2501.16976](http://arxiv.org/abs/2501.16976)|null|
 |**2025-01-28**|**Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid**|Estelle Lu et.al.|[2501.16959](http://arxiv.org/abs/2501.16959)|null|
 |**2025-01-28**|**Extending Information Bottleneck Attribution to Video Sequences**|Veronika Solopova et.al.|[2501.16889](http://arxiv.org/abs/2501.16889)|**[link](https://github.com/anonrep/iba-for-video-sequences)**|
