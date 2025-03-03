@@ -86,7 +86,7 @@ layout: default
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2025-01-03**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476](http://arxiv.org/abs/2412.16476)|**[link](https://github.com/machineperceptionlab/qq-slam)**|
-|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|null|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912](http://arxiv.org/abs/2412.13912)|null|
 |**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752](http://arxiv.org/abs/2412.13752)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
@@ -847,7 +847,7 @@ layout: default
 |**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang et.al.|[2502.05766](http://arxiv.org/abs/2502.05766)|**[link](https://github.com/jxzhanggg/DistillAV)**|
 |**2025-02-10**|**Building Rome with Convex Optimization**|Haoyu Han et.al.|[2502.04640](http://arxiv.org/abs/2502.04640)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
-|**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|null|
+|**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297](http://arxiv.org/abs/2502.01297)|null|
 |**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
 |**2025-01-28**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221](http://arxiv.org/abs/2501.16221)|null|
@@ -4364,7 +4364,7 @@ layout: default
 |**2025-02-07**|**SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting**|Huajian Huang et.al.|[2502.04734](http://arxiv.org/abs/2502.04734)|null|
 |**2025-02-07**|**High-Speed Dynamic 3D Imaging with Sensor Fusion Splatting**|Zihao Zou et.al.|[2502.04630](http://arxiv.org/abs/2502.04630)|null|
 |**2025-02-05**|**GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**|Mingrui Li et.al.|[2502.03228](http://arxiv.org/abs/2502.03228)|null|
-|**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|null|
+|**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-04**|**LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation**|Yang Zhou et.al.|[2502.01949](http://arxiv.org/abs/2502.01949)|null|
 |**2025-02-03**|**UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping**|Aashish Rai et.al.|[2502.01846](http://arxiv.org/abs/2502.01846)|null|
 |**2025-02-03**|**Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling**|Kang Yang et.al.|[2502.01826](http://arxiv.org/abs/2502.01826)|null|
@@ -4540,7 +4540,7 @@ layout: default
 |**2024-12-06**|**Pushing Rendering Boundaries: Hard Gaussian Splatting**|Qingshan Xu et.al.|[2412.04826](http://arxiv.org/abs/2412.04826)|null|
 |**2024-12-05**|**Turbo3D: Ultra-fast Text-to-3D Generation**|Hanzhe Hu et.al.|[2412.04470](http://arxiv.org/abs/2412.04470)|null|
 |**2024-12-05**|**QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**|Sharath Girish et.al.|[2412.04469](http://arxiv.org/abs/2412.04469)|null|
-|**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
+|**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|**[link](https://github.com/nvlabs/svraster)**|
 |**2024-12-05**|**Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps**|Yiqing Liang et.al.|[2412.04457](http://arxiv.org/abs/2412.04457)|null|
 |**2024-12-05**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
 |**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|**[link](https://github.com/Chumsy0725/PASLCD)**|
@@ -4677,7 +4677,7 @@ layout: default
 |**2024-10-30**|**Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images**|Qi Song et.al.|[2410.22705](http://arxiv.org/abs/2410.22705)|null|
 |**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128](http://arxiv.org/abs/2410.22128)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
 |**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070](http://arxiv.org/abs/2410.22070)|null|
-|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
+|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|**[link](https://github.com/Li-Yuetao/ActiveSplat)**|
 |**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566](http://arxiv.org/abs/2410.21566)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-10-28**|**Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting**|Jiawei Xu et.al.|[2410.20815](http://arxiv.org/abs/2410.20815)|null|
 |**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789](http://arxiv.org/abs/2410.20789)|null|
@@ -5113,7 +5113,7 @@ layout: default
 |**2025-02-25**|**Expected Variational Inequalities**|Brian Hu Zhang et.al.|[2502.18605](http://arxiv.org/abs/2502.18605)|null|
 |**2025-02-25**|**Exploring Gender Disparities in Automatic Speech Recognition Technology**|Hend ElGhazaly et.al.|[2502.18434](http://arxiv.org/abs/2502.18434)|null|
 |**2025-02-25**|**A Kinetic Model of Solar Wind Acceleration Driven by Ambipolar Electric Potential and Velocity-Space Diffusion**|Maximilien Péters de Bonhome et.al.|[2502.18132](http://arxiv.org/abs/2502.18132)|null|
-|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|null|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-25**|**Assessing Large Language Models in Agentic Multilingual National Bias**|Qianying Liu et.al.|[2502.17945](http://arxiv.org/abs/2502.17945)|null|
 |**2025-02-25**|**Escaping the Subprime Trap in Algorithmic Lending**|Adam Bouyamourn et.al.|[2502.17816](http://arxiv.org/abs/2502.17816)|null|
 |**2025-02-25**|**Radial dependence of ion fluences in the 2023 July 17 SEP event from Parker Solar Probe to STEREO and ACE**|G. D. Muro et.al.|[2502.17806](http://arxiv.org/abs/2502.17806)|null|
@@ -5127,10 +5127,10 @@ layout: default
 |**2025-02-24**|**PulseBat: A field-accessible dataset for second-life battery diagnostics from realistic histories using multidimensional rapid pulse test**|Shengyu Tao et.al.|[2502.16848](http://arxiv.org/abs/2502.16848)|null|
 |**2025-02-23**|**Optical appearance of a boson star with soliton potential**|Ke-Jian He et.al.|[2502.16623](http://arxiv.org/abs/2502.16623)|null|
 |**2025-02-23**|**Unmasking Societal Biases in Respiratory Support for ICU Patients through Social Determinants of Health**|Mira Moukheiber et.al.|[2502.16477](http://arxiv.org/abs/2502.16477)|**[link](https://github.com/respiratory-support/respiratory-interventions)**|
-|**2025-02-23**|**Make Literature-Based Discovery Great Again through Reproducible Pipelines**|Bojan Cestnik et.al.|[2502.16450](http://arxiv.org/abs/2502.16450)|null|
+|**2025-02-23**|**Make Literature-Based Discovery Great Again through Reproducible Pipelines**|Bojan Cestnik et.al.|[2502.16450](http://arxiv.org/abs/2502.16450)|**[link](https://github.com/akastrin/ida2025lbd)**|
 |**2025-02-23**|**Facilitating Emergency Vehicle Passage in Congested Urban Areas Using Multi-agent Deep Reinforcement Learning**|Haoran Su et.al.|[2502.16449](http://arxiv.org/abs/2502.16449)|null|
 |**2025-02-22**|**Semantic Gaussian Mixture Variational Autoencoder for Sequential Recommendation**|Beibei Li et.al.|[2502.16140](http://arxiv.org/abs/2502.16140)|**[link](https://github.com/libeibei95/sigma)**|
-|**2025-02-22**|**A Trust-Aware and Cost-Optimized Blockchain Oracle Selection Model with Deep Reinforcement Learning**|Hengyang Zhang et.al.|[2502.16133](http://arxiv.org/abs/2502.16133)|null|
+|**2025-02-22**|**A Trust-Aware and Cost-Optimized Blockchain Oracle Selection Model with Deep Reinforcement Learning**|Hengyang Zhang et.al.|[2502.16133](http://arxiv.org/abs/2502.16133)|**[link](https://github.com/elpsylearning/TCO-DRL)**|
 |**2025-02-21**|**MoMa: A Modular Deep Learning Framework for Material Property Prediction**|Botian Wang et.al.|[2502.15483](http://arxiv.org/abs/2502.15483)|null|
 |**2025-02-21**|**UrbanSAM: Learning Invariance-Inspired Adapters for Segment Anything Models in Urban Construction**|Chenyu Li et.al.|[2502.15199](http://arxiv.org/abs/2502.15199)|null|
 |**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
@@ -5143,7 +5143,7 @@ layout: default
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 |**2025-02-19**|**CardiacMamba: A Multimodal RGB-RF Fusion Framework with State Space Models for Remote Physiological Measurement**|Zheng Wu et.al.|[2502.13624](http://arxiv.org/abs/2502.13624)|null|
 |**2025-02-18**|**Two Tickets are Better than One: Fair and Accurate Hiring Under Strategic LLM Manipulations**|Lee Cohen et.al.|[2502.13221](http://arxiv.org/abs/2502.13221)|null|
-|**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
+|**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|**[link](https://github.com/lamm-mit/PRefLexOR)**|
 |**2025-02-18**|**Mean of Means: Human Localization with Calibration-free and Unconstrained Camera Settings (extended version)**|Tianyi Zhang et.al.|[2502.13017](http://arxiv.org/abs/2502.13017)|null|
 |**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752](http://arxiv.org/abs/2502.12752)|null|
 |**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
@@ -5539,7 +5539,7 @@ layout: default
 |**2024-11-11**|**Identifying Differential Patient Care Through Inverse Intent Inference**|Hyewon Jeong et.al.|[2411.07372](http://arxiv.org/abs/2411.07372)|null|
 |**2024-11-11**|**Targeting mediating mechanisms of social disparities with an interventional effects framework, applied to the gender pay gap in West Germany**|Christiane Didden et.al.|[2411.07368](http://arxiv.org/abs/2411.07368)|null|
 |**2024-11-11**|**$SE(3)$ Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation**|Yinshuang Xu et.al.|[2411.07326](http://arxiv.org/abs/2411.07326)|null|
-|**2024-11-11**|**Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations**|Kirti Bhagat et.al.|[2411.07320](http://arxiv.org/abs/2411.07320)|null|
+|**2024-11-11**|**Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations**|Kirti Bhagat et.al.|[2411.07320](http://arxiv.org/abs/2411.07320)|**[link](https://github.com/flair-iisc/richer-countries-have-richer-output)**|
 |**2024-11-10**|**Analysis of spatially clustered survival data with unobserved covariates using SBART**|Durbadal Ghosh et.al.|[2411.06591](http://arxiv.org/abs/2411.06591)|null|
 |**2024-11-10**|**Image Segmentation from Shadow-Hints using Minimum Spanning Trees**|Moritz Heep et.al.|[2411.06530](http://arxiv.org/abs/2411.06530)|null|
 |**2024-11-10**|**SymmeTac: Symmetric Color LED Driven Efficient Photometric Stereo Reconstruction Methods for Camera-based Tactile Sensors**|Jieji Ren et.al.|[2411.06377](http://arxiv.org/abs/2411.06377)|**[link](https://github.com/tacxels/symmetac)**|
@@ -6055,7 +6055,7 @@ layout: default
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
 |**2024-07-01**|**OSL-ActionSpotting: A Unified Library for Action Spotting in Sports Videos**|Yassine Benzakour et.al.|[2407.01265](http://arxiv.org/abs/2407.01265)|null|
 |**2024-07-01**|**FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models**|Ruinan Jin et.al.|[2407.00983](http://arxiv.org/abs/2407.00983)|**[link](https://github.com/FairMedFM/FairMedFM)**|
-|**2024-06-30**|**Learning System Dynamics without Forgetting**|Xikun Zhang et.al.|[2407.00717](http://arxiv.org/abs/2407.00717)|null|
+|**2024-06-30**|**Learning System Dynamics without Forgetting**|Xikun Zhang et.al.|[2407.00717](http://arxiv.org/abs/2407.00717)|**[link](https://github.com/queuq/ms-gode)**|
 |**2024-06-30**|**Unveiling Glitches: A Deep Dive into Image Encoding Bugs within CLIP**|Ayush Ranjan et.al.|[2407.00592](http://arxiv.org/abs/2407.00592)|null|
 |**2024-06-28**|**LightStereo: Channel Boost Is All Your Need for Efficient 2D Cost Aggregation**|Xianda Guo et.al.|[2406.19833](http://arxiv.org/abs/2406.19833)|**[link](https://github.com/xiandaguo/openstereo)**|
 |**2024-06-28**|**Galaxy Group Ellipticity Confirms a Younger Cosmos**|Yu Rong et.al.|[2406.19612](http://arxiv.org/abs/2406.19612)|null|
@@ -6094,7 +6094,7 @@ layout: default
 |**2024-06-20**|**1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?**|Yue Huang et.al.|[2406.14721](http://arxiv.org/abs/2406.14721)|null|
 |**2024-06-20**|**Population Activity Recovery: Milestones Unfolding, Temporal Interdependencies, and Relationship with Physical and Social Vulnerability**|Flavia Ioana Patrascu et.al.|[2406.14720](http://arxiv.org/abs/2406.14720)|null|
 |**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|**[link](https://github.com/choidami/inductive-oocr)**|
-|**2024-06-20**|**Towards Truthful Multilingual Large Language Models: Benchmarking and Alignment Strategies**|Weihao Liu et.al.|[2406.14434](http://arxiv.org/abs/2406.14434)|null|
+|**2024-06-20**|**Towards Truthful Multilingual Large Language Models: Benchmarking and Alignment Strategies**|Weihao Liu et.al.|[2406.14434](http://arxiv.org/abs/2406.14434)|**[link](https://github.com/NeosKnight233/FaMSS)**|
 |**2024-06-20**|**Watching the Watchers: A Comparative Fairness Audit of Cloud-based Content Moderation Services**|David Hartmann et.al.|[2406.14154](http://arxiv.org/abs/2406.14154)|null|
 |**2024-06-20**|**Novae: An Important Source of Lithium in the Galaxy**|Jun Gao et.al.|[2406.13986](http://arxiv.org/abs/2406.13986)|null|
 |**2024-06-19**|**Open Generative Large Language Models for Galician**|Pablo Gamallo et.al.|[2406.13893](http://arxiv.org/abs/2406.13893)|null|
