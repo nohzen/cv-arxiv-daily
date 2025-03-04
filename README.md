@@ -4339,7 +4339,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093](http://arxiv.org/abs/2502.21093)|null|
+|**2025-03-03**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093](http://arxiv.org/abs/2502.21093)|null|
 |**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669](http://arxiv.org/abs/2502.20669)|null|
 |**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/abs/2502.20386)|null|
 |**2025-02-27**|**Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling**|Hanyang Kong et.al.|[2502.20378](http://arxiv.org/abs/2502.20378)|null|
@@ -5142,7 +5142,7 @@
 |**2025-02-27**|**Educator Attention: How computational tools can systematically identify the distribution of a key resource for students**|Qingyang Zhang et.al.|[2502.20135](http://arxiv.org/abs/2502.20135)|null|
 |**2025-02-26**|**Treatment Non-Adherence Bias in Clinical Machine Learning: A Real-World Study on Hypertension Medication**|Zhongyuan Liang et.al.|[2502.19625](http://arxiv.org/abs/2502.19625)|null|
 |**2025-02-26**|**Do LLMs exhibit demographic parity in responses to queries about Human Rights?**|Rafiya Javed et.al.|[2502.19463](http://arxiv.org/abs/2502.19463)|null|
-|**2025-02-26**|**GraphBridge: Towards Arbitrary Transfer Learning in GNNs**|Li Ju et.al.|[2502.19252](http://arxiv.org/abs/2502.19252)|null|
+|**2025-03-01**|**GraphBridge: Towards Arbitrary Transfer Learning in GNNs**|Li Ju et.al.|[2502.19252](http://arxiv.org/abs/2502.19252)|null|
 |**2025-02-26**|**Improving the quality of Web-mined Parallel Corpora of Low-Resource Languages using Debiasing Heuristics**|Aloka Fernando et.al.|[2502.19074](http://arxiv.org/abs/2502.19074)|null|
 |**2025-02-26**|**The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training**|Jinbo Wang et.al.|[2502.19002](http://arxiv.org/abs/2502.19002)|null|
 |**2025-02-26**|**Disparities in Magnetic Cloud Observations Between Two Spacecraft Having Small Radial and Angular Separations Near 1 AU**|Anjali Agarwal et.al.|[2502.18919](http://arxiv.org/abs/2502.18919)|null|
@@ -6299,7 +6299,7 @@
 |**2025-02-19**|**Physical Depth-aware Early Accident Anticipation: A Multi-dimensional Visual Feature Fusion Framework**|Hongpu Huang et.al.|[2502.18496](http://arxiv.org/abs/2502.18496)|null|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
-|**2025-02-20**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
+|**2025-03-03**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
 |**2025-02-20**|**Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining**|Wonhyeok Choi et.al.|[2502.14573](http://arxiv.org/abs/2502.14573)|null|
 |**2025-02-20**|**OrchardDepth: Precise Metric Depth Estimation of Orchard Scene from Monocular Camera Images**|Zhichao Zheng et.al.|[2502.14279](http://arxiv.org/abs/2502.14279)|null|
 |**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142](http://arxiv.org/abs/2502.13142)|null|
