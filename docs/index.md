@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286](http://arxiv.org/abs/2503.04286)|null|
+|**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
+|**2025-03-06**|**DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems**|Joshua Bird et.al.|[2503.04126](http://arxiv.org/abs/2503.04126)|null|
+|**2025-03-05**|**Equivariant Filter Design for Range-only SLAM**|Yixiao Ge et.al.|[2503.03973](http://arxiv.org/abs/2503.03973)|null|
 |**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|null|
 |**2025-03-05**|**OpenGV 2.0: Motion prior-assisted calibration and SLAM with vehicle-mounted surround-view systems**|Kun Huang et.al.|[2503.03230](http://arxiv.org/abs/2503.03230)|null|
 |**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192](http://arxiv.org/abs/2503.03192)|null|
@@ -852,6 +856,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351](http://arxiv.org/abs/2503.04351)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|null|
 |**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
@@ -1203,6 +1208,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
+|**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
+|**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
+|**2025-03-06**|**Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**|Haitao Wu et.al.|[2503.04207](http://arxiv.org/abs/2503.04207)|null|
+|**2025-03-06**|**Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**|Beverley Gorry et.al.|[2503.04096](http://arxiv.org/abs/2503.04096)|null|
 |**2025-03-04**|**TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition**|Oliver Grainge et.al.|[2503.02511](http://arxiv.org/abs/2503.02511)|null|
 |**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383](http://arxiv.org/abs/2503.02383)|null|
 |**2025-03-04**|**Continual Multi-Robot Learning from Black-Box Visual Place Recognition Models**|Kenta Tsukahara et.al.|[2503.02256](http://arxiv.org/abs/2503.02256)|null|
@@ -2275,6 +2285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
 |**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
 |**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
@@ -2559,6 +2570,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis**|Xingcan Hu et.al.|[2503.04205](http://arxiv.org/abs/2503.04205)|null|
+|**2025-03-06**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
 |**2025-03-05**|**JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba**|Xiaoyong Lu et.al.|[2503.03437](http://arxiv.org/abs/2503.03437)|null|
 |**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132](http://arxiv.org/abs/2503.00132)|null|
 |**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
@@ -2860,6 +2873,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079](http://arxiv.org/abs/2503.04079)|null|
+|**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
 |**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
 |**2025-03-04**|**Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views**|Yingji Zhong et.al.|[2503.02230](http://arxiv.org/abs/2503.02230)|null|
@@ -4357,6 +4372,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
+|**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314](http://arxiv.org/abs/2503.04314)|null|
+|**2025-03-06**|**Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting**|Shuojue Yang et.al.|[2503.04082](http://arxiv.org/abs/2503.04082)|null|
+|**2025-03-06**|**Beyond Existance: Fulfill 3D Reconstructed Scenes with Pseudo Details**|Yifei Gao et.al.|[2503.04037](http://arxiv.org/abs/2503.04037)|null|
+|**2025-03-06**|**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**|Xihan Wang et.al.|[2503.04034](http://arxiv.org/abs/2503.04034)|null|
+|**2025-03-06**|**GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2503.03984](http://arxiv.org/abs/2503.03984)|null|
+|**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-05**|**NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics**|Kun Yang et.al.|[2503.03115](http://arxiv.org/abs/2503.03115)|null|
 |**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
 |**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223](http://arxiv.org/abs/2503.02223)|null|
@@ -5159,6 +5181,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**MIDAS: Modeling Ground-Truth Distributions with Dark Knowledge for Domain Generalized Stereo Matching**|Peng Xu et.al.|[2503.04376](http://arxiv.org/abs/2503.04376)|null|
+|**2025-03-06**|**Disparities in LLM Reasoning Accuracy and Explanations: A Case Study on African American English**|Runtao Zhou et.al.|[2503.04099](http://arxiv.org/abs/2503.04099)|null|
+|**2025-03-06**|**Uncovering inequalities in new knowledge learning by large language models across different languages**|Chenglong Wang et.al.|[2503.04064](http://arxiv.org/abs/2503.04064)|null|
 |**2025-03-05**|**Connecting the dots: Tracing the evolutionary pathway of Polar Ring Galaxies in the cases of NGC 3718, NGC 2685, and NGC 4262**|Krishna R. Akhil et.al.|[2503.03709](http://arxiv.org/abs/2503.03709)|null|
 |**2025-03-05**|**The Roles of Size, Packing, and Cohesion in the Emergence of Force Chains in Granular Packings**|Ankit Shrivastava et.al.|[2503.03668](http://arxiv.org/abs/2503.03668)|null|
 |**2025-03-05**|**Improved FPT Approximation Algorithms for TSP**|Jingyang Zhao et.al.|[2503.03642](http://arxiv.org/abs/2503.03642)|null|
@@ -6332,6 +6357,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**A Novel Solution for Drone Photogrammetry with Low-overlap Aerial Images using Monocular Depth Estimation**|Jiageng Zhong et.al.|[2503.04513](http://arxiv.org/abs/2503.04513)|null|
+|**2025-03-06**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
+|**2025-03-06**|**H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision**|Yunxiao Shi et.al.|[2503.04059](http://arxiv.org/abs/2503.04059)|null|
+|**2025-03-05**|**Task-Agnostic Attacks Against Vision Foundation Models**|Brian Pulfer et.al.|[2503.03842](http://arxiv.org/abs/2503.03842)|null|
 |**2025-03-05**|**Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on Architectural Design of University Buildings**|Xusheng Du et.al.|[2503.03068](http://arxiv.org/abs/2503.03068)|null|
 |**2025-03-04**|**RGBSQGrasp: Inferring Local Superquadric Primitives from Single RGB Image for Graspability-Aware Bin Picking**|Yifeng Xu et.al.|[2503.02387](http://arxiv.org/abs/2503.02387)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
@@ -6757,6 +6786,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
+|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
 |**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
 |**2025-03-05**|**BAT: Learning Event-based Optical Flow with Bidirectional Adaptive Temporal Correlation**|Gangwei Xu et.al.|[2503.03256](http://arxiv.org/abs/2503.03256)|null|
 |**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[2503.03100](http://arxiv.org/abs/2503.03100)|null|
@@ -7009,6 +7040,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Omnidirectional Multi-Object Tracking**|Kai Luo et.al.|[2503.04565](http://arxiv.org/abs/2503.04565)|null|
+|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
+|**2025-03-06**|**A Modular Pipeline for 3D Object Tracking Using RGB Cameras**|Lars Bredereke et.al.|[2503.04322](http://arxiv.org/abs/2503.04322)|null|
 |**2025-03-03**|**AI-Driven Relocation Tracking in Dynamic Kitchen Environments**|Arash Nasr Esfahani et.al.|[2503.01547](http://arxiv.org/abs/2503.01547)|**[link](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)**|
 |**2025-02-27**|**MITracker: Multi-View Integration for Visual Object Tracking**|Mengjie Xu et.al.|[2502.20111](http://arxiv.org/abs/2502.20111)|null|
 |**2025-02-26**|**Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking**|Shaheer Mohamed et.al.|[2502.18748](http://arxiv.org/abs/2502.18748)|null|
