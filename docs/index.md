@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
+|**2025-03-12**|**MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**|Bingzheng Jiang et.al.|[2503.09296](http://arxiv.org/abs/2503.09296)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
 |**2025-03-10**|**POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**|Joey Wilson et.al.|[2503.07819](http://arxiv.org/abs/2503.07819)|null|
@@ -867,7 +869,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
-|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
 |**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135](http://arxiv.org/abs/2503.07135)|null|
 |**2025-03-09**|**AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation**|Yang Zou et.al.|[2503.06660](http://arxiv.org/abs/2503.06660)|null|
 |**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
@@ -1223,6 +1225,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
 |**2025-03-11**|**CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition**|Dongyue Li et.al.|[2503.08170](http://arxiv.org/abs/2503.08170)|null|
 |**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Michael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
 |**2025-03-10**|**Zero-Shot Hashing Based on Reconstruction With Part Alignment**|Yan Jiang et.al.|[2503.07037](http://arxiv.org/abs/2503.07037)|null|
@@ -2902,6 +2905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|
 |**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
@@ -4410,6 +4414,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
+|**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
+|**2025-03-12**|**Close-up-GS: Enhancing Close-Up View Synthesis in 3D Gaussian Splatting with Progressive Self-Training**|Jiatong Xia et.al.|[2503.09396](http://arxiv.org/abs/2503.09396)|null|
+|**2025-03-12**|**GASPACHO: Gaussian Splatting for Controllable Humans and Objects**|Aymen Mir et.al.|[2503.09342](http://arxiv.org/abs/2503.09342)|null|
+|**2025-03-12**|**SDD-4DGS: Static-Dynamic Aware Decoupling in Gaussian Splatting for 4D Scene Reconstruction**|Dai Sun et.al.|[2503.09332](http://arxiv.org/abs/2503.09332)|null|
+|**2025-03-12**|**Motion Blender Gaussian Splatting for Dynamic Reconstruction**|Xinyu Zhang et.al.|[2503.09040](http://arxiv.org/abs/2503.09040)|null|
 |**2025-03-11**|**PCGS: Progressive Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2503.08511](http://arxiv.org/abs/2503.08511)|null|
 |**2025-03-11**|**TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting**|Fengyi Zhang et.al.|[2503.08485](http://arxiv.org/abs/2503.08485)|null|
 |**2025-03-11**|**Mitigating Ambiguities in 3D Classification with Gaussian Splatting**|Ruiqi Zhang et.al.|[2503.08352](http://arxiv.org/abs/2503.08352)|null|
@@ -5249,6 +5259,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**IUP: Integrated and Programmable User Plane for Next-Generation Mobile Networks**|Chieh-Chun Chen et.al.|[2503.09430](http://arxiv.org/abs/2503.09430)|null|
+|**2025-03-12**|**OpenVidVRD: Open-Vocabulary Video Visual Relation Detection via Prompt-Driven Semantic Space Alignment**|Qi Liu et.al.|[2503.09416](http://arxiv.org/abs/2503.09416)|null|
+|**2025-03-12**|**GRU: Mitigating the Trade-off between Unlearning and Retention for Large Language Models**|Yue Wang et.al.|[2503.09117](http://arxiv.org/abs/2503.09117)|null|
+|**2025-03-12**|**StratIncon Detector: Analyzing Strategy Inconsistencies Between Real-Time Strategy and Preferred Professional Strategy in MOBA Esports**|Ruofei Ma et.al.|[2503.09060](http://arxiv.org/abs/2503.09060)|null|
 |**2025-03-11**|**BoundarEase: Fostering Constructive Community Engagement to Inform More Equitable Student Assignment Policies**|Cassandra Overney et.al.|[2503.08543](http://arxiv.org/abs/2503.08543)|null|
 |**2025-03-11**|**Does excellence correspond to universal inequality level? Evidences from scholarly citations and Olympic medal data**|Soumyajyoti Biswas et.al.|[2503.08480](http://arxiv.org/abs/2503.08480)|null|
 |**2025-03-11**|**SegDesicNet: Lightweight Semantic Segmentation in Remote Sensing with Geo-Coordinate Embeddings for Domain Adaptation**|Sachin Verma et.al.|[2503.08290](http://arxiv.org/abs/2503.08290)|null|
@@ -6446,11 +6460,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160](http://arxiv.org/abs/2503.09160)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**CL-MVSNet: Unsupervised Multi-view Stereo with Dual-level Contrastive Learning**|Kaiqiang Xiong et.al.|[2503.08219](http://arxiv.org/abs/2503.08219)|null|
 |**2025-03-10**|**SIRE: SE(3) Intrinsic Rigidity Embeddings**|Cameron Smith et.al.|[2503.07739](http://arxiv.org/abs/2503.07739)|null|
 |**2025-03-10**|**LBM: Latent Bridge Matching for Fast Image-to-Image Translation**|Clément Chadebec et.al.|[2503.07535](http://arxiv.org/abs/2503.07535)|null|
-|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
 |**2025-03-11**|**LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508](http://arxiv.org/abs/2503.06508)|null|
 |**2025-03-08**|**Towards Ambiguity-Free Spatial Foundation Model: Rethinking and Decoupling Depth Ambiguity**|Xiaohao Xu et.al.|[2503.06014](http://arxiv.org/abs/2503.06014)|null|
 |**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568](http://arxiv.org/abs/2503.05568)|null|
@@ -6885,6 +6900,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Investigation of Frame Differences as Motion Cues for Video Object Segmentation**|Sota Kawamura et.al.|[2503.09132](http://arxiv.org/abs/2503.09132)|null|
 |**2025-03-11**|**Feature Alignment with Equivariant Convolutions for Burst Image Super-Resolution**|Xinyi Liu et.al.|[2503.08300](http://arxiv.org/abs/2503.08300)|null|
 |**2025-03-10**|**MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation**|Juntian Du et.al.|[2503.07046](http://arxiv.org/abs/2503.07046)|null|
 |**2025-03-11**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992](http://arxiv.org/abs/2503.06992)|null|
@@ -7507,7 +7523,7 @@ layout: default
 |**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
 |**2025-03-12**|**Free Your Hands: Lightweight Relightable Turntable Capture Pipeline**|Jiahui Fan et.al.|[2503.05511](http://arxiv.org/abs/2503.05511)|null|
 |**2025-03-03**|**Blind Augmentation: Calibration-free Camera Distortion Model Estimation for Real-time Mixed-reality Consistency**|Siddhant Prakash et.al.|[2503.01387](http://arxiv.org/abs/2503.01387)|null|
-|**2025-03-02**|**DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting**|Liao Shen et.al.|[2503.00746](http://arxiv.org/abs/2503.00746)|null|
+|**2025-03-12**|**DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting**|Liao Shen et.al.|[2503.00746](http://arxiv.org/abs/2503.00746)|null|
 |**2025-01-24**|**Linnik point spread functions, time-reversed logarithmic diffusion equations, and blind deconvolution of electron microscope imagery**|Alfred S. Carasso et.al.|[2502.19420](http://arxiv.org/abs/2502.19420)|null|
 |**2025-02-20**|**Exploiting Deblurring Networks for Radiance Fields**|Haeyun Choi et.al.|[2502.14454](http://arxiv.org/abs/2502.14454)|null|
 |**2025-02-16**|**Adjust Your Focus: Defocus Deblurring From Dual-Pixel Images Using Explicit Multi-Scale Cross-Correlation**|Kunal Swami et.al.|[2502.11002](http://arxiv.org/abs/2502.11002)|null|
