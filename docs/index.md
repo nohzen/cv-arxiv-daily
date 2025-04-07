@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7328,7 +7328,7 @@ layout: default
 |**2025-04-01**|**Beyond Wide-Angle Images: Unsupervised Video Portrait Correction via Spatiotemporal Diffusion Adaptation**|Wenbo Nie et.al.|[2504.00401](http://arxiv.org/abs/2504.00401)|null|
 |**2025-04-01**|**Hierarchical Flow Diffusion for Efficient Frame Interpolation**|Yang Hai et.al.|[2504.00380](http://arxiv.org/abs/2504.00380)|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
-|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
+|**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-28**|**Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**|Rulin Zhou et.al.|[2503.22394](http://arxiv.org/abs/2503.22394)|null|
 |**2025-03-28**|**Segment Any Motion in Videos**|Nan Huang et.al.|[2503.22268](http://arxiv.org/abs/2503.22268)|null|
 |**2025-03-28**|**Synergistic Bleeding Region and Point Detection in Surgical Videos**|Jialun Pei et.al.|[2503.22174](http://arxiv.org/abs/2503.22174)|null|
@@ -7619,7 +7619,7 @@ layout: default
 |**2025-04-02**|**COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking**|Chunhui Zhang et.al.|[2504.01321](http://arxiv.org/abs/2504.01321)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-03-31**|**Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge**|Adam Schmidt et.al.|[2503.24306](http://arxiv.org/abs/2503.24306)|**[link](https://github.com/athaddius/stirmetrics)**|
-|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
+|**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-28**|**Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**|Rulin Zhou et.al.|[2503.22394](http://arxiv.org/abs/2503.22394)|null|
 |**2025-03-28**|**Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**|Long Gao et.al.|[2503.22199](http://arxiv.org/abs/2503.22199)|null|
 |**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904](http://arxiv.org/abs/2503.19904)|null|
