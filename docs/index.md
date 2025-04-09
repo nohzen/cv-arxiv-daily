@@ -1290,6 +1290,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
 |**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
@@ -2705,6 +2706,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
@@ -3022,6 +3024,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
+|**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
+|**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751](http://arxiv.org/abs/2504.05751)|null|
 |**2025-04-07**|**DeclutterNeRF: Generative-Free 3D Scene Recovery for Occlusion Removal**|Wanzhou Liu et.al.|[2504.04679](http://arxiv.org/abs/2504.04679)|null|
 |**2025-04-06**|**Thermoxels: a voxel-based method to generate simulation-ready 3D thermal models**|Etienne Chassaing et.al.|[2504.04448](http://arxiv.org/abs/2504.04448)|null|
 |**2025-04-04**|**NeRFlex: Resource-aware Real-time High-quality Rendering of Complex Scenes on Mobile Devices**|Zhe Wang et.al.|[2504.03415](http://arxiv.org/abs/2504.03415)|null|
@@ -4586,6 +4591,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740](http://arxiv.org/abs/2504.05740)|null|
+|**2025-04-07**|**View-Dependent Deformation Fields for 2D Editing of 3D Models**|Martin El Mqirmi et.al.|[2504.05544](http://arxiv.org/abs/2504.05544)|null|
+|**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517](http://arxiv.org/abs/2504.05517)|null|
 |**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296](http://arxiv.org/abs/2504.05296)|null|
 |**2025-04-07**|**PanoDreamer: Consistent Text to 360-Degree Scene Generation**|Zhexiao Xiong et.al.|[2504.05152](http://arxiv.org/abs/2504.05152)|null|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
@@ -5550,6 +5558,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures**|Kwame Porter Robinson et.al.|[2504.06114](http://arxiv.org/abs/2504.06114)|null|
+|**2025-04-08**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112](http://arxiv.org/abs/2504.06112)|null|
+|**2025-04-08**|**AI analysis of medical images at scale as a health disparities probe: a feasibility demonstration using chest radiographs**|Heather M. Whitney et.al.|[2504.05990](http://arxiv.org/abs/2504.05990)|null|
+|**2025-04-08**|**Uncovering Fairness through Data Complexity as an Early Indicator**|Juliett Suárez Ferreira et.al.|[2504.05923](http://arxiv.org/abs/2504.05923)|null|
+|**2025-04-08**|**Thermodynamic supercriticality and complex phase diagram for the AdS black hole**|Zhen-Ming Xu et.al.|[2504.05708](http://arxiv.org/abs/2504.05708)|null|
+|**2025-04-08**|**Fairness in Machine Learning-based Hand Load Estimation: A Case Study on Load Carriage Tasks**|Arafat Rahman et.al.|[2504.05610](http://arxiv.org/abs/2504.05610)|null|
+|**2025-04-07**|**Of All StrIPEs: Investigating Structure-informed Positional Encoding for Efficient Music Generation**|Manvi Agarwal et.al.|[2504.05364](http://arxiv.org/abs/2504.05364)|null|
 |**2025-04-07**|**A BLE and UWB Beacon-Assist Framework for Multiuser Augmented Reality Synchronization Across Multiple Devices in Shared Environments**|Maitree Hirunteeyakul et.al.|[2504.05293](http://arxiv.org/abs/2504.05293)|null|
 |**2025-04-07**|**CARE: Aligning Language Models for Regional Cultural Awareness**|Geyang Guo et.al.|[2504.05154](http://arxiv.org/abs/2504.05154)|null|
 |**2025-04-07**|**Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**|Yasuhiro Yao et.al.|[2504.05148](http://arxiv.org/abs/2504.05148)|**[link](https://github.com/yshry/libSGM_lidar)**|
@@ -6868,6 +6883,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692](http://arxiv.org/abs/2504.05692)|null|
 |**2025-04-07**|**Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**|Yasuhiro Yao et.al.|[2504.05148](http://arxiv.org/abs/2504.05148)|**[link](https://github.com/yshry/libSGM_lidar)**|
 |**2025-04-04**|**3D Scene Understanding Through Local Random Access Sequence Modeling**|Wanhee Lee et.al.|[2504.03875](http://arxiv.org/abs/2504.03875)|null|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166](http://arxiv.org/abs/2504.03166)|null|
@@ -7367,6 +7383,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation**|Xiangyu Zheng et.al.|[2504.05904](http://arxiv.org/abs/2504.05904)|null|
+|**2025-04-07**|**Towards Efficient Real-Time Video Motion Transfer via Generative Time Series Modeling**|Tasmiah Haque et.al.|[2504.05537](http://arxiv.org/abs/2504.05537)|null|
 |**2025-04-06**|**FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency**|Shiyan Liu et.al.|[2504.04427](http://arxiv.org/abs/2504.04427)|null|
 |**2025-04-05**|**Simultaneous Motion And Noise Estimation with Event Cameras**|Shintaro Shiba et.al.|[2504.04029](http://arxiv.org/abs/2504.04029)|null|
 |**2025-04-04**|**3D Scene Understanding Through Local Random Access Sequence Modeling**|Wanhee Lee et.al.|[2504.03875](http://arxiv.org/abs/2504.03875)|null|
@@ -7660,6 +7678,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692](http://arxiv.org/abs/2504.05692)|null|
 |**2025-04-06**|**SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation**|Junjie Jiang et.al.|[2504.04519](http://arxiv.org/abs/2504.04519)|null|
 |**2025-04-05**|**Risk-Aware Robot Control in Dynamic Environments Using Belief Control Barrier Functions**|Shaohang Han et.al.|[2504.04097](http://arxiv.org/abs/2504.04097)|null|
 |**2025-04-04**|**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**|Shuxiao Ding et.al.|[2504.03258](http://arxiv.org/abs/2504.03258)|null|
