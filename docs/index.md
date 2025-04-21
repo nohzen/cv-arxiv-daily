@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|**[link](https://github.com/jixingwu/sol-slam)**|
 |**2025-04-18**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634](http://arxiv.org/abs/2504.11634)|**[link](https://github.com/wayne-dwa/doppler-slam)**|
 |**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari et.al.|[2504.10416](http://arxiv.org/abs/2504.10416)|null|
@@ -922,6 +923,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering**|Landon Dyken et.al.|[2504.13339](http://arxiv.org/abs/2504.13339)|null|
+|**2025-04-15**|**EDGS: Eliminating Densification for Efficient Convergence of 3DGS**|Dmytro Kotovenko et.al.|[2504.13204](http://arxiv.org/abs/2504.13204)|null|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|**[link](https://github.com/pagraf/swin-bathyunet)**|
 |**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
@@ -2735,6 +2738,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
@@ -3055,6 +3059,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
@@ -4631,8 +4637,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-18**|**Green Robotic Mixed Reality with Gaussian Splatting**|Chenxuan Liu et.al.|[2504.13697](http://arxiv.org/abs/2504.13697)|null|
+|**2025-04-18**|**EG-Gaussian: Epipolar Geometry and Graph Network Enhanced 3D Gaussian Splatting**|Beizhen Zhao et.al.|[2504.13540](http://arxiv.org/abs/2504.13540)|null|
+|**2025-04-17**|**Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering**|Landon Dyken et.al.|[2504.13339](http://arxiv.org/abs/2504.13339)|null|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
-|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
+|**2025-04-18**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
 |**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159](http://arxiv.org/abs/2504.13159)|null|
 |**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153](http://arxiv.org/abs/2504.13153)|**[link](https://github.com/atrovast/thgs)**|
 |**2025-04-17**|**CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation**|Xiangrui Liu et.al.|[2504.13022](http://arxiv.org/abs/2504.13022)|null|
@@ -5635,6 +5645,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791](http://arxiv.org/abs/2504.13791)|null|
+|**2025-04-18**|**Predictors of Childhood Vaccination Uptake in England: An Explainable Machine Learning Analysis of Longitudinal Regional Data (2021-2024)**|Amin Noroozi et.al.|[2504.13755](http://arxiv.org/abs/2504.13755)|null|
+|**2025-04-18**|**Divergent LLM Adoption and Heterogeneous Convergence Paths in Research Writing**|Cong William Lin et.al.|[2504.13629](http://arxiv.org/abs/2504.13629)|null|
+|**2025-04-18**|**Open-Loop and Closed-Loop Strategies for Linear Quadratic Mean Field Games: The Direct Approach**|Yong Liang et.al.|[2504.13496](http://arxiv.org/abs/2504.13496)|null|
+|**2025-04-17**|**Addressing the Minor-Embedding Problem in Quantum Annealing and Evaluating State-of-the-Art Algorithm Performance**|Aitor Gómez-Tejedor et.al.|[2504.13376](http://arxiv.org/abs/2504.13376)|null|
+|**2025-04-17**|**Generalized Parton Distributions from Symbolic Regression**|Anusha Reddy Singireddy et.al.|[2504.13289](http://arxiv.org/abs/2504.13289)|null|
 |**2025-04-17**|**Prospects for Detecting Signs of Life on Exoplanets in the JWST Era**|Sara Seager et.al.|[2504.12946](http://arxiv.org/abs/2504.12946)|null|
 |**2025-04-17**|**Quantifying walkable accessibility to urban services: An application to Florence, Italy**|Leonardo Boncinelli et.al.|[2504.12934](http://arxiv.org/abs/2504.12934)|null|
 |**2025-04-17**|**Unsupervised Cross-Domain 3D Human Pose Estimation via Pseudo-Label-Guided Global Transforms**|Jingjing Liu et.al.|[2504.12699](http://arxiv.org/abs/2504.12699)|null|
@@ -7005,6 +7021,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648](http://arxiv.org/abs/2504.13648)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
 |**2025-04-17**|**Privacy-Preserving Operating Room Workflow Analysis using Digital Twins**|Alejandra Perez et.al.|[2504.12552](http://arxiv.org/abs/2504.12552)|null|
@@ -7519,6 +7536,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Neural Ganglion Sensors: Learning Task-specific Event Cameras Inspired by the Neural Circuit of the Human Retina**|Haley M. So et.al.|[2504.13457](http://arxiv.org/abs/2504.13457)|null|
+|**2025-04-18**|**MicroFlow: Domain-Specific Optical Flow for Ground Deformation Estimation in Seismic Events**|Juliette Bertrand et.al.|[2504.13452](http://arxiv.org/abs/2504.13452)|null|
 |**2025-04-18**|**Event-Enhanced Blurry Video Super-Resolution**|Dachun Kai et.al.|[2504.13042](http://arxiv.org/abs/2504.13042)|**[link](https://github.com/dachunkai/ev-deblurvsr)**|
 |**2025-04-17**|**SC3EF: A Joint Self-Correlation and Cross-Correspondence Estimation Framework for Visible and Thermal Image Registration**|Xi Tong et.al.|[2504.12869](http://arxiv.org/abs/2504.12869)|null|
 |**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619](http://arxiv.org/abs/2504.12619)|null|
