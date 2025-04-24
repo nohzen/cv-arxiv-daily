@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545](http://arxiv.org/abs/2504.16545)|null|
 |**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
 |**2025-04-23**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
 |**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516](http://arxiv.org/abs/2504.14516)|null|
@@ -944,6 +945,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**|Joe Hrzich et.al.|[2504.16840](http://arxiv.org/abs/2504.16840)|null|
+|**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499](http://arxiv.org/abs/2504.16499)|null|
 |**2025-04-21**|**Traversing the Star-Forming Main Sequence with Molecular Gas Stacks of z~1.6 Cluster Galaxies**|Alex Pigarelli et.al.|[2504.15381](http://arxiv.org/abs/2504.15381)|null|
 |**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376](http://arxiv.org/abs/2504.15376)|null|
 |**2025-04-21**|**StableQuant: Layer Adaptive Post-Training Quantization for Speech Foundation Models**|Yeona Hong et.al.|[2504.14915](http://arxiv.org/abs/2504.14915)|null|
@@ -1332,6 +1335,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
+|**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|null|
 |**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
@@ -2769,6 +2774,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
@@ -3092,6 +3098,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Dual-Camera All-in-Focus Neural Radiance Fields**|Xianrui Luo et.al.|[2504.16636](http://arxiv.org/abs/2504.16636)|null|
+|**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
+|**2025-04-23**|**SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**|Yuanjian Wang et.al.|[2504.16389](http://arxiv.org/abs/2504.16389)|null|
 |**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995](http://arxiv.org/abs/2504.13995)|null|
@@ -4675,6 +4684,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
+|**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693](http://arxiv.org/abs/2504.16693)|null|
+|**2025-04-23**|**HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction**|Zhongtao Wang et.al.|[2504.16606](http://arxiv.org/abs/2504.16606)|null|
+|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545](http://arxiv.org/abs/2504.16545)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Takuya Boehringer et.al.|[2504.15229](http://arxiv.org/abs/2504.15229)|null|
 |**2025-04-21**|**MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2504.15122](http://arxiv.org/abs/2504.15122)|null|
@@ -5693,6 +5706,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Procedural Dataset Generation for Zero-Shot Stereo Matching**|David Yan et.al.|[2504.16930](http://arxiv.org/abs/2504.16930)|null|
+|**2025-04-23**|**An Accelerated Camera 3DMA Framework for Efficient Urban GNSS Multipath Estimation**|Shiyao Lv et.al.|[2504.16906](http://arxiv.org/abs/2504.16906)|null|
+|**2025-04-23**|**A model of the heliocentric dust ring on Venus orbit**|Ariane Courtot et.al.|[2504.16610](http://arxiv.org/abs/2504.16610)|null|
+|**2025-04-23**|**Tinkering Against Scaling**|Bolun Zhang et.al.|[2504.16546](http://arxiv.org/abs/2504.16546)|null|
 |**2025-04-22**|**Long-term disparities in the recovery of urban mobility after COVID-19 in Latin America**|Carmen Cabrera et.al.|[2504.15871](http://arxiv.org/abs/2504.15871)|null|
 |**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
 |**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676](http://arxiv.org/abs/2504.15676)|null|
@@ -7088,6 +7105,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Helping Blind People Grasp: Enhancing a Tactile Bracelet with an Automated Hand Navigation System**|Marcin Furtak et.al.|[2504.16502](http://arxiv.org/abs/2504.16502)|null|
+|**2025-04-21**|**MonoTher-Depth: Enhancing Thermal Depth Estimation via Confidence-Aware Distillation**|Xingxing Zuo et.al.|[2504.16127](http://arxiv.org/abs/2504.16127)|null|
 |**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
 |**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
 |**2025-04-21**|**Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**|Chenjie Cao et.al.|[2504.14899](http://arxiv.org/abs/2504.14899)|**[link](https://github.com/ewrfcas/uni3c)**|
@@ -7921,6 +7940,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499](http://arxiv.org/abs/2504.16499)|null|
 |**2025-04-22**|**SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking**|Yunfeng Li et.al.|[2504.15609](http://arxiv.org/abs/2504.15609)|null|
 |**2025-04-20**|**TAPIP3D: Tracking Any Point in Persistent 3D Geometry**|Bowei Zhang et.al.|[2504.14717](http://arxiv.org/abs/2504.14717)|**[link](https://github.com/zbw001/tapip3d)**|
 |**2025-04-20**|**Seurat: From Moving Points to Depth**|Seokju Cho et.al.|[2504.14687](http://arxiv.org/abs/2504.14687)|**[link](https://github.com/cvlab-kaist/seurat)**|
@@ -8330,6 +8350,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Dual-Camera All-in-Focus Neural Radiance Fields**|Xianrui Luo et.al.|[2504.16636](http://arxiv.org/abs/2504.16636)|null|
 |**2025-04-15**|**Focal Split: Untethered Snapshot Depth from Differential Defocus**|Junjie Luo et.al.|[2504.11202](http://arxiv.org/abs/2504.11202)|null|
 |**2025-04-15**|**Three-dimensional neural network driving self-interference digital holography enables high-fidelity, non-scanning volumetric fluorescence microscopy**|Tianlong Man et.al.|[2504.10769](http://arxiv.org/abs/2504.10769)|null|
 |**2025-04-14**|**Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**|Jingyun Yang et.al.|[2504.10281](http://arxiv.org/abs/2504.10281)|null|
