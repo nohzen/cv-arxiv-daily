@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.02
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5744,7 +5744,7 @@ layout: default
 |**2025-04-30**|**Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis**|Michal Geyer et.al.|[2505.00135](http://arxiv.org/abs/2505.00135)|null|
 |**2025-04-30**|**Stereo X-ray tomography on deformed object tracking**|Zhenduo Shang et.al.|[2505.00122](http://arxiv.org/abs/2505.00122)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826](http://arxiv.org/abs/2504.21826)|null|
-|**2025-04-30**|**Assessing Racial Disparities in Healthcare Expenditures Using Causal Path-Specific Effects**|Xiaxian Ou et.al.|[2504.21688](http://arxiv.org/abs/2504.21688)|null|
+|**2025-04-30**|**Assessing Racial Disparities in Healthcare Expenditures Using Causal Path-Specific Effects**|Xiaxian Ou et.al.|[2504.21688](http://arxiv.org/abs/2504.21688)|**[link](https://github.com/xxou/Racial-Disparities-Healthcare-Expenditures)**|
 |**2025-04-30**|**Lights Out, Stress In: Assessing Stress Amidst Power and Energy Challenges in Bangladesh**|Faisal Quaiyyum et.al.|[2504.21541](http://arxiv.org/abs/2504.21541)|null|
 |**2025-04-30**|**DGFNet: End-to-End Audio-Visual Source Separation Based on Dynamic Gating Fusion**|Yinfeng Yu et.al.|[2504.21366](http://arxiv.org/abs/2504.21366)|null|
 |**2025-04-30**|**CMD: Constraining Multimodal Distribution for Domain Adaptation in Stereo Matching**|Zhelun Shen et.al.|[2504.21302](http://arxiv.org/abs/2504.21302)|null|
