@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017](http://arxiv.org/abs/2505.01017)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826](http://arxiv.org/abs/2504.21826)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
@@ -962,6 +963,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
 |**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
@@ -1357,6 +1359,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
@@ -3129,6 +3132,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
@@ -4726,6 +4730,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
+|**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235](http://arxiv.org/abs/2505.01235)|null|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos**|Xia Yuan et.al.|[2505.00421](http://arxiv.org/abs/2505.00421)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
@@ -5768,6 +5775,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Toward a Unified Theory of Catalysis**|Frank Nelson Crespilho et.al.|[2505.01213](http://arxiv.org/abs/2505.01213)|null|
+|**2025-05-02**|**Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods**|Mahdi Dhaini et.al.|[2505.01198](http://arxiv.org/abs/2505.01198)|null|
+|**2025-05-02**|**Enhancing MHD model accuracy and CME forecasting by constraining coronal plasma properties with Faraday rotation**|Salvatore Mancuso et.al.|[2505.01080](http://arxiv.org/abs/2505.01080)|null|
+|**2025-05-02**|**Destructive Interference: Encoding Loss in the Overlap**|Nik Aberle et.al.|[2505.00987](http://arxiv.org/abs/2505.00987)|null|
+|**2025-05-01**|**Quantum Modular Forms and Resurgence**|Eleanor McSpirit et.al.|[2505.00799](http://arxiv.org/abs/2505.00799)|null|
 |**2025-05-01**|**HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection**|Deanna Emery et.al.|[2505.00506](http://arxiv.org/abs/2505.00506)|null|
 |**2025-04-30**|**Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis**|Michal Geyer et.al.|[2505.00135](http://arxiv.org/abs/2505.00135)|null|
 |**2025-04-30**|**Stereo X-ray tomography on deformed object tracking**|Zhenduo Shang et.al.|[2505.00122](http://arxiv.org/abs/2505.00122)|null|
@@ -7202,6 +7214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
 |**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki et.al.|[2505.00482](http://arxiv.org/abs/2505.00482)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -8056,6 +8069,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**CAMELTrack: Context-Aware Multi-cue ExpLoitation for Online Multi-Object Tracking**|Vladimir Somers et.al.|[2505.01257](http://arxiv.org/abs/2505.01257)|null|
+|**2025-05-02**|**Optimizing Indoor Farm Monitoring Efficiency Using UAV: Yield Estimation in a GNSS-Denied Cherry Tomato Greenhouse**|Taewook Park et.al.|[2505.00995](http://arxiv.org/abs/2505.00995)|null|
+|**2025-04-30**|**MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection**|Qiushi Yang et.al.|[2505.00739](http://arxiv.org/abs/2505.00739)|null|
 |**2025-05-01**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman et.al.|[2505.00534](http://arxiv.org/abs/2505.00534)|null|
 |**2025-04-30**|**Direct Motion Models for Assessing Generated Videos**|Kelsey Allen et.al.|[2505.00209](http://arxiv.org/abs/2505.00209)|null|
 |**2025-04-30**|**Stereo X-ray tomography on deformed object tracking**|Zhenduo Shang et.al.|[2505.00122](http://arxiv.org/abs/2505.00122)|null|
