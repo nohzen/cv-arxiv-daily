@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7256,7 +7256,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
-|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-09**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704](http://arxiv.org/abs/2505.02704)|**[link](https://github.com/pakinwu/vgld)**|
@@ -8123,7 +8123,7 @@ layout: default
 |**2025-05-09**|**CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking**|Weihong Li et.al.|[2505.05936](http://arxiv.org/abs/2505.05936)|**[link](https://github.com/nightwatch-fox11/cgtrack)**|
 |**2025-05-09**|**You Are Your Best Teacher: Semi-Supervised Surgical Point Tracking with Cycle-Consistent Self-Distillation**|Valay Bundele et.al.|[2505.05722](http://arxiv.org/abs/2505.05722)|null|
 |**2025-05-08**|**A Simple Detector with Frame Dynamics is a Strong Tracker**|Chenxu Peng et.al.|[2505.04917](http://arxiv.org/abs/2505.04917)|null|
-|**2025-05-07**|**SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking**|Shang Zhang et.al.|[2505.04088](http://arxiv.org/abs/2505.04088)|null|
+|**2025-05-11**|**SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking**|Shang Zhang et.al.|[2505.04088](http://arxiv.org/abs/2505.04088)|null|
 |**2025-05-06**|**Interactive Instance Annotation with Siamese Networks**|Xiang Xu et.al.|[2505.03184](http://arxiv.org/abs/2505.03184)|null|
 |**2025-05-06**|**TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion**|Haoyue Liu et.al.|[2505.03116](http://arxiv.org/abs/2505.03116)|null|
 |**2025-05-02**|**CAMELTrack: Context-Aware Multi-cue ExpLoitation for Online Multi-Object Tracking**|Vladimir Somers et.al.|[2505.01257](http://arxiv.org/abs/2505.01257)|**[link](https://github.com/TrackingLaboratory/CAMELTrack)**|
