@@ -28,6 +28,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**A hybrid SLAM-Payne framework for atmospheric parameter and abundance determination of early-type Stars from LAMOST DR9 low-resolution Spectra**|Weijia Sun et.al.|[2505.10310](http://arxiv.org/abs/2505.10310)|null|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
 |**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
@@ -3171,6 +3173,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
 |**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811](http://arxiv.org/abs/2505.08811)|null|
@@ -4783,6 +4786,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473](http://arxiv.org/abs/2505.10473)|null|
+|**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|**[link](https://github.com/cekavis/vrsplat)**|
+|**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
 |**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
 |**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
@@ -5857,6 +5864,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Multi-contrast laser endoscopy for in vivo gastrointestinal imaging**|Taylor L. Bobrow et.al.|[2505.10492](http://arxiv.org/abs/2505.10492)|null|
+|**2025-05-15**|**ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention**|Jintian Shao et.al.|[2505.10222](http://arxiv.org/abs/2505.10222)|null|
+|**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|**[link](https://github.com/cekavis/vrsplat)**|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
+|**2025-05-14**|**ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling**|Shun Wang et.al.|[2505.09851](http://arxiv.org/abs/2505.09851)|null|
+|**2025-05-14**|**Should I Stay or Should I Go Now? An Investigation into Gender Differences in the Impact of Switching Jobs on Earnings**|Emily Winskill et.al.|[2505.09791](http://arxiv.org/abs/2505.09791)|null|
+|**2025-05-14**|**Enabling Group Fairness in Graph Unlearning via Bi-level Debiasing**|Yezi Liu et.al.|[2505.09702](http://arxiv.org/abs/2505.09702)|null|
 |**2025-05-14**|**Fairness-aware Bayes optimal functional classification**|Xiaoyu Hu et.al.|[2505.09471](http://arxiv.org/abs/2505.09471)|null|
 |**2025-05-14**|**RobustSpring: Benchmarking Robustness to Image Corruptions for Optical Flow, Scene Flow and Stereo**|Jenny Schmalfuss et.al.|[2505.09368](http://arxiv.org/abs/2505.09368)|null|
 |**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295](http://arxiv.org/abs/2505.09295)|**[link](https://github.com/qimingwu/fedida)**|
@@ -7342,6 +7356,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565](http://arxiv.org/abs/2505.10565)|null|
+|**2025-05-15**|**JointDistill: Adaptive Multi-Task Distillation for Joint Depth Estimation and Scene Segmentation**|Tiancong Cheng et.al.|[2505.10057](http://arxiv.org/abs/2505.10057)|null|
 |**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
 |**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
 |**2025-05-13**|**Monocular Depth Guided Occlusion-Aware Disparity Refinement via Semi-supervised Learning in Laparoscopic Images**|Ziteng Liu et.al.|[2505.08178](http://arxiv.org/abs/2505.08178)|null|
@@ -7896,6 +7912,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**A label-free sub-diffractive technique for 3D intracellular tomography using thermally induced convection currents**|Jayesh Goswami et.al.|[2505.10112](http://arxiv.org/abs/2505.10112)|null|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
 |**2025-05-14**|**RobustSpring: Benchmarking Robustness to Image Corruptions for Optical Flow, Scene Flow and Stereo**|Jenny Schmalfuss et.al.|[2505.09368](http://arxiv.org/abs/2505.09368)|null|
 |**2025-05-13**|**Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection**|Ayush K. Rai et.al.|[2505.08561](http://arxiv.org/abs/2505.08561)|null|
