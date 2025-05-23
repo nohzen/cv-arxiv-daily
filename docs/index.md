@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**A Methodological Framework for Measuring Spatial Labeling Similarity**|Yihang Du et.al.|[2505.14128](http://arxiv.org/abs/2505.14128)|**[link](https://github.com/yihdu/slam)**|
-|**2025-05-20**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068](http://arxiv.org/abs/2505.14068)|**[link](https://github.com/cv4ra/sota-place-recognitioner)**|
+|**2025-05-22**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068](http://arxiv.org/abs/2505.14068)|**[link](https://github.com/cv4ra/sota-place-recognitioner)**|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549](http://arxiv.org/abs/2505.12549)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
