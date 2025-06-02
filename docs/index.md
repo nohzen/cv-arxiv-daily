@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Black-box Adversarial Attacks on CNN-based SLAM Algorithms**|Maria Rafaela Gkeka et.al.|[2505.24654](http://arxiv.org/abs/2505.24654)|null|
 |**2025-05-28**|**Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera**|Xiaoyang Zhan et.al.|[2505.22880](http://arxiv.org/abs/2505.22880)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**|Wancai Zheng et.al.|[2505.22335](http://arxiv.org/abs/2505.22335)|null|
@@ -981,11 +982,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
 |**2025-05-28**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi et.al.|[2505.22759](http://arxiv.org/abs/2505.22759)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
-|**2025-05-28**|**Towards Robust Automated Perceptual Voice Quality Assessment with Speech Foundation Models**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
+|**2025-05-30**|**Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
 |**2025-05-26**|**Robust fine-tuning of speech recognition models via model merging: application to disordered speech**|Alexandre Ducorroy et.al.|[2505.20477](http://arxiv.org/abs/2505.20477)|null|
 |**2025-05-29**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
@@ -1401,6 +1403,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
@@ -2886,6 +2889,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
@@ -4846,6 +4850,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|null|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
+|**2025-05-30**|**GARLIC: GAussian Representation LearnIng for spaCe partitioning**|Panagiotis Rigas et.al.|[2505.24608](http://arxiv.org/abs/2505.24608)|null|
+|**2025-05-30**|**LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework**|Xin Kang et.al.|[2505.24245](http://arxiv.org/abs/2505.24245)|null|
+|**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053](http://arxiv.org/abs/2505.24053)|null|
 |**2025-05-30**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734](http://arxiv.org/abs/2505.23734)|**[link](https://github.com/ziplab/ZPressor)**|
 |**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716](http://arxiv.org/abs/2505.23716)|null|
 |**2025-05-29**|**Mobi- $π$ : Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692](http://arxiv.org/abs/2505.23692)|null|
@@ -5983,6 +5993,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Predicting the Past: Estimating Historical Appraisals with OCR and Machine Learning**|Mihir Bhaskar et.al.|[2505.24676](http://arxiv.org/abs/2505.24676)|null|
+|**2025-05-30**|**Thermodynamic Signatures of Gaussian Entanglement Beyond Entropy**|Beatriz Polo et.al.|[2505.24596](http://arxiv.org/abs/2505.24596)|null|
+|**2025-05-30**|**50 years of spin glass theory**|David Sherrington et.al.|[2505.24432](http://arxiv.org/abs/2505.24432)|null|
+|**2025-05-30**|**A Unified Scale Factor for the Cosmic Evolution -Motivated by Brane World Models-**|Farzin Safarzadeh-Maleki et.al.|[2505.24420](http://arxiv.org/abs/2505.24420)|null|
+|**2025-05-30**|**Verifiable Weighted Secret Sharing**|Kareem Shehata et.al.|[2505.24289](http://arxiv.org/abs/2505.24289)|null|
+|**2025-05-30**|**Evolution of Gas Velocity Dispersion in Discs from $z\sim8$ to $z\sim0.5$**|E. Wisnioski et.al.|[2505.24129](http://arxiv.org/abs/2505.24129)|null|
+|**2025-05-30**|**CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning Capabilities of VLMs**|Ai Jian et.al.|[2505.24120](http://arxiv.org/abs/2505.24120)|null|
+|**2025-05-29**|**Estimation of Gender Wage Gap in the University of North Carolina System**|Zihan Zhang et.al.|[2505.24078](http://arxiv.org/abs/2505.24078)|null|
+|**2025-05-29**|**Can Emotion Fool Anti-spoofing?**|Aurosweta Mahapatra et.al.|[2505.23962](http://arxiv.org/abs/2505.23962)|null|
+|**2025-05-29**|**Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts**|Xuweiyi Chen et.al.|[2505.23926](http://arxiv.org/abs/2505.23926)|null|
 |**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|**[link](https://github.com/mbzuai-oryx/thinkgeo)**|
 |**2025-05-29**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703](http://arxiv.org/abs/2505.23703)|null|
 |**2025-05-29**|**Errors in Stereo Geometry Induce Distance Misperception**|Raffles Xingqi Zhu et.al.|[2505.23685](http://arxiv.org/abs/2505.23685)|null|
@@ -7558,6 +7578,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Harnessing Foundation Models for Robust and Generalizable 6-DOF Bronchoscopy Localization**|Qingyao Tian et.al.|[2505.24249](http://arxiv.org/abs/2505.24249)|null|
+|**2025-05-29**|**Ultrafast High-Flux Single-Photon LiDAR Simulator via Neural Mapping**|Weijian Zhang et.al.|[2505.23992](http://arxiv.org/abs/2505.23992)|null|
 |**2025-05-29**|**Bridging Geometric and Semantic Foundation Models for Generalized Monocular Depth Estimation**|Sanggyun Ma et.al.|[2505.23400](http://arxiv.org/abs/2505.23400)|null|
 |**2025-05-29**|**GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion**|Gwanghyun Kim et.al.|[2505.23085](http://arxiv.org/abs/2505.23085)|null|
 |**2025-05-28**|**Depth to magnetic source estimation using TDX contour**|Hammed Oyekan et.al.|[2505.22780](http://arxiv.org/abs/2505.22780)|null|
@@ -8141,6 +8163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction**|Chenyou Fan et.al.|[2505.24156](http://arxiv.org/abs/2505.24156)|null|
 |**2025-05-29**|**Zero-to-Hero: Zero-Shot Initialization Empowering Reference-Based Video Appearance Editing**|Tongtong Su et.al.|[2505.23134](http://arxiv.org/abs/2505.23134)|**[link](https://github.com/tonniia/zero2hero)**|
 |**2025-05-27**|**Object Concepts Emerge from Motion**|Haoqian Liang et.al.|[2505.21635](http://arxiv.org/abs/2505.21635)|null|
 |**2025-05-26**|**A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking**|Zixiang Zhao et.al.|[2505.19858](http://arxiv.org/abs/2505.19858)|null|
@@ -8940,6 +8963,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**High resolution up-conversion imaging in the 10 μm band under incoherent illumination**|Zhao-Qi-Zhi Han et.al.|[2505.24367](http://arxiv.org/abs/2505.24367)|null|
+|**2025-05-30**|**Fourier ptychographic microscopy aided with transport of intensity equation for robust full phase spectrum reconstruction**|Mikołaj Rogalski et.al.|[2505.24322](http://arxiv.org/abs/2505.24322)|null|
 |**2025-05-28**|**Real-Time Blind Defocus Deblurring for Earth Observation: The IMAGIN-e Mission Approach**|Alejandro D. Mousist et.al.|[2505.22128](http://arxiv.org/abs/2505.22128)|null|
 |**2025-05-27**|**Any-to-Bokeh: One-Step Video Bokeh via Multi-Plane Image Guided Diffusion**|Yang Yang et.al.|[2505.21593](http://arxiv.org/abs/2505.21593)|null|
 |**2025-05-23**|**Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues**|Chinmay Talegaonkar et.al.|[2505.17358](http://arxiv.org/abs/2505.17358)|null|
