@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -992,7 +992,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## SFM
 
@@ -1000,7 +1000,7 @@
 |---|---|---|---|---|
 |**2025-05-30**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
-|**2025-05-28**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi et.al.|[2505.22759](http://arxiv.org/abs/2505.22759)|null|
+|**2025-05-30**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi et.al.|[2505.22759](http://arxiv.org/abs/2505.22759)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
 |**2025-05-30**|**Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
@@ -1415,7 +1415,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2590,7 +2590,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2905,7 +2905,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3239,7 +3239,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## NeRF
 
@@ -4870,7 +4870,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -6015,7 +6015,7 @@
 |**2024-05-09**|**FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting**|Yikun Ma et.al.|[2405.05768](http://arxiv.org/abs/2405.05768)|null|
 |**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702](http://arxiv.org/abs/2405.05702)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Stereo Matching
 
@@ -7602,7 +7602,7 @@
 |**2024-05-22**|**Multi-Dataset Multi-Task Learning for COVID-19 Prognosis**|Filippo Ruffini et.al.|[2405.13771](http://arxiv.org/abs/2405.13771)|null|
 |**2024-05-22**|**Knowledge-Driven Cross-Document Relation Extraction**|Monika Jain et.al.|[2405.13546](http://arxiv.org/abs/2405.13546)|**[link](https://github.com/kracr/cross-doc-relation-extraction)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Monocular Depth Estimation
 
@@ -8189,7 +8189,7 @@
 |**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027](http://arxiv.org/abs/2405.07027)|**[link](https://github.com/nubot-nudt/td-nerf)**|
 |**2024-05-11**|**Learning Monocular Depth from Focus with Event Focal Stack**|Chenxu Jiang et.al.|[2405.06944](http://arxiv.org/abs/2405.06944)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Optical flow
 
@@ -8200,7 +8200,7 @@
 |**2025-05-27**|**Object Concepts Emerge from Motion**|Haoqian Liang et.al.|[2505.21635](http://arxiv.org/abs/2505.21635)|null|
 |**2025-05-26**|**A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking**|Zixiang Zhao et.al.|[2505.19858](http://arxiv.org/abs/2505.19858)|null|
 |**2025-05-23**|**Brightness-Invariant Tracking Estimation in Tagged MRI**|Zhangxing Bian et.al.|[2505.18365](http://arxiv.org/abs/2505.18365)|null|
-|**2025-05-23**|**CTRL-GS: Cascaded Temporal Residue Learning for 4D Gaussian Splatting**|Karly Hou et.al.|[2505.18306](http://arxiv.org/abs/2505.18306)|null|
+|**2025-05-31**|**CTRL-GS: Cascaded Temporal Residue Learning for 4D Gaussian Splatting**|Karly Hou et.al.|[2505.18306](http://arxiv.org/abs/2505.18306)|null|
 |**2025-05-23**|**Real-time Traffic Accident Anticipation with Feature Reuse**|Inpyo Song et.al.|[2505.17449](http://arxiv.org/abs/2505.17449)|null|
 |**2025-05-22**|**Efficient Correlation Volume Sampling for Ultra-High-Resolution Optical Flow Estimation**|Karlis Martins Briedis et.al.|[2505.16942](http://arxiv.org/abs/2505.16942)|null|
 |**2025-05-22**|**V2V: Scaling Event-Based Vision through Efficient Video-to-Voxel Simulation**|Hanyue Lou et.al.|[2505.16797](http://arxiv.org/abs/2505.16797)|null|
@@ -8536,7 +8536,7 @@
 |**2024-05-07**|**Visually Guided Swarm Motion Coordination via Insect-inspired Small Target Motion Reactions**|Md Arif Billah et.al.|[2405.04591](http://arxiv.org/abs/2405.04591)|null|
 |**2024-05-06**|**Diffeomorphic Template Registration for Atmospheric Turbulence Mitigation**|Dong Lao et.al.|[2405.03662](http://arxiv.org/abs/2405.03662)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Object Tracking
 
@@ -8993,7 +8993,7 @@
 |**2024-05-14**|**ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association**|Shuxiao Ding et.al.|[2405.08909](http://arxiv.org/abs/2405.08909)|**[link](https://github.com/dsx0511/ada-track)**|
 |**2024-05-14**|**EchoTracker: Advancing Myocardial Point Tracking in Echocardiography**|Md Abulkalam Azad et.al.|[2405.08587](http://arxiv.org/abs/2405.08587)|**[link](https://github.com/riponazad/echotracker)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Defocus
 
@@ -9107,7 +9107,7 @@
 |**2024-01-29**|**Light-field imaging from position-momentum correlations**|Davide Giannella et.al.|[2401.16129](http://arxiv.org/abs/2401.16129)|null|
 |**2024-01-25**|**Single- and multi-layer micro-scale diffractive lens fabrication for fiber imaging probes with versatile depth-of-field**|Fei He et.al.|[2401.14551](http://arxiv.org/abs/2401.14551)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
