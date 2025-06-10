@@ -28,6 +28,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
+|**2025-06-08**|**Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs**|Qiong Chang et.al.|[2506.07164](http://arxiv.org/abs/2506.07164)|null|
+|**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
+|**2025-06-06**|**GS4: Generalizable Sparse Splatting Semantic SLAM**|Mingqi Jiang et.al.|[2506.06517](http://arxiv.org/abs/2506.06517)|null|
+|**2025-06-06**|**Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception**|Pushyami Kaveti et.al.|[2506.06476](http://arxiv.org/abs/2506.06476)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
 |**2025-06-06**|**Analysis of points outcome in ATP Grand Slam Tennis using big data and machine learning**|Martin Illum et.al.|[2506.05866](http://arxiv.org/abs/2506.05866)|null|
 |**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558](http://arxiv.org/abs/2506.05558)|null|
@@ -1440,6 +1445,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
+|**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
 |**2025-06-05**|**HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**|Suhan Woo et.al.|[2506.04764](http://arxiv.org/abs/2506.04764)|null|
@@ -2936,6 +2943,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
@@ -3272,6 +3280,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
+|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
+|**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
+|**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
 |**2025-06-06**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
 |**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|**[link](https://github.com/bigcileng/bilateral-driving)**|
@@ -4908,6 +4921,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
+|**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897](http://arxiv.org/abs/2506.07897)|null|
+|**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
+|**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697](http://arxiv.org/abs/2506.07697)|null|
+|**2025-06-09**|**ProSplat: Improved Feed-Forward 3D Gaussian Splatting for Wide-Baseline Sparse Views**|Xiaohan Lu et.al.|[2506.07670](http://arxiv.org/abs/2506.07670)|null|
+|**2025-06-09**|**PIG: Physically-based Multi-Material Interaction with 3D Gaussians**|Zeyu Xiao et.al.|[2506.07657](http://arxiv.org/abs/2506.07657)|null|
+|**2025-06-09**|**Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation**|Yijie Deng et.al.|[2506.07338](http://arxiv.org/abs/2506.07338)|null|
+|**2025-06-08**|**Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**|Zhican Wang et.al.|[2506.07069](http://arxiv.org/abs/2506.07069)|null|
+|**2025-06-08**|**Hybrid Mesh-Gaussian Representation for Efficient Indoor Scene Reconstruction**|Binxiao Huang et.al.|[2506.06988](http://arxiv.org/abs/2506.06988)|null|
+|**2025-06-07**|**Gaussian Mapping for Evolving Scenes**|Vladimir Yugay et.al.|[2506.06909](http://arxiv.org/abs/2506.06909)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
 |**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
 |**2025-06-06**|**Lumina: Real-Time Mobile Neural Rendering by Exploiting Computational Redundancy**|Yu Feng et.al.|[2506.05682](http://arxiv.org/abs/2506.05682)|null|
@@ -6085,6 +6108,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Unraveling Ethereum's Mempool: The Impact of Fee Fairness, Transaction Prioritization, and Consensus Efficiency**|S M Mostaq Hossain et.al.|[2506.07988](http://arxiv.org/abs/2506.07988)|null|
+|**2025-06-09**|**LUCIFER: Language Understanding and Context-Infused Framework for Exploration and Behavior Refinement**|Dimitris Panagopoulos et.al.|[2506.07915](http://arxiv.org/abs/2506.07915)|null|
+|**2025-06-09**|**Erbium-implanted WS2 flakes with room-temperature photon emission at telecom wavelengths**|Guadalupe García-Arellano et.al.|[2506.07746](http://arxiv.org/abs/2506.07746)|null|
+|**2025-06-09**|**Federated In-Context Learning: Iterative Refinement for Improved Answer Quality**|Ruhan Wang et.al.|[2506.07440](http://arxiv.org/abs/2506.07440)|null|
+|**2025-06-09**|**The impact of extracurricular education on socioeconomic mobility in Japan: an application of causal machine learning**|Yang Qiang et.al.|[2506.07421](http://arxiv.org/abs/2506.07421)|null|
+|**2025-06-08**|**Analyzing Breast Cancer Survival Disparities by Race and Demographic Location: A Survival Analysis Approach**|Ramisa Farha et.al.|[2506.07191](http://arxiv.org/abs/2506.07191)|null|
+|**2025-06-08**|**Optimal Transport Driven Asymmetric Image-to-Image Translation for Nuclei Segmentation of Histological Images**|Suman Mahapatra et.al.|[2506.07023](http://arxiv.org/abs/2506.07023)|null|
+|**2025-06-08**|**End-to-End Probabilistic Framework for Learning with Hard Constraints**|Utkarsh Utkarsh et.al.|[2506.07003](http://arxiv.org/abs/2506.07003)|null|
+|**2025-06-07**|**Spatial Disparities in Fire Shelter Accessibility: Capacity Challenges in the Palisades and Eaton Fires**|Su Yeon Han et.al.|[2506.06803](http://arxiv.org/abs/2506.06803)|null|
+|**2025-06-06**|**Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception**|Pushyami Kaveti et.al.|[2506.06476](http://arxiv.org/abs/2506.06476)|null|
 |**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262](http://arxiv.org/abs/2506.06262)|null|
 |**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157](http://arxiv.org/abs/2506.06157)|null|
 |**2025-06-06**|**SVD: Spatial Video Dataset**|M. H. Izadimehr et.al.|[2506.06037](http://arxiv.org/abs/2506.06037)|null|
@@ -7706,11 +7739,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886](http://arxiv.org/abs/2506.07886)|null|
+|**2025-06-09**|**Flow-Anything: Learning Real-World Optical Flow Estimation from Large-Scale Single-view Images**|Yingping Liang et.al.|[2506.07740](http://arxiv.org/abs/2506.07740)|null|
+|**2025-06-07**|**Dark Channel-Assisted Depth-from-Defocus from a Single Image**|Moushumi Medhi et.al.|[2506.06643](http://arxiv.org/abs/2506.06643)|null|
 |**2025-06-06**|**NTIRE 2025 Challenge on HR Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2506.05815](http://arxiv.org/abs/2506.05815)|null|
 |**2025-06-06**|**Advancement and Field Evaluation of a Dual-arm Apple Harvesting Robot**|Keyi Zhu et.al.|[2506.05714](http://arxiv.org/abs/2506.05714)|null|
 |**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709](http://arxiv.org/abs/2506.05709)|null|
 |**2025-06-06**|**Aerial Multi-View Stereo via Adaptive Depth Range Inference and Normal Cues**|Yimei Liu et.al.|[2506.05655](http://arxiv.org/abs/2506.05655)|null|
-|**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008](http://arxiv.org/abs/2506.05008)|null|
+|**2025-06-09**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008](http://arxiv.org/abs/2506.05008)|null|
 |**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
 |**2025-06-05**|**Toward Better SSIM Loss for Unsupervised Monocular Depth Estimation**|Yijun Cao et.al.|[2506.04758](http://arxiv.org/abs/2506.04758)|null|
 |**2025-06-04**|**JointSplat: Probabilistic Joint Flow-Depth Optimization for Sparse-View Gaussian Splatting**|Yang Xiao et.al.|[2506.03872](http://arxiv.org/abs/2506.03872)|null|
@@ -8309,6 +8346,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878](http://arxiv.org/abs/2506.07878)|null|
+|**2025-06-09**|**Flow-Anything: Learning Real-World Optical Flow Estimation from Large-Scale Single-view Images**|Yingping Liang et.al.|[2506.07740](http://arxiv.org/abs/2506.07740)|null|
+|**2025-06-09**|**Consistent Video Editing as Flow-Driven Image-to-Video Generation**|Ge Wang et.al.|[2506.07713](http://arxiv.org/abs/2506.07713)|null|
+|**2025-06-08**|**AllTracker: Efficient Dense Point Tracking at High Resolution**|Adam W. Harley et.al.|[2506.07310](http://arxiv.org/abs/2506.07310)|null|
+|**2025-06-08**|**GoTrack: Generic 6DoF Object Pose Refinement and Tracking**|Van Nguyen Nguyen et.al.|[2506.07155](http://arxiv.org/abs/2506.07155)|null|
+|**2025-06-07**|**EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras**|Youssef Farah et.al.|[2506.06596](http://arxiv.org/abs/2506.06596)|null|
 |**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199](http://arxiv.org/abs/2506.06199)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
 |**2025-06-05**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
@@ -8668,13 +8711,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
+|**2025-06-09**|**DragNeXt: Rethinking Drag-Based Image Editing**|Yuan Zhou et.al.|[2506.07611](http://arxiv.org/abs/2506.07611)|null|
+|**2025-06-08**|**AllTracker: Efficient Dense Point Tracking at High Resolution**|Adam W. Harley et.al.|[2506.07310](http://arxiv.org/abs/2506.07310)|null|
 |**2025-06-05**|**FRAME: Pre-Training Video Feature Representations via Anticipation and Memory**|Sethuraman TV et.al.|[2506.05543](http://arxiv.org/abs/2506.05543)|null|
 |**2025-06-08**|**Context Is Not Comprehension**|Alex Pan et.al.|[2506.04907](http://arxiv.org/abs/2506.04907)|null|
 |**2025-06-04**|**Contour Errors: An Ego-Centric Metric for Reliable 3D Multi-Object Tracking**|Sharang Kaul et.al.|[2506.04122](http://arxiv.org/abs/2506.04122)|null|
 |**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335](http://arxiv.org/abs/2506.03335)|null|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
 |**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht et.al.|[2506.02866](http://arxiv.org/abs/2506.02866)|null|
-|**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
+|**2025-06-09**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
 |**2025-06-02**|**UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment**|Heming Zhu et.al.|[2506.01802](http://arxiv.org/abs/2506.01802)|null|
 |**2025-06-02**|**No Train Yet Gain: Towards Generic Multi-Object Tracking in Sports and Beyond**|Tomasz Stanczyk et.al.|[2506.01373](http://arxiv.org/abs/2506.01373)|null|
 |**2025-06-01**|**Depth-Aware Scoring and Hierarchical Alignment for Multiple Object Tracking**|Milad Khanchi et.al.|[2506.00774](http://arxiv.org/abs/2506.00774)|null|
@@ -9135,6 +9181,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-07**|**Dark Channel-Assisted Depth-from-Defocus from a Single Image**|Moushumi Medhi et.al.|[2506.06643](http://arxiv.org/abs/2506.06643)|null|
 |**2025-05-29**|**Dc-EEMF: Pushing depth-of-field limit of photoacoustic microscopy via decision-level constrained learning**|Wangting Zhou et.al.|[2506.03181](http://arxiv.org/abs/2506.03181)|null|
 |**2025-05-31**|**Fovea Stacking: Imaging with Dynamic Localized Aberration Correction**|Shi Mao et.al.|[2506.00716](http://arxiv.org/abs/2506.00716)|null|
 |**2025-05-30**|**High resolution up-conversion imaging in the 10 μm band under incoherent illumination**|Zhao-Qi-Zhi Han et.al.|[2505.24367](http://arxiv.org/abs/2505.24367)|null|
