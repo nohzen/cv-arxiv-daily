@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7989,7 +7989,7 @@ layout: default
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653](http://arxiv.org/abs/2507.01653)|null|
 |**2025-07-02**|**Depth Anything at Any Condition**|Boyuan Sun et.al.|[2507.01634](http://arxiv.org/abs/2507.01634)|null|
 |**2025-07-02**|**DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation**|Yue-Jiang Dong et.al.|[2507.01603](http://arxiv.org/abs/2507.01603)|null|
-|**2025-07-01**|**Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations**|Jack Nugent et.al.|[2507.00981](http://arxiv.org/abs/2507.00981)|null|
+|**2025-07-02**|**Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations**|Jack Nugent et.al.|[2507.00981](http://arxiv.org/abs/2507.00981)|null|
 |**2025-06-30**|**SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures**|Fengyi Jiang et.al.|[2507.00209](http://arxiv.org/abs/2507.00209)|null|
 |**2025-06-30**|**OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving**|Mingqian Ji et.al.|[2506.23565](http://arxiv.org/abs/2506.23565)|null|
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
@@ -8626,7 +8626,7 @@ layout: default
 |**2025-07-01**|**TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency**|Minye Shao et.al.|[2507.00802](http://arxiv.org/abs/2507.00802)|null|
 |**2025-07-01**|**DIJE: Dense Image Jacobian Estimation for Robust Robotic Self-Recognition and Visual Servoing**|Yasunori Toshimitsu et.al.|[2507.00446](http://arxiv.org/abs/2507.00446)|null|
 |**2025-06-30**|**C3VDv2 -- Colonoscopy 3D video dataset with enhanced realism**|Mayank V. Golhar et.al.|[2506.24074](http://arxiv.org/abs/2506.24074)|null|
-|**2025-07-01**|**PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View**|Longliang Liu et.al.|[2506.23897](http://arxiv.org/abs/2506.23897)|null|
+|**2025-07-03**|**PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View**|Longliang Liu et.al.|[2506.23897](http://arxiv.org/abs/2506.23897)|null|
 |**2025-06-30**|**Proteus-ID: ID-Consistent and Motion-Coherent Video Customization**|Guiyu Zhang et.al.|[2506.23729](http://arxiv.org/abs/2506.23729)|null|
 |**2025-06-29**|**MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation**|Vladislav Bargatin et.al.|[2506.23151](http://arxiv.org/abs/2506.23151)|null|
 |**2025-06-26**|**WAFT: Warping-Alone Field Transforms for Optical Flow**|Yihan Wang et.al.|[2506.21526](http://arxiv.org/abs/2506.21526)|null|
