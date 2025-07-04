@@ -5025,6 +5025,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars**|Gent Serifi et.al.|[2507.02803](http://arxiv.org/abs/2507.02803)|null|
+|**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
+|**2025-07-03**|**LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling**|Jiahao Wu et.al.|[2507.02363](http://arxiv.org/abs/2507.02363)|null|
+|**2025-07-03**|**Gbake: Baking 3D Gaussian Splats into Reflection Probes**|Stephen Pasch et.al.|[2507.02257](http://arxiv.org/abs/2507.02257)|null|
 |**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
 |**2025-07-01**|**VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting**|Keiko Nagami et.al.|[2507.01125](http://arxiv.org/abs/2507.01125)|null|
 |**2025-07-01**|**A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory**|Felix Windisch et.al.|[2507.01110](http://arxiv.org/abs/2507.01110)|null|
@@ -6285,6 +6289,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**The Illusion of Fairness: Auditing Fairness Interventions with Audit Studies**|Disa Sariola et.al.|[2507.02152](http://arxiv.org/abs/2507.02152)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
 |**2025-07-02**|**How Do Vision-Language Models Process Conflicting Information Across Modalities?**|Tianze Hua et.al.|[2507.01790](http://arxiv.org/abs/2507.01790)|null|
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653](http://arxiv.org/abs/2507.01653)|null|
@@ -8016,6 +8021,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781](http://arxiv.org/abs/2507.02781)|null|
+|**2025-07-02**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653](http://arxiv.org/abs/2507.01653)|null|
 |**2025-07-02**|**Depth Anything at Any Condition**|Boyuan Sun et.al.|[2507.01634](http://arxiv.org/abs/2507.01634)|null|
 |**2025-07-02**|**DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation**|Yue-Jiang Dong et.al.|[2507.01603](http://arxiv.org/abs/2507.01603)|null|
@@ -8655,6 +8662,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Flow-CDNet: A Novel Network for Detecting Both Slow and Fast Changes in Bitemporal Images**|Haoxuan Li et.al.|[2507.02307](http://arxiv.org/abs/2507.02307)|null|
 |**2025-07-01**|**TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency**|Minye Shao et.al.|[2507.00802](http://arxiv.org/abs/2507.00802)|null|
 |**2025-07-01**|**DIJE: Dense Image Jacobian Estimation for Robust Robotic Self-Recognition and Visual Servoing**|Yasunori Toshimitsu et.al.|[2507.00446](http://arxiv.org/abs/2507.00446)|null|
 |**2025-06-30**|**C3VDv2 -- Colonoscopy 3D video dataset with enhanced realism**|Mayank V. Golhar et.al.|[2506.24074](http://arxiv.org/abs/2506.24074)|null|
@@ -9039,6 +9047,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**CrowdTrack: A Benchmark for Difficult Multiple Pedestrian Tracking in Real Scenarios**|Teng Fu et.al.|[2507.02479](http://arxiv.org/abs/2507.02479)|null|
+|**2025-07-03**|**A Novel Tuning Method for Real-time Multiple-Object Tracking Utilizing Thermal Sensor with Complexity Motion Pattern**|Duong Nguyen-Ngoc Tran et.al.|[2507.02408](http://arxiv.org/abs/2507.02408)|null|
+|**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393](http://arxiv.org/abs/2507.02393)|null|
 |**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
 |**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
 |**2025-07-01**|**UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions**|Siyuan Yao et.al.|[2507.00648](http://arxiv.org/abs/2507.00648)|null|
