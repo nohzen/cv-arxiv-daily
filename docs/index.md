@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8059,12 +8059,12 @@ layout: default
 |**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109](http://arxiv.org/abs/2507.06109)|null|
 |**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
 |**2025-07-07**|**The Generalization Ridge: Information Flow in Natural Language Generation**|Ruidi Chang et.al.|[2507.05387](http://arxiv.org/abs/2507.05387)|null|
-|**2025-07-07**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
+|**2025-07-10**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-06**|**High-Resolution Sustain Pedal Depth Estimation from Piano Audio Across Room Acoustics**|Kun Fang et.al.|[2507.04230](http://arxiv.org/abs/2507.04230)|null|
 |**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781](http://arxiv.org/abs/2507.02781)|null|
-|**2025-07-02**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
+|**2025-07-10**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning with Vision Foundation Models**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653](http://arxiv.org/abs/2507.01653)|null|
 |**2025-07-02**|**Depth Anything at Any Condition**|Boyuan Sun et.al.|[2507.01634](http://arxiv.org/abs/2507.01634)|null|
 |**2025-07-02**|**DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation**|Yue-Jiang Dong et.al.|[2507.01603](http://arxiv.org/abs/2507.01603)|null|
@@ -8705,7 +8705,7 @@ layout: default
 |**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
 |**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
 |**2025-07-07**|**TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation**|Zonglin Lyu et.al.|[2507.04984](http://arxiv.org/abs/2507.04984)|null|
-|**2025-07-07**|**MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry**|Zicheng Lin et.al.|[2507.04750](http://arxiv.org/abs/2507.04750)|null|
+|**2025-07-10**|**MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry**|Zicheng Lin et.al.|[2507.04750](http://arxiv.org/abs/2507.04750)|null|
 |**2025-07-06**|**FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging**|Xin You et.al.|[2507.04547](http://arxiv.org/abs/2507.04547)|null|
 |**2025-07-03**|**Flow-CDNet: A Novel Network for Detecting Both Slow and Fast Changes in Bitemporal Images**|Haoxuan Li et.al.|[2507.02307](http://arxiv.org/abs/2507.02307)|null|
 |**2025-07-01**|**TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency**|Minye Shao et.al.|[2507.00802](http://arxiv.org/abs/2507.00802)|null|
