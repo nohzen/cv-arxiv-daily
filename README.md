@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang et.al.|[2507.08364](http://arxiv.org/abs/2507.08364)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-07-10**|**IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments**|Thanh Nguyen Canh et.al.|[2507.07752](http://arxiv.org/abs/2507.07752)|null|
 |**2025-07-09**|**g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**|Quanjie Qiu et.al.|[2507.07142](http://arxiv.org/abs/2507.07142)|null|
@@ -1054,6 +1055,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-06-30**|**Towards Initialization-free Calibrated Bundle Adjustment**|Carl Olsson et.al.|[2506.23808](http://arxiv.org/abs/2506.23808)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
@@ -1494,6 +1496,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546](http://arxiv.org/abs/2507.08546)|null|
+|**2025-07-11**|**LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**|Haitian Wang et.al.|[2507.08420](http://arxiv.org/abs/2507.08420)|null|
+|**2025-07-11**|**Deep Hashing with Semantic Hash Centers for Image Retrieval**|Li Chen et.al.|[2507.08404](http://arxiv.org/abs/2507.08404)|null|
+|**2025-07-08**|**Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis**|Li Li et.al.|[2507.08021](http://arxiv.org/abs/2507.08021)|null|
 |**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467](http://arxiv.org/abs/2507.07467)|null|
 |**2025-07-10**|**VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching**|Yu Chen et.al.|[2507.07384](http://arxiv.org/abs/2507.07384)|null|
 |**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
@@ -5058,6 +5064,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
+|**2025-07-11**|**RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting**|Ji Hyun Seo et.al.|[2507.08434](http://arxiv.org/abs/2507.08434)|null|
+|**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
+|**2025-07-10**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136](http://arxiv.org/abs/2507.08136)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/abs/2507.07733)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 |**2025-07-10**|**SD-GS: Structured Deformable 3D Gaussians for Efficient Dynamic Scene Reconstruction**|Wei Yao et.al.|[2507.07465](http://arxiv.org/abs/2507.07465)|null|
@@ -6344,6 +6354,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
+|**2025-07-11**|**PanMatch: Unleashing the Potential of Large Vision Models for Unified Matching Models**|Yongjian Zhang et.al.|[2507.08400](http://arxiv.org/abs/2507.08400)|null|
+|**2025-07-10**|**Highly accurate simulations of asymmetric black-hole scattering and cross validation of effective-one-body models**|Oliver Long et.al.|[2507.08071](http://arxiv.org/abs/2507.08071)|null|
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
 |**2025-07-10**|**On-Manifold Low-Thrust Maneuvering of Quasi-Periodic Orbits**|Ian M. Down et.al.|[2507.07940](http://arxiv.org/abs/2507.07940)|null|
 |**2025-07-10**|**TRIX- Trading Adversarial Fairness via Mixed Adversarial Training**|Tejaswini Medi et.al.|[2507.07768](http://arxiv.org/abs/2507.07768)|null|
@@ -8108,6 +8121,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Rajarshi Roy et.al.|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
+|**2025-07-10**|**An Embedded Real-time Object Alert System for Visually Impaired: A Monocular Depth Estimation based Approach through Computer Vision**|Jareen Anjom et.al.|[2507.08165](http://arxiv.org/abs/2507.08165)|null|
 |**2025-07-10**|**Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation**|Peixian Zhuang et.al.|[2507.07687](http://arxiv.org/abs/2507.07687)|null|
 |**2025-07-10**|**HOTA: Hierarchical Overlap-Tiling Aggregation for Large-Area 3D Flood Mapping**|Wenfeng Jia et.al.|[2507.07585](http://arxiv.org/abs/2507.07585)|null|
 |**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109](http://arxiv.org/abs/2507.06109)|null|
@@ -8758,6 +8773,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu et.al.|[2507.08690](http://arxiv.org/abs/2507.08690)|null|
+|**2025-07-11**|**PanMatch: Unleashing the Potential of Large Vision Models for Unified Matching Models**|Yongjian Zhang et.al.|[2507.08400](http://arxiv.org/abs/2507.08400)|null|
+|**2025-07-11**|**MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**|Jihao Gu et.al.|[2507.08344](http://arxiv.org/abs/2507.08344)|null|
 |**2025-07-10**|**X-RAFT: Cross-Modal Non-Rigid Registration of Blue and White Light Neurosurgical Hyperspectral Images**|Charlie Budd et.al.|[2507.07747](http://arxiv.org/abs/2507.07747)|null|
 |**2025-07-09**|**mmFlux: Crowd Flow Analytics with Commodity mmWave MIMO Radar**|Anurag Pallaprolu et.al.|[2507.07331](http://arxiv.org/abs/2507.07331)|null|
 |**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
@@ -9150,6 +9168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
 |**2025-07-10**|**HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking**|Ruixiang Chen et.al.|[2507.07603](http://arxiv.org/abs/2507.07603)|null|
 |**2025-07-10**|**Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**|Qiangqiang Wu et.al.|[2507.07483](http://arxiv.org/abs/2507.07483)|null|
 |**2025-07-08**|**When Trackers Date Fish: A Benchmark and Framework for Underwater Multiple Fish Tracking**|Weiran Li et.al.|[2507.06400](http://arxiv.org/abs/2507.06400)|null|
