@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9164,7 +9164,7 @@ layout: default
 |**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir et.al.|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
 |**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
 |**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
-|**2025-07-10**|**HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking**|Ruixiang Chen et.al.|[2507.07603](http://arxiv.org/abs/2507.07603)|null|
+|**2025-07-14**|**HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking**|Ruixiang Chen et.al.|[2507.07603](http://arxiv.org/abs/2507.07603)|null|
 |**2025-07-10**|**Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**|Qiangqiang Wu et.al.|[2507.07483](http://arxiv.org/abs/2507.07483)|null|
 |**2025-07-08**|**When Trackers Date Fish: A Benchmark and Framework for Underwater Multiple Fish Tracking**|Weiran Li et.al.|[2507.06400](http://arxiv.org/abs/2507.06400)|null|
 |**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
